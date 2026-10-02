@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Request a blitz of a scanned crossword
+    url: https://github.com/EveryPuzzleProject/blitz/issues/new?template=request-blitz.yml
+    about: You know where a specific scanned puzzle is and would like it transcribed.

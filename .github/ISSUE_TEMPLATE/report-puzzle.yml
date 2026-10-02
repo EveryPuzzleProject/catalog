@@ -1,0 +1,53 @@
+name: Report a puzzle
+description: You've seen a crossword somewhere. Tell us where and when; it helps map what exists.
+title: "Puzzle: "
+labels: [sighting]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Every report helps. One puzzle in June 1994 tells us a publication ran crosswords then;
+        another in 1996 gives us a range. No link needed: a paper copy in front of you counts.
+  - type: input
+    id: publication
+    attributes:
+      label: Publication
+      description: Newspaper, magazine, book or website.
+      placeholder: "Wine Spectator"
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date or issue
+      description: As exact as you can. For a book, the year and edition.
+      placeholder: "June 18, 1994"
+    validations:
+      required: true
+  - type: input
+    id: puzzle
+    attributes:
+      label: The puzzle
+      description: Title, number, constructor or editor, if you know.
+      placeholder: "\"Grape Expectations\" by so-and-so"
+  - type: dropdown
+    id: seen
+    attributes:
+      label: Where did you see it?
+      options:
+        - I have a paper copy
+        - Online (link below)
+        - In a library or archive
+        - I remember it
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Link or photo (optional)
+      description: A link to a scan or page, or drag a photo of the puzzle here.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Other dates you know it ran, where the answers were, how long the run lasted…

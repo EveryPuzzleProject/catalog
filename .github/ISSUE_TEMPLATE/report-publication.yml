@@ -1,0 +1,73 @@
+name: Report a publication
+description: A newspaper, magazine, book or website that printed crosswords
+title: "Publication: "
+labels: [lead]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping complete the catalog! Fill in what you know; partial answers are fine.
+        Someone will check it and add an entry.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: The publication's name, as it was printed.
+      placeholder: "New York World"
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      options:
+        - Newspaper
+        - Magazine
+        - Book or book series
+        - Website
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: place
+    attributes:
+      label: Where it was published
+      placeholder: "New York, US"
+  - type: input
+    id: years
+    attributes:
+      label: Years it ran crosswords
+      description: Best guess is fine.
+      placeholder: "1913–1931"
+  - type: textarea
+    id: crosswords
+    attributes:
+      label: About its crosswords
+      description: How often, numbered or not, where the answers ran, editors or constructors, anything unusual.
+  - type: textarea
+    id: sources
+    attributes:
+      label: Where can it be found?
+      description: |
+        Scans, archives, libraries, the website itself. Links help, one per line.
+        For example: Internet Archive, Chronicling America, HathiTrust, Google Books, newspapers.com, a library's microfilm.
+  - type: dropdown
+    id: access
+    attributes:
+      label: Who can see it?
+      options:
+        - Anyone (free online)
+        - Subscribers only
+        - Only at a library or archive
+        - Not sure
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Can you help with it?
+      options:
+        - label: I have access to scans or copies
+        - label: I can research it further
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
