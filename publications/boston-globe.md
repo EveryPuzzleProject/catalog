@@ -17,7 +17,7 @@ carries:
 sources:
   - where: Newspapers.com
     url: https://www.newspapers.com/
-    covers: "puzzle pages 1917–1936 checked; Sunday issues are missing from 1925 on, an archive gap (Alex DeJarnatt, 2026-10-05), so Sunday puzzles after that need another source"
+    covers: "puzzle pages 1917–1936 checked; Sunday issues are missing from 1925 to June 1943 (they return July 1943), an archive gap (Alex DeJarnatt, 2026-10-05), so Sunday puzzles after that need another source"
     access: subscription
   - where: gxd (Saul Pwanson's crossword corpus, private)
     covers: "786 puzzles, nearly all Sundays: one from 1917, 1980–1988 (sparse), 1998–2003, 2006–2015 (nearly complete)"
@@ -95,7 +95,7 @@ Open questions:
 - Were the Globe's 1931–1963 issues' copyrights renewed? If not, these
   puzzles are public domain too.
 - When did the Sunday puzzle move into the Globe Magazine?
-- Where are Sunday issues from 1925 on? Newspapers.com lacks
+- Where are Sunday issues from 1925 to mid-1943? Newspapers.com lacks
   them. Is the Sunday Globe filed there under a separate title? Otherwise:
   ProQuest Historical Newspapers (has a Boston Globe collection; coverage to check), library microfilm,
   and whether the Sunday magazine was filmed at all.
