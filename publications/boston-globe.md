@@ -20,7 +20,7 @@ sources:
     covers: "puzzle pages 1917–1936 checked; Sunday issues are missing from 1925 to June 1943 (they return July 1943), an archive gap (Alex DeJarnatt, 2026-10-05), so Sunday puzzles in that span need another source"
     access: subscription
   - where: gxd (Saul Pwanson's crossword corpus, private)
-    covers: "786 puzzles, nearly all Sundays: one from 1917, 1980–1988 (sparse), 1998–2003, 2006–2015 (nearly complete). Dates for at least 2012–2015 are 49 days late: print shows GET LUCKY 2015-03-15, INITIAL IMPRESSIONS 2015-04-05, IMPORT-ANT 2015-04-19, ALIEN ENCOUNTER 2015-05-03, I DEMAND A RAISE 2015-05-17, WEATHERWISE 2015-05-24 and WHODUNIT 2015-05-31, each 7 weeks before gxd's date (Alex DeJarnatt, Newspapers.com, 2026-10-05)"
+    covers: "786 puzzles, nearly all Sundays: one from 1917, 1980–1988 (sparse), 1998–2003, 2006–2015 (nearly complete). Dates for at least 2012–2015 are 49 days late: print shows DECONSTRUCTION 2015-01-25, GET LUCKY 2015-03-15, INITIAL IMPRESSIONS 2015-04-05, IMPORT-ANT 2015-04-19, ALIEN ENCOUNTER 2015-05-03, I DEMAND A RAISE 2015-05-17, WEATHERWISE 2015-05-24 and WHODUNIT 2015-05-31, each 7 weeks before gxd's date (Alex DeJarnatt, Newspapers.com, 2026-10-05)"
     access: unknown
   - where: Wayback Machine snapshots of the Globe's old crossword pages
     url: https://web.archive.org/web/*/bostonglobe.com/lifestyle/crossword*
