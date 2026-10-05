@@ -28,7 +28,7 @@ sources:
     access: free
   - where: Boston Globe games site (Puzzmo)
     url: https://www.bostonglobe.com/games/crossword
-    covers: 2024-02-23 to now (daily and Sunday)
+    covers: "2024-02-23 to now: 954 puzzles by 2026-10-05, weekdays Universal (Andrews McMeel), 135 Sundays by Joon Pahk and Brendan Emmett Quigley alternating; no puzzle listed 2024-08-18 or 2024-09-22. Index: api.puzzmo.com/team/v1/boston-globe-amlaj/queues/crossword/puzzles?startDate=YYYY-MM-DD&days=N (id, name, publishDate, authors); content as xd: api.puzzmo.com/graphql, { puzzle(id: ...) { id name puzzle } } (both from Orta at Puzzmo, 2026-10-05)"
     access: free
 sightings:
   - date: 1917-02-25
