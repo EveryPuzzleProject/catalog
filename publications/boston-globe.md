@@ -68,7 +68,7 @@ sightings:
     puzzle: daily crossword still running; no attribution or copyright line
     seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-05
   - date: 2016-02-14
-    puzzle: 'two Cox and Rathvon puzzles on facing pages: LOVERS (the 21x21 crossword, also on the website that day) and ANAGRAM PAIRS (print only; type to check)'
+    puzzle: 'two Cox and Rathvon puzzles on facing pages: LOVERS (the 21x21 crossword, also on the website that day) and ANAGRAM PAIRS, a 21x21 themed crossword headed "THE GLOBE PUZZLE" on magazine p. 80, answers on p. 76 (print only; never on the website)'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05
 status: researched
 ---
