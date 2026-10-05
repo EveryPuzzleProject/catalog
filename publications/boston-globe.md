@@ -17,7 +17,7 @@ carries:
 sources:
   - where: Newspapers.com
     url: https://www.newspapers.com/
-    covers: "puzzle pages 1917–1936 checked; Sunday issues are missing from 1925 to June 1943 (they return July 1943), an archive gap (Alex DeJarnatt, 2026-10-05), so Sunday puzzles after that need another source"
+    covers: "puzzle pages 1917–1936 checked; Sunday issues are missing from 1925 to June 1943 (they return July 1943), an archive gap (Alex DeJarnatt, 2026-10-05), so Sunday puzzles in that span need another source"
     access: subscription
   - where: gxd (Saul Pwanson's crossword corpus, private)
     covers: "786 puzzles, nearly all Sundays: one from 1917, 1980–1988 (sparse), 1998–2003, 2006–2015 (nearly complete)"
