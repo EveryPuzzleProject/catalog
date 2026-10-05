@@ -6,8 +6,8 @@ place: Boston
 crosswords:
   first: 1917-02-25
   last: ongoing
-  frequency: "Sunday from 1917; Saturday added 1923-05-26; Wednesday added 1924-02-06; daily (Mon–Fri) from 1924-10-06, alongside separate Saturday and Sunday series; still daily in December 1935, labeled \"The Globe Cross-Word Puzzle\" with no sign of syndication. Later the Sunday puzzle moved into the Globe Magazine"
-  answers: "daily series: the next day (Friday's on Monday); Wednesday series: the next Wednesday; Saturday and Sunday series: probably the following week (to confirm)"
+  frequency: "Sunday from 1917; Saturday added 1923-05-26; Wednesday added 1924-02-06; daily (Mon–Fri) from 1924-10-06, alongside separate Saturday and Sunday series; still daily in December 1935, labeled \"The Globe Cross-Word Puzzle\" with no sign of syndication. By 1936 Saturday had joined the daily (Mon–Sat; Saturday's puzzle says \"Solution next Monday\"); when between late 1924 and 1936 is unknown. Later the Sunday puzzle moved into the Globe Magazine"
+  answers: "daily series: the next day (Friday's on Monday while Saturday was separate; Saturday's on Monday by 1936); Wednesday series: the next Wednesday; Saturday and Sunday series: probably the following week (to confirm)"
   constructors: "Sunday constructors include Henry Hook, Jordan S. Lasher, Emily Cox and Henry Rathvon, Brendan Emmett Quigley (from 2015-08, alternating with Cox and Rathvon) and Joon Pahk (gxd bostonglobe/; Wayback snapshots; Globe help center)"
 carries:
   - feature: Universal Crossword (Universal Press Syndicate, later Andrews McMeel Syndication), as the online weekday "Globe crossword"
@@ -58,6 +58,9 @@ sightings:
   - date: 1935-12
     puzzle: 'daily puzzle still running, labeled "The Globe Cross-Word Puzzle"; no syndicate credit'
     seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-05
+  - date: 1936
+    puzzle: 'Saturday puzzle marked "Solution next Monday", so Saturday is now part of the daily series'
+    seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-05
 status: researched
 ---
 
@@ -85,8 +88,10 @@ over puzzles from February 2024 on.
 Open questions:
 - Did the Sunday series run continuously from 1917 to 1923, or stop and
   restart?
-- When did the daily end (still running, in-house, in December 1935), and
-  when did the Saturday series end?
+- When did the daily end (still running, in-house, in December 1935)?
+- When did the Saturday series fold into the daily (separate in November
+  1924, part of the daily by 1936)? Look for the first Monday paper that
+  prints Saturday's solution.
 - Were the Globe's 1931–1963 issues' copyrights renewed? If not, these
   puzzles are public domain too.
 - When did the Sunday puzzle move into the Globe Magazine?
