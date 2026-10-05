@@ -41,7 +41,7 @@ This part is rebuilt automatically.
 <!-- universe:start -->
 | Kind | Entries | With a puzzle count |
 |---|---|---|
-| newspaper | 19 | 0 |
+| newspaper | 20 | 0 |
 | magazine | 2 | 0 |
 
 Puzzles in entries that give a run and a yearly count: about 0. This is a floor, not an estimate: it only counts what the catalog knows.

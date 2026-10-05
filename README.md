@@ -31,12 +31,13 @@ far the project has got with it.
 ## The catalog
 
 <!-- catalog:start -->
-**21 publications so far** (14 lead, 5 researched, 1 harvesting, 1 blitzing).
+**22 publications so far** (14 lead, 6 researched, 1 harvesting, 1 blitzing).
 
 | Publication | Kind | Where | Crosswords | Scans | Status |
 |---|---|---|---|---|---|
 | [Judge](publications/judge.md) | magazine | New York | 1924–unknown | [Internet Archive](https://archive.org/details/pub_judge) | blitzing |
 | [GAMES](publications/games.md) | magazine | US | 1977–ongoing | [Internet Archive](https://archive.org/details/games_magazine) | harvesting |
+| [The Boston Globe](publications/boston-globe.md) | newspaper | Boston | 1917–ongoing · 8 sightings | [Newspapers.com](https://www.newspapers.com/), gxd (Saul Pwanson's crossword corpus, private), [Wayback Machine snapshots of the Globe's old crossword pages](https://web.archive.org/web/*/bostonglobe.com/lifestyle/crossword*), [Boston Globe games site (Puzzmo)](https://www.bostonglobe.com/games/crossword) | researched |
 | [The Daily Collegian (Penn State)](publications/daily-collegian-penn-state.md) | newspaper | State College, Pennsylvania | 1976–1981 · 4 sightings | [Historical Digital Collegian Archive (Penn State University Libraries)](https://libraries.psu.edu/databases/psu00795) | researched |
 | [The Daily Pennsylvanian](publications/daily-pennsylvanian.md) | newspaper | Philadelphia | unknown–ongoing | [Daily Pennsylvanian archives (University of Pennsylvania Libraries)](https://dparchives.library.upenn.edu/) | researched |
 | [The Daily Princetonian](publications/daily-princetonian.md) | newspaper | Princeton, New Jersey | unknown–ongoing | [Dupraz Digital Archives of the Daily Princetonian (Princeton University Library)](http://theprince.princeton.edu/) | researched |
