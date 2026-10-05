@@ -8,7 +8,7 @@ crosswords:
   last: ongoing
   frequency: "Sunday from 1917; Saturday added 1923-05-26; Wednesday added 1924-02-06; daily (Mon–Fri) from 1924-10-06, alongside separate Saturday and Sunday series; still daily in December 1935, labeled \"The Globe Cross-Word Puzzle\" with no sign of syndication. By 1936 Saturday had joined the daily (Mon–Sat; Saturday's puzzle says \"Solution next Monday\"); when between late 1924 and 1936 is unknown. Still daily in 1970, with no attribution or copyright line, so whether it was still made in-house is unknown. Later the Sunday puzzle moved into the Globe Magazine"
   answers: "daily series: the next day (Friday's on Monday while Saturday was separate; Saturday's on Monday by 1936); Wednesday series: the next Wednesday; Saturday and Sunday series: probably the following week (to confirm)"
-  constructors: "Sunday constructors include Henry Hook, Jordan S. Lasher, Emily Cox and Henry Rathvon, Brendan Emmett Quigley (from 2015-08, alternating with Cox and Rathvon) and Joon Pahk (from at least 2022-04-17, alternating with Quigley; Cox and Rathvon last seen 2022-05-01) (gxd bostonglobe/; Wayback snapshots; Globe help center)"
+  constructors: "Sunday constructors include Henry Hook (died 2015; editor's note in the 2015-11-01 Globe), Jordan S. Lasher, Emily Cox and Henry Rathvon, Brendan Emmett Quigley (from 2015-08, alternating with Cox and Rathvon) and Joon Pahk (from at least 2022-04-17, alternating with Quigley; Cox and Rathvon last seen 2022-05-01) (gxd bostonglobe/; Wayback snapshots; Globe help center)"
 carries:
   - feature: Universal Crossword (Universal Press Syndicate, later Andrews McMeel Syndication), as the online weekday "Globe crossword"
     from: 2015-02
@@ -20,7 +20,7 @@ sources:
     covers: "puzzle pages 1917–1936 checked; Sunday issues are missing from 1925 to June 1943 (they return July 1943), an archive gap (Alex DeJarnatt, 2026-10-05), so Sunday puzzles in that span need another source"
     access: subscription
   - where: gxd (Saul Pwanson's crossword corpus, private)
-    covers: "786 puzzles, nearly all Sundays: one from 1917, 1980–1988 (sparse), 1998–2003, 2006–2015 (nearly complete)"
+    covers: "786 puzzles, nearly all Sundays: one from 1917, 1980–1988 (sparse), 1998–2003, 2006–2015 (nearly complete). Dates for at least 2012–2015 are 49 days late: print shows GET LUCKY 2015-03-15, INITIAL IMPRESSIONS 2015-04-05, IMPORT-ANT 2015-04-19, ALIEN ENCOUNTER 2015-05-03, I DEMAND A RAISE 2015-05-17, WEATHERWISE 2015-05-24 and WHODUNIT 2015-05-31, each 7 weeks before gxd's date (Alex DeJarnatt, Newspapers.com, 2026-10-05)"
     access: unknown
   - where: Wayback Machine snapshots of the Globe's old crossword pages
     url: https://web.archive.org/web/*/bostonglobe.com/lifestyle/crossword*
