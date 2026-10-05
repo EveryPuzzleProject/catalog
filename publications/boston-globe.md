@@ -6,7 +6,7 @@ place: Boston
 crosswords:
   first: 1917-02-25
   last: ongoing
-  frequency: "Sunday from 1917; Saturday added 1923-05-26; Wednesday added 1924-02-06; daily (Mon–Fri) from 1924-10-06, alongside separate Saturday and Sunday series. Later the Sunday puzzle moved into the Globe Magazine"
+  frequency: "Sunday from 1917; Saturday added 1923-05-26; Wednesday added 1924-02-06; daily (Mon–Fri) from 1924-10-06, alongside separate Saturday and Sunday series; still daily in December 1935, labeled \"The Globe Cross-Word Puzzle\" with no sign of syndication. Later the Sunday puzzle moved into the Globe Magazine"
   answers: "daily series: the next day (Friday's on Monday); Wednesday series: the next Wednesday; Saturday and Sunday series: probably the following week (to confirm)"
   constructors: "Sunday constructors include Henry Hook, Jordan S. Lasher, Emily Cox and Henry Rathvon, Brendan Emmett Quigley (from 2015-08, alternating with Cox and Rathvon) and Joon Pahk (gxd bostonglobe/; Wayback snapshots; Globe help center)"
 carries:
@@ -55,6 +55,9 @@ sightings:
   - date: 1924-11-03
     puzzle: 'Monday puzzle, with "solution to last Friday''s puzzle"'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05
+  - date: 1935-12
+    puzzle: 'daily puzzle still running, labeled "The Globe Cross-Word Puzzle"; no syndicate credit'
+    seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-05
 status: researched
 ---
 
@@ -82,7 +85,10 @@ over puzzles from February 2024 on.
 Open questions:
 - Did the Sunday series run continuously from 1917 to 1923, or stop and
   restart?
-- When did the daily end, and when did the Saturday series end?
+- When did the daily end (still running, in-house, in December 1935), and
+  when did the Saturday series end?
+- Were the Globe's 1931–1963 issues' copyrights renewed? If not, these
+  puzzles are public domain too.
 - When did the Sunday puzzle move into the Globe Magazine?
 - Do the Saturday and Sunday answers run the following week?
 - Who made the early puzzles? Are there bylines?
