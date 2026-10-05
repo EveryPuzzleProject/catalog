@@ -67,6 +67,9 @@ sightings:
   - date: 1970
     puzzle: daily crossword still running; no attribution or copyright line
     seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-05
+  - date: 2016-02-14
+    puzzle: 'two Cox and Rathvon puzzles on facing pages: LOVERS (the 21x21 crossword, also on the website that day) and ANAGRAM PAIRS (print only; type to check)'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05
 status: researched
 ---
 
