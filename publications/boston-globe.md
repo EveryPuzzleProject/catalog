@@ -61,6 +61,9 @@ sightings:
   - date: 1936
     puzzle: 'Saturday puzzle marked "Solution next Monday", so Saturday is now part of the daily series'
     seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-05
+  - date: 1947
+    puzzle: 'for a while the daily is headed "Crossword Puzzle" and the Sunday "Cross-word Puzzle", so the heading tells the two series apart'
+    seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-05
 status: researched
 ---
 
