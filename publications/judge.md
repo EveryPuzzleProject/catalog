@@ -17,7 +17,7 @@ sources:
     access: free
   - where: newspapers carrying "Cross Word Funnies, selected by Judge" (copyright 1925)
     url: https://www.newspapers.com/
-    covers: "early 1925: Boston Globe 1925-01-21 to 02-28; The Province (Vancouver) 1925-01-31; Hamilton Spectator, Buffalo Courier, St. Joseph Gazette and a Fremont, Nebraska paper 1925-02-07; The Province again 1925-02-07"
+    covers: "January to May 1925 (last found: Philadelphia Inquirer, 1925-05-30): Boston Globe 1925-01-21 to 02-28; The Province (Vancouver) 1925-01-31; Hamilton Spectator, Buffalo Courier, St. Joseph Gazette and a Fremont, Nebraska paper 1925-02-07; The Province again 1925-02-07"
     access: subscription
 sightings:
   - date: 1925-01-21
@@ -37,9 +37,11 @@ A humor magazine. Its first crossword ran on November 1, 1924, billed as the
 first of a weekly series of "Home Destroyers". Two weeks later the whole cover
 was a crossword. About 500 puzzles have been found in the scans so far.
 
-Judge syndicated its puzzles. In early 1925 newspapers ran them as "Cross
-Word Funnies, selected by Judge" (copyright 1925), six to twelve weeks after
-Judge printed them, usually with the solution in the next day's paper. The
+Judge syndicated its puzzles. From January to May 1925 newspapers ran them
+as "Cross Word Funnies, selected by Judge" (copyright 1925); the last
+Newspapers.com hit is the Philadelphia Inquirer of 1925-05-30, and there are
+none from 1924 or 1926. The puzzles ran at first six to twelve weeks
+after Judge printed them, usually with the solution in the next day's paper. The
 Boston Globe ran Nos. 1, 2, 6 and 8 in January 1925 and The Province
 (Vancouver) ran No. 2 on January 31. From February the "Funnies" found so
 far (the Globe's, and the Hamilton Spectator's and Buffalo Courier's of
@@ -61,14 +63,13 @@ Globe's reprints also showed that the harvest had missed No. 6 (1924-12-06)
 and No. 16 (1925-02-14), both of which are in the scans.
 
 Open questions:
-- Which papers carried "Cross Word Funnies, selected by Judge", and for how
-  long? Searching newspaper archives for the phrase, or for a distinctive
+- Which papers carried "Cross Word Funnies, selected by Judge" (January to
+  May 1925)? Searching newspaper archives for the phrase, or for a distinctive
   clue, finds them. Does any carry No. 5, or other numbered puzzles missing
   from the scans?
 - The "Funnies" that match no numbered Judge puzzle (February 1925 on):
   syndicate originals under Judge's name? If so they're a series of their
-  own, worth collecting across papers. How many were there, and how long did
-  the feature last? US and Canadian papers ran different puzzles on the same day
+  own, worth collecting across papers. How many were there? US and Canadian papers ran different puzzles on the same day
   (1925-02-07): how far does that hold? Watch for papers that paired a grid with the
   wrong clues (St. Joseph Gazette, 1925-02-07): use them for clues only.
 - The scans end in 1939, but the magazine ran on. When did the crossword stop,
