@@ -8,7 +8,8 @@ crosswords:
   last: ongoing
   frequency: "Sunday from 1917; Saturday added 1923-05-26; Wednesday added 1924-02-06; daily (Mon–Fri) from 1924-10-06, alongside separate Saturday and Sunday series; still daily in December 1935, labeled \"The Globe Cross-Word Puzzle\" with no sign of syndication. By 1936 Saturday had joined the daily (Mon–Sat; Saturday's puzzle says \"Solution next Monday\"); when between late 1924 and 1936 is unknown. Still daily in 1970, with no attribution or copyright line, so whether it was still made in-house is unknown. Later the Sunday puzzle moved into the Globe Magazine"
   answers: "daily series: the next day (Friday's on Monday while Saturday was separate; Saturday's on Monday by 1936); Wednesday series: the next Wednesday; Saturday and Sunday series: probably the following week (to confirm)"
-  constructors: "Sunday constructors include Henry Hook (died 2015; editor's note in the 2015-11-01 Globe), Jordan S. Lasher, Emily Cox and Henry Rathvon, Brendan Emmett Quigley (from 2015-08, alternating with Cox and Rathvon) and Joon Pahk (from at least 2022-04-17, alternating with Quigley; Cox and Rathvon last seen 2022-05-01) (gxd bostonglobe/; Wayback snapshots; Globe help center)"
+  constructors: "Sunday constructors include Jordan S. Lasher (1980s), Emily Cox and Henry Rathvon, Henry Hook (alternating weekly with Cox and Rathvon through 2015; last seen 2015-05-31; died 2015, editor's note in the 2015-11-01 Globe), Elizabeth C. Gorski (2008-08-10 to 2008-11-16, alternating with Hook while Cox and Rathvon were away), Brendan Emmett Quigley (from 2015-06-14, alternating with Cox and Rathvon) and Joon Pahk (from at least 2022-04-17, alternating with Quigley; Cox and Rathvon last seen 2022-05-01) (Newspapers.com print checks; gxd bostonglobe/; Wayback snapshots; Globe help center)"
+  syndication: "the Sunday puzzle was syndicated, at least 2003–2015, to LA Weekly and others, running weeks after the Globe (0 to 56 days; 49 from 2009), with some holiday puzzles held a year. gxd's 2003–2015 files were dated by that syndicated run until corrected (see sources)"
 carries:
   - feature: Universal Crossword (Universal Press Syndicate, later Andrews McMeel Syndication), as the online weekday "Globe crossword"
     from: 2015-02
@@ -20,7 +21,7 @@ sources:
     covers: "puzzle pages 1917–1936 checked; Sunday issues are missing from 1925 to June 1943 (they return July 1943), an archive gap (Alex DeJarnatt, 2026-10-05), so Sunday puzzles in that span need another source"
     access: subscription
   - where: gxd (Saul Pwanson's crossword corpus, private)
-    covers: "786 puzzles, nearly all Sundays: one from 1917, 1980–1988 (sparse), 1998–2003, 2006–2015 (nearly complete). Dates for at least 2012–2015 are 49 days late: print shows DECONSTRUCTION 2015-01-25, GET LUCKY 2015-03-15, INITIAL IMPRESSIONS 2015-04-05, IMPORT-ANT 2015-04-19, ALIEN ENCOUNTER 2015-05-03, I DEMAND A RAISE 2015-05-17, WEATHERWISE 2015-05-24 and WHODUNIT 2015-05-31, each 7 weeks before gxd's date (Alex DeJarnatt, Newspapers.com, 2026-10-05)"
+    covers: "786 puzzles, nearly all Sundays: one from 1917, 1980–1988 (sparse), 1998–2015 (2003-01 to 2015-10 complete except 9 Sundays). The 2003–2015 files were dated by a syndicated run (181 built from LA Weekly .puz files), 0 to 56 days after the Globe, 49 from March 2009, with some holiday puzzles a year late; checked Sunday by Sunday against print for 2003–2009 and by spot checks after (Alex DeJarnatt, Newspapers.com, 2026-10-05). Fix pending as gxd branch fix-bostonglobe-dates: re-dates 661 files, drops 3 syndication reruns of 2002 puzzles, corrects titles and bylines, adds bg2004-12-19a and bg2016-02-14a. Pre-2003 dates spot-checked and correct. Missing Sundays and 3 files with no solution listed in xword-ocr harvests/bostonglobe/missing-for-blitz.md"
     access: unknown
   - where: Wayback Machine snapshots of the Globe's old crossword pages
     url: https://web.archive.org/web/*/bostonglobe.com/lifestyle/crossword*
@@ -67,6 +68,18 @@ sightings:
   - date: 1970
     puzzle: daily crossword still running; no attribution or copyright line
     seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-05
+  - date: 2003-04-20
+    puzzle: 'Easter Parade by Henry Hook, on Easter Sunday; the syndicated copy in gxd is dated 2004-04-11, held a year for the next Easter'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05
+  - date: 2004-12-19
+    puzzle: 'two Cox and Rathvon puzzles: It''s the Thought (the regular Sunday crossword) and Diamond Heaven, a diamond-shaped Red Sox puzzle headed "The Globe Puzzle" (Globe Magazine p. 53, answers p. 43; the printed solution has JOHNNY and ONEON where the clues call for AGENCY and GREEN)'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05
+  - date: 2007-04-29
+    puzzle: 'an untitled, uncredited 15x15 in the TV Week insert, besides the Sunday crossword (also 2007-12-09); a separate series, not yet looked into'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05
+  - date: 2015-10-18
+    puzzle: 'two Sunday crosswords: WITH STYLE by Brendan Emmett Quigley and OPERA REVIEW by Emily Cox and Henry Rathvon'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05; OPERA REVIEW also on the Wayback snapshot of 2015-10-18
   - date: 2016-02-14
     puzzle: 'two Cox and Rathvon puzzles on facing pages: LOVERS (the 21x21 crossword, also on the website that day) and ANAGRAM PAIRS, a 21x21 themed crossword headed "THE GLOBE PUZZLE" on magazine p. 80, answers on p. 76 (print only; never on the website)'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05
@@ -87,6 +100,11 @@ running, that could be 2,000 or more puzzles; how long the daily lasted is
 the biggest unknown.
 
 In later years only the Sunday (Globe Magazine) puzzle is the Globe's own.
+It was syndicated too: from at least 2003 to 2015 LA Weekly and other papers
+ran it weeks later (49 days later from 2009), and held some holiday puzzles
+over to the next year. The copies most collections have came from that
+syndicated run, so their dates are the syndicated dates, not the Globe's;
+check Globe dates against print.
 Online, at least from 2015 to 2024, the weekday "Globe crossword" was the
 syndicated Universal Crossword. The Globe's online archive before 2024 is
 gone (its per-puzzle pages, `games-comics/crossword/BGPZyyyymmdd.puz.html`,
@@ -113,3 +131,7 @@ Open questions:
 - Do the Saturday and Sunday answers run the following week?
 - Who made the early puzzles? Are there bylines?
 - What filled 1931–1979? gxd has nothing between 1917 and 1980.
+- Where is the Globe Magazine on Newspapers.com from about August 2012?
+  Title searches stop finding the Sunday puzzle then (2013 issues turn up
+  only sometimes); 2009-04-05 is missing outright.
+- Which papers besides LA Weekly carried the Sunday puzzle, and from when?
