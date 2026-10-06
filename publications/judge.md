@@ -17,7 +17,7 @@ sources:
     access: free
   - where: newspapers carrying "Cross Word Funnies, selected by Judge" (copyright 1925)
     url: https://www.newspapers.com/
-    covers: "early 1925: Boston Globe 1925-01-21 to 02-28; The Province (Vancouver) 1925-01-31; Hamilton Spectator, Buffalo Courier and a Fremont, Nebraska paper 1925-02-07"
+    covers: "early 1925: Boston Globe 1925-01-21 to 02-28; The Province (Vancouver) 1925-01-31; Hamilton Spectator, Buffalo Courier, St. Joseph Gazette and a Fremont, Nebraska paper 1925-02-07; The Province again 1925-02-07"
     access: subscription
 sightings:
   - date: 1925-01-21
@@ -27,7 +27,7 @@ sightings:
     puzzle: 'The Province (Vancouver) "Cross Word Funnies, selected by Judge", copyright 1925 = Judge No. 2 (1-Across "What your wife is to you")'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
   - date: 1925-02-07
-    puzzle: 'Cross Word Funnies in two papers, different puzzles, neither a numbered Judge puzzle: Hamilton Spectator (Ontario), 1-Across "Drawn together with a string" (5 letters); Buffalo Courier, 1-Across "A bird favored by sailors and old maids" (6); a Fremont, Nebraska paper ran the same puzzle as Buffalo'
+    puzzle: 'Cross Word Funnies in two papers, different puzzles, neither a numbered Judge puzzle: Hamilton Spectator (Ontario), 1-Across "Drawn together with a string" (5 letters); Buffalo Courier, 1-Across "A bird favored by sailors and old maids" (6); a Fremont, Nebraska paper ran the same puzzle as Buffalo, and The Province (Vancouver) the same as Hamilton. The St. Joseph Gazette (Missouri) ran what looks like the same grid with a different 1-Across clue, "A champion who doesn''t dig up turf" (6)'
     seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-06
 status: blitzing
 blitz: https://github.com/EveryPuzzleProject/blitz/tree/main/publications/judge
@@ -44,10 +44,11 @@ Boston Globe ran Nos. 1, 2, 6 and 8 in January 1925 and The Province
 (Vancouver) ran No. 2 on January 31. From February the "Funnies" found so
 far (the Globe's, and the Hamilton Spectator's and Buffalo Courier's of
 February 7) match none of Judge's numbered puzzles, so the feature seems to
-have moved on to puzzles that never appeared in Judge. On February 7 two US
-papers (Buffalo, and Fremont, Nebraska) ran the same puzzle and a Canadian
-one (Hamilton) a different one, so there may have been separate US and
-Canadian schedules.
+have moved on to puzzles that never appeared in Judge. On February 7 the US
+papers (Buffalo; Fremont, Nebraska) ran one puzzle and the Canadian ones
+(Hamilton; The Province, Vancouver) another, so there seem to have been
+separate US and Canadian schedules. The St. Joseph Gazette's puzzle that day
+looks like a US one with different clues.
 
 **This is a way to fill gaps in the Judge collection.** Newspaper reprints are
 a second copy of a puzzle, with its clues and usually its answers, wherever
@@ -64,7 +65,9 @@ Open questions:
 - The "Funnies" that match no numbered Judge puzzle (February 1925 on):
   syndicate originals under Judge's name? If so they're a series of their
   own, worth collecting across papers. How many were there, and how long did
-  the feature last? Were there separate US and Canadian release schedules?
+  the feature last? US and Canadian papers ran different puzzles on the same day
+  (1925-02-07): how far does that hold? Did some papers get the same puzzle
+  with different clues (St. Joseph Gazette, 1925-02-07)?
 - The scans end in 1939, but the magazine ran on. When did the crossword stop,
   and are later issues scanned anywhere?
 - 33 numbered puzzles haven't been found in the scans.
