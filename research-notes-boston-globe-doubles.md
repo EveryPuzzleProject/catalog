@@ -29,13 +29,14 @@ misses some issues). Entry: [publications/boston-globe.md](publications/boston-g
 | 2018-10-14 | Themeless Challenger (Quigley) | Honeyed pastry | Global Cafe (Cox and Rathvon) | |
 | 2019-02-10 | Themeless Challenger (Quigley) | | Ungorgeous George (Cox and Rathvon) | |
 | 2019-03-31 | Themeless Challenger (Quigley) | | Possessed (Cox and Rathvon) | |
-| 2019-06-23 | Themeless Challenger (Quigley) | | Put-On (Cox and Rathvon) | |
+| 2019-06-23 | Themeless Challenger (Quigley) | Genre for Steely Dan ... | Put-On (Cox and Rathvon) | Zorro's kiss? |
 | 2019-10-13 | Themeless Challenger (Quigley) | | Bearing Down (Cox and Rathvon) | |
 | 2020-02-09 | Themeless Challenger (Quigley) | | Dinner for Eight (Cox and Rathvon) | |
 | 2020-03-29 | Themeless Challenger (Quigley) | | Making Repairs (Cox and Rathvon) | |
 
-\* Harder/Easier labels not recorded; listed in page order. 2019-06-23: a
-1-Across "Zorro's kiss?" was read off one of the pair, which one to confirm.
+\* Harder/Easier labels not recorded; listed in page order. 2019-06-23: the
+1-Across "Zorro's kiss?" read off the pair belongs to Put-On, since the
+Harder one's 1-Across (from Wayback) is "Genre for Steely Dan ...".
 Not double issues, despite search hits: 2016-05-15, 2018-09-23, 2019-08-25.
 
 Searched through 2020-03-29 so far. Open: when the double issues began and
