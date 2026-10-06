@@ -6,8 +6,8 @@ place: Boston
 crosswords:
   first: 1917-02-25
   last: ongoing
-  frequency: "Sunday from 1917; Saturday added 1923-05-26; Wednesday added 1924-02-06; daily (Mon–Fri) from 1924-10-06, alongside separate Saturday and Sunday series; still daily in December 1935, labeled \"The Globe Cross-Word Puzzle\" with no sign of syndication. By 1936 Saturday had joined the daily (Mon–Sat; Saturday's puzzle says \"Solution next Monday\"); when between late 1924 and 1936 is unknown. Still daily in 1970, with no attribution or copyright line, so whether it was still made in-house is unknown. Later the Sunday puzzle moved into the Globe Magazine"
-  answers: "daily series: the next day (Friday's on Monday while Saturday was separate; Saturday's on Monday by 1936); Wednesday series: the next Wednesday; Saturday and Sunday series: probably the following week (to confirm)"
+  frequency: "Sunday from 1917; Saturday added 1923-05-26; Wednesday added 1924-02-06; daily (Mon–Fri) from 1924-10-06, alongside separate Saturday and Sunday series; still daily in December 1935, labeled \"The Globe Cross-Word Puzzle\" with no sign of syndication. In 1924 Saturday ran two puzzles a week, \"Crossword Puzzles for the Grown-Ups\" and \"Crossword Puzzle for Boys and Girls\", for a year or two. Saturday joined the daily between 1924-11-03 (Monday prints Friday's solution) and January 1925 (Monday prints Saturday's); still so in 1936 (\"Solution next Monday\"). Still daily in 1970, with no attribution or copyright line, so whether it was still made in-house is unknown. Later the Sunday puzzle moved into the Globe Magazine"
+  answers: "daily series: the next day (Friday's on Monday while Saturday was separate; Saturday's on Monday from January 1925); Wednesday series: the next Wednesday; Saturday series: the next Saturday (January 1924); Sunday series: probably the following week (to confirm)"
   constructors: "Sunday constructors include Jordan S. Lasher (1980s), Emily Cox and Henry Rathvon, Henry Hook (alternating weekly with Cox and Rathvon through 2015; last seen 2015-05-31; died 2015, editor's note in the 2015-11-01 Globe), Elizabeth C. Gorski (2008-08-10 to 2008-11-16, alternating with Hook while Cox and Rathvon were away), Brendan Emmett Quigley (from 2015-06-14, alternating with Cox and Rathvon) and Joon Pahk (from at least 2022-04-17, alternating with Quigley; Cox and Rathvon last seen 2022-05-01) (Newspapers.com print checks; gxd bostonglobe/; Wayback snapshots; Globe help center)"
   syndication: "the Sunday puzzle was syndicated, at least 2003–2015, to LA Weekly and others, running weeks after the Globe (0 to 56 days; 49 from 2009), with some holiday puzzles held a year. gxd's 2003–2015 files were dated by that syndicated run until corrected (see sources)"
 carries:
@@ -44,6 +44,12 @@ sightings:
   - date: 1923-12-09
     puzzle: 'Sunday crossword still running, with the note "A Crossword Puzzle Appears in the Globe Every Saturday"'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05
+  - date: 1924-01
+    puzzle: 'Saturday puzzle still its own series, printing last Saturday''s answers'
+    seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-06
+  - date: 1924
+    puzzle: 'two Saturday puzzles each week, "Crossword Puzzles for the Grown-Ups" and "Crossword Puzzle for Boys and Girls"'
+    seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-06
   - date: 1924-02-06
     puzzle: the first Wednesday puzzle
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05
@@ -56,6 +62,9 @@ sightings:
   - date: 1924-11-03
     puzzle: 'Monday puzzle, with "solution to last Friday''s puzzle"'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05
+  - date: 1925-01
+    puzzle: 'Monday puzzle printing Saturday''s solution, so Saturday is part of the daily by now'
+    seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-06
   - date: 1935-12
     puzzle: 'daily puzzle still running, labeled "The Globe Cross-Word Puzzle"; no syndicate credit'
     seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-05
@@ -161,9 +170,12 @@ Open questions:
 - When did the daily end? Still running in 1970. Was it the Globe's own
   all along, or syndicated at some point? From 1936 to 1970 it carries no
   credit or copyright line.
-- When did the Saturday series fold into the daily (separate in November
-  1924, part of the daily by 1936)? Look for the first Monday paper that
-  prints Saturday's solution.
+- When did the Saturday series fold into the daily? Between 1924-11-03
+  (Monday prints Friday's solution) and January 1925 (Monday prints
+  Saturday's). The first Monday paper that prints Saturday's solution marks it.
+- The 1924 Saturday pair, "Crossword Puzzles for the Grown-Ups" and
+  "Crossword Puzzle for Boys and Girls": when did each start and stop, and
+  did the children's puzzle continue after Saturday joined the daily?
 - Were the Globe's 1931–1963 issues' copyrights renewed? If not, these
   puzzles are public domain too.
 - When did the Sunday puzzle move into the Globe Magazine?
@@ -171,7 +183,7 @@ Open questions:
   them. Is the Sunday Globe filed there under a separate title? Otherwise:
   ProQuest Historical Newspapers (has a Boston Globe collection; coverage to check), library microfilm,
   and whether the Sunday magazine was filmed at all.
-- Do the Saturday and Sunday answers run the following week?
+- Do the Sunday answers run the following week? (Saturday's did, in 1924.)
 - Who made the early puzzles? Are there bylines?
 - What filled 1931–1979? gxd has nothing between 1917 and 1980.
 - Where is the Globe Magazine on Newspapers.com from about August 2012?
