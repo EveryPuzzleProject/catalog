@@ -27,7 +27,7 @@ sightings:
     puzzle: 'The Province (Vancouver) "Cross Word Funnies, selected by Judge", copyright 1925 = Judge No. 2 (1-Across "What your wife is to you")'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
   - date: 1925-02-07
-    puzzle: 'Cross Word Funnies in two papers, different puzzles, neither a numbered Judge puzzle: Hamilton Spectator (Ontario), 1-Across "Drawn together with a string" (5 letters); Buffalo Courier, 1-Across "A bird favored by sailors and old maids" (6); a Fremont, Nebraska paper ran the same puzzle as Buffalo, and The Province (Vancouver) the same as Hamilton. The St. Joseph Gazette (Missouri) ran what looks like the same grid with a different 1-Across clue, "A champion who doesn''t dig up turf" (6)'
+    puzzle: 'Cross Word Funnies in two papers, different puzzles, neither a numbered Judge puzzle: Hamilton Spectator (Ontario), 1-Across "Drawn together with a string" (5 letters); Buffalo Courier, 1-Across "A bird favored by sailors and old maids" (6); a Fremont, Nebraska paper ran the same puzzle as Buffalo, and The Province (Vancouver) the same as Hamilton. The St. Joseph Gazette (Missouri) ran the US grid with a different 1-Across clue, "A champion who doesn''t dig up turf" (6)'
     seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-06
 status: blitzing
 blitz: https://github.com/EveryPuzzleProject/blitz/tree/main/publications/judge
@@ -47,8 +47,8 @@ February 7) match none of Judge's numbered puzzles, so the feature seems to
 have moved on to puzzles that never appeared in Judge. On February 7 the US
 papers (Buffalo; Fremont, Nebraska) ran one puzzle and the Canadian ones
 (Hamilton; The Province, Vancouver) another, so there seem to have been
-separate US and Canadian schedules. The St. Joseph Gazette's puzzle that day
-looks like a US one with different clues.
+separate US and Canadian schedules. The St. Joseph Gazette ran the US grid
+that day but with at least one different clue.
 
 **This is a way to fill gaps in the Judge collection.** Newspaper reprints are
 a second copy of a puzzle, with its clues and usually its answers, wherever
