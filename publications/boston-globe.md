@@ -84,10 +84,10 @@ sightings:
     puzzle: 'THE LAST SHALL BE FIRST, Cox and Rathvon (1-Across "Packs", 1-Down "Loonballs"); matches the Wayback snapshot of that day'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
   - date: 2015-11-01
-    puzzle: '"Crone with the Wind", Henry Hook, in the issue with the editor''s note on his death'
+    puzzle: '"Crone with the Wind", Henry Hook (1-Across "Teen zine topics"), in the issue with the editor''s note on his death; not in gxd'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
   - date: 2015-11-08
-    puzzle: 'DOWNFALLS, Cox and Rathvon (perhaps a rerun of their 2002-08-18 "Downfalls"; to compare)'
+    puzzle: 'DOWNFALLS, Cox and Rathvon (1-Across "Contacts good to have"), a different puzzle from their 2002-08-18 "Downfalls"; not in gxd'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
   - date: 2015-11-15
     puzzle: 'FRONT AND BACK, Cox and Rathvon; matches the Wayback snapshot of that day'
@@ -95,8 +95,17 @@ sightings:
   - date: 2016-02-14
     puzzle: 'two Cox and Rathvon puzzles on facing pages: LOVERS (the 21x21 crossword, also on the website that day) and ANAGRAM PAIRS, a 21x21 themed crossword headed "THE GLOBE PUZZLE" on magazine p. 80, answers on p. 76 (print only; never on the website)'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05
+  - date: 2018-06-17
+    puzzle: 'two facing crosswords, "Harder": THEMELESS CHALLENGER by Quigley (1-Across "Fast, sci-fi style") and "Easier": TRINOMIALS by Cox and Rathvon; neither on the website that day'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
+  - date: 2018-10-14
+    puzzle: 'two facing crosswords, "Harder": THEMELESS CHALLENGER by Quigley (1-Across "Honeyed pastry") and "Easier": GLOBAL CAFE by Cox and Rathvon; neither on the website that day'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
   - date: 2019-02-10
     puzzle: 'two facing crosswords, "The Globe Puzzle / Harder: THEMELESS CHALLENGER" (Quigley; the one on the website) and "The Globe Puzzle / Easier: UNGORGEOUS GEORGE" (Cox and Rathvon); the cover promises "extra puzzles"'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
+  - date: 2022-07-31
+    puzzle: 'IMAGINARY FRIENDS by Joon Pahk; not on the website that day'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
 status: researched
 ---
@@ -150,3 +159,8 @@ Open questions:
   Title searches stop finding the Sunday puzzle then (2013 issues turn up
   only sometimes); 2009-04-05 is missing outright.
 - Which papers besides LA Weekly carried the Sunday puzzle, and from when?
+- Which issues ran two crosswords ("The Globe Puzzle / Harder" and
+  "Easier", with "extra puzzles" on the cover)? Known: 2015-02-08,
+  2015-10-18, 2016-02-14, 2018-02-11, 2018-06-17, 2018-10-14, 2019-02-10,
+  and 2004-12-19. In 2018–2019 the Harder one is Quigley's "THEMELESS
+  CHALLENGER", so other Themeless Challenger Sundays are candidates.
