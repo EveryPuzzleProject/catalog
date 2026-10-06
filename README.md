@@ -35,7 +35,7 @@ far the project has got with it.
 
 | Publication | Kind | Where | Crosswords | Scans | Status |
 |---|---|---|---|---|---|
-| [Judge](publications/judge.md) | magazine | New York | 1924–1925 · 2 sightings | [Internet Archive](https://archive.org/details/pub_judge), [newspapers carrying "Cross Word Funnies, selected by Judge" (copyright 1925)](https://www.newspapers.com/) | blitzing |
+| [Judge](publications/judge.md) | magazine | New York | 1924–1925 · 3 sightings | [Internet Archive](https://archive.org/details/pub_judge), [newspapers carrying "Cross Word Funnies, selected by Judge" (copyright 1925)](https://www.newspapers.com/) | blitzing |
 | [GAMES](publications/games.md) | magazine | US | 1977–ongoing | [Internet Archive](https://archive.org/details/games_magazine) | harvesting |
 | [The Boston Globe](publications/boston-globe.md) | newspaper | Boston | 1917–ongoing · 49 sightings | [Newspapers.com](https://www.newspapers.com/), gxd (Saul Pwanson's crossword corpus, private), [Wayback Machine snapshots of the Globe's old crossword pages](https://web.archive.org/web/*/bostonglobe.com/lifestyle/crossword*), [Boston Globe games site (Puzzmo)](https://www.bostonglobe.com/games/crossword) | researched |
 | [The Daily Collegian (Penn State)](publications/daily-collegian-penn-state.md) | newspaper | State College, Pennsylvania | 1976–1981 · 4 sightings | [Historical Digital Collegian Archive (Penn State University Libraries)](https://libraries.psu.edu/databases/psu00795) | researched |
