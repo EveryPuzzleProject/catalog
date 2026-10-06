@@ -61,16 +61,17 @@ for a harvest its clues are a second copy of the 1925-02-14 Canadian one.)
 
 **This is a way to fill gaps in the Judge collection.** Newspaper reprints are
 a second copy of a puzzle, with its clues and usually its answers, wherever
-archive.org's scan of Judge is missing a page or hard to read. No. 5
-(1924-11-29) still lacks its clues for exactly that reason. Matching the
+archive.org's scan of Judge is missing a page or hard to read. Matching the
 Globe's reprints also showed that the harvest had missed No. 6 (1924-12-06)
-and No. 16 (1925-02-14), both of which are in the scans.
+and No. 16 (1925-02-14), both of which are in the scans (irregular grids, a
+pair of faces and a heart). No. 5 (1924-11-29) seemed to lack its clues, but
+archive.org has two partial scans of that issue: sim_judge_1924-11-29_87
+has the puzzle and sim_judge_1924-11-22_87 (page 23) has its "Key Chart".
 
 Open questions:
 - Which papers carried "Cross Word Funnies, selected by Judge" (January to
   May 1925)? Searching newspaper archives for the phrase, or for a distinctive
-  clue, finds them. Does any carry No. 5, or other numbered puzzles missing
-  from the scans?
+  clue, finds them. Do any carry numbered puzzles missing from the scans?
 - The "Funnies" that match no numbered Judge puzzle (February 1925 on):
   syndicate originals under Judge's name? If so they're a series of their
   own, worth collecting across papers. How many were there? US and Canadian papers ran different puzzles on the same day
@@ -78,4 +79,9 @@ Open questions:
   wrong clues (St. Joseph Gazette, 1925-02-07): use them for clues only.
 - The scans end in 1939, but the magazine ran on. When did the crossword stop,
   and are later issues scanned anywhere?
-- 33 numbered puzzles haven't been found in the scans.
+- Numbering restarted at No. 1 on 1927-04-30 (the first series ran to No.
+  122). A check of archive.org's page text against the harvest (2026-10-06)
+  found about 20 more numbered puzzles printed in the scans but not yet
+  harvested, mostly the second puzzle of a monthly issue (1932–36); about 10
+  more whose answer keys were printed but whose puzzle pages haven't been
+  located; and one tiny joke puzzle, No. 95 (1926-10-16).
