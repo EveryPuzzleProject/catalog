@@ -33,6 +33,10 @@ status: blitzing
 blitz: https://github.com/EveryPuzzleProject/blitz/tree/main/publications/judge
 ---
 
+Project home, with the status of every puzzle and how to help:
+https://github.com/EveryPuzzleProject/judge
+(status page: https://everypuzzleproject.github.io/judge/).
+
 A humor magazine. Its first crossword ran on November 1, 1924, billed as the
 first of a weekly series of "Home Destroyers". Two weeks later the whole cover
 was a crossword. About 500 puzzles have been found in the scans so far.
