@@ -80,9 +80,24 @@ sightings:
   - date: 2015-10-18
     puzzle: 'two Sunday crosswords: WITH STYLE by Brendan Emmett Quigley and OPERA REVIEW by Emily Cox and Henry Rathvon'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05; OPERA REVIEW also on the Wayback snapshot of 2015-10-18
+  - date: 2015-10-25
+    puzzle: 'THE LAST SHALL BE FIRST, Cox and Rathvon (1-Across "Packs", 1-Down "Loonballs"); matches the Wayback snapshot of that day'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
+  - date: 2015-11-01
+    puzzle: '"Crone with the Wind", Henry Hook, in the issue with the editor''s note on his death'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
+  - date: 2015-11-08
+    puzzle: 'DOWNFALLS, Cox and Rathvon (perhaps a rerun of their 2002-08-18 "Downfalls"; to compare)'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
+  - date: 2015-11-15
+    puzzle: 'FRONT AND BACK, Cox and Rathvon; matches the Wayback snapshot of that day'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
   - date: 2016-02-14
     puzzle: 'two Cox and Rathvon puzzles on facing pages: LOVERS (the 21x21 crossword, also on the website that day) and ANAGRAM PAIRS, a 21x21 themed crossword headed "THE GLOBE PUZZLE" on magazine p. 80, answers on p. 76 (print only; never on the website)'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05
+  - date: 2019-02-10
+    puzzle: 'two facing crosswords, "The Globe Puzzle / Harder: THEMELESS CHALLENGER" (Quigley; the one on the website) and "The Globe Puzzle / Easier: UNGORGEOUS GEORGE" (Cox and Rathvon); the cover promises "extra puzzles"'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
 status: researched
 ---
 
