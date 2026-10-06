@@ -29,7 +29,7 @@ sources:
     access: free
   - where: Boston Globe games site (Puzzmo)
     url: https://www.bostonglobe.com/games/crossword
-    covers: "2024-02-23 to now: 954 puzzles by 2026-10-05, weekdays Universal (Andrews McMeel), 135 Sundays by Joon Pahk and Brendan Emmett Quigley alternating; no puzzle listed 2024-08-18 or 2024-09-22. Index: api.puzzmo.com/team/v1/boston-globe-amlaj/queues/crossword/puzzles?startDate=YYYY-MM-DD&days=N (id, name, publishDate, authors); content as xd: api.puzzmo.com/graphql, { puzzle(id: ...) { id name puzzle } } (both from Orta at Puzzmo, 2026-10-05)"
+    covers: "2024-02-23 to now: 954 puzzles by 2026-10-05, weekdays mostly Universal (Andrews McMeel) but with the Globe's own quarterly Themeless Weeks (Mon–Sat, independent constructors, from 2024-06-24; about 36 puzzles) and a Themeless Friday (2026-06-19), 135 Sundays by Joon Pahk and Brendan Emmett Quigley alternating; no puzzle listed 2024-08-18 or 2024-09-22. Index: api.puzzmo.com/team/v1/boston-globe-amlaj/queues/crossword/puzzles?startDate=YYYY-MM-DD&days=N (id, name, publishDate, authors); content as xd: api.puzzmo.com/graphql, { puzzle(id: ...) { id name puzzle } } (both from Orta at Puzzmo, 2026-10-05)"
     access: free
 sightings:
   - date: 1917-02-25
@@ -95,6 +95,18 @@ sightings:
   - date: 2016-02-14
     puzzle: 'two Cox and Rathvon puzzles on facing pages: LOVERS (the 21x21 crossword, also on the website that day) and ANAGRAM PAIRS, a 21x21 themed crossword headed "THE GLOBE PUZZLE" on magazine p. 80, answers on p. 76 (print only; never on the website)'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05
+  - date: 2017-04-02
+    puzzle: 'double issue: "Harder" THEMELESS CHALLENGER by Quigley (1-Across "Maytag product") facing THAT''S EXTRA by Cox and Rathvon'
+    seen: Newspapers.com search for "Themeless Challenger", by Alex DeJarnatt, 2026-10-06
+  - date: 2017-06-18
+    puzzle: 'double issue: "Harder" THEMELESS CHALLENGER by Quigley (1-Across "Most pessimistic") facing CRIME BUSTERS by Cox and Rathvon'
+    seen: Newspapers.com search for "Themeless Challenger", by Alex DeJarnatt, 2026-10-06
+  - date: 2018-02-11
+    puzzle: 'double issue: "Harder" THEMELESS CHALLENGER by Quigley (1-Across "Parade fall out?") facing ALPHABET SOUP by Cox and Rathvon'
+    seen: Newspapers.com search for "Themeless Challenger", by Alex DeJarnatt, 2026-10-06
+  - date: 2018-04-01
+    puzzle: 'double issue: "Harder" THEMELESS CHALLENGER by Quigley (1-Across "Paper format", matching the Wayback snapshot) facing STANDARD MODELS by Cox and Rathvon'
+    seen: Newspapers.com search for "Themeless Challenger", by Alex DeJarnatt, 2026-10-06
   - date: 2018-06-17
     puzzle: 'two facing crosswords, "Harder": THEMELESS CHALLENGER by Quigley (1-Across "Fast, sci-fi style") and "Easier": TRINOMIALS by Cox and Rathvon; neither on the website that day'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
@@ -107,6 +119,9 @@ sightings:
   - date: 2022-07-31
     puzzle: 'IMAGINARY FRIENDS by Joon Pahk; not on the website that day'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
+  - date: 2024-06-09
+    puzzle: 'THEMELESS CHALLENGER by Quigley as the ordinary Sunday puzzle, no "Easier" partner (1-Across "Slacks, say"); also 2025-08-03 (1-Across "Beginning with a setback") and 2026-04-12 in the Puzzmo index'
+    seen: Newspapers.com search for "Themeless Challenger", by Alex DeJarnatt, 2026-10-06
 status: researched
 ---
 
@@ -160,7 +175,10 @@ Open questions:
   only sometimes); 2009-04-05 is missing outright.
 - Which papers besides LA Weekly carried the Sunday puzzle, and from when?
 - Which issues ran two crosswords ("The Globe Puzzle / Harder" and
-  "Easier", with "extra puzzles" on the cover)? Known: 2015-02-08,
-  2015-10-18, 2016-02-14, 2018-02-11, 2018-06-17, 2018-10-14, 2019-02-10,
-  and 2004-12-19. In 2018–2019 the Harder one is Quigley's "THEMELESS
-  CHALLENGER", so other Themeless Challenger Sundays are candidates.
+  "Easier", with "extra puzzles" on the cover)? Known: 2004-12-19,
+  2015-02-08, 2015-10-18, 2016-02-14, 2017-04-02, 2017-06-18, 2018-02-11,
+  2018-04-01, 2018-06-17, 2018-10-14, 2019-02-10. From 2017 the Harder one
+  is Quigley's "THEMELESS CHALLENGER" facing a Cox and Rathvon puzzle, so
+  the Themeless Challenger Sundays of 2019–2023 (2019-03-31, 06-23, 10-13,
+  2020-03-29, 10-18, 2021-05-23, 2022-09-18, 2023-10-15) are candidates. By
+  2024 the title is an ordinary Sunday puzzle with no partner.
