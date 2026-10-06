@@ -1,4 +1,4 @@
-# Boston Globe Magazine double puzzle issues (2026-10-06)
+# Boston Globe Magazine double puzzle issues (2026-10-06): 24 Sundays
 
 Some Sundays the Globe Magazine printed two full-size crosswords on facing
 pages, headed "The Globe Puzzle / Harder" and "The Globe Puzzle / Easier",
@@ -33,13 +33,15 @@ misses some issues). Entry: [publications/boston-globe.md](publications/boston-g
 | 2019-10-13 | Themeless Challenger (Quigley) | | Bearing Down (Cox and Rathvon) | |
 | 2020-02-09 | Themeless Challenger (Quigley) | | Dinner for Eight (Cox and Rathvon) | |
 | 2020-03-29 | Themeless Challenger (Quigley) | | Making Repairs (Cox and Rathvon) | |
+| 2020-10-18 | Themeless Challenger (Quigley) | | Mash-Ups (Cox and Rathvon) | |
 
 \* Harder/Easier labels not recorded; listed in page order. 2019-06-23: the
 1-Across "Zorro's kiss?" read off the pair belongs to Put-On, since the
 Harder one's 1-Across (from Wayback) is "Genre for Steely Dan ...".
 Not double issues, despite search hits: 2016-05-15, 2018-09-23, 2019-08-25.
 
-Searched through 2020-03-29 so far. Open: when the double issues began and
-ended (by 2024 "Themeless Challenger" is an ordinary single Sunday puzzle),
-and whether 2020-10-18 (a Themeless Challenger on a Cox and Rathvon week) is
-one.
+A search for "Harder" finds nothing after 2020-10-18, so the double issues
+seem to run from 2015 (with the one-off 2004-12-19) to October 2020; by 2024
+"Themeless Challenger" is an ordinary single Sunday puzzle. Text search
+misses some issues (it didn't find 2018-10-14 or 2019-02-10 at first), so
+the list may be incomplete. Open: did any run before 2015 besides 2004?
