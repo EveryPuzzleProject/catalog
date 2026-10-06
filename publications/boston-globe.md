@@ -6,7 +6,7 @@ place: Boston
 crosswords:
   first: 1917-02-25
   last: ongoing
-  frequency: "Sunday from 1917; Saturday added 1923-05-26; Wednesday added 1924-02-06; daily (Mon–Fri) from 1924-10-06, alongside separate Saturday and Sunday series; still daily in December 1935, labeled \"The Globe Cross-Word Puzzle\" with no sign of syndication. In 1924 Saturday ran two puzzles a week, \"Crossword Puzzles for the Grown-Ups\" and \"Crossword Puzzle for Boys and Girls\", for a year or two. From late November 1924 the Saturday puzzle (still headed \"The Globe's Saturday Cross Word Puzzle\") joins the daily's schedule: there is one Saturday puzzle, its solution is printed the next Monday and again the next Saturday, and the Saturday paper also prints Friday's daily solution (1924-11-22's puzzle answered on 1924-11-24 and 1924-11-29; 1924-11-29's on 1924-12-01). Before that, Monday 1924-11-10 prints Friday's solution and 1924-11-17 none. By 1936 Saturday's puzzle is answered on Monday (\"Solution next Monday\"). Still daily in 1970, with no attribution or copyright line, so whether it was still made in-house is unknown. Later the Sunday puzzle moved into the Globe Magazine"
+  frequency: "Sunday from 1917; Saturday added 1923-05-26; Wednesday added 1924-02-06; daily (Mon–Fri) from 1924-10-06, alongside separate Saturday and Sunday series; still daily in December 1935, labeled \"The Globe Cross-Word Puzzle\" with no sign of syndication. In 1924 Saturday ran two puzzles a week, \"Crossword Puzzles for the Grown-Ups\" and \"Crossword Puzzle for Boys and Girls\", for a year or two. From late November 1924 the Saturday puzzle (still headed \"The Globe's Saturday Cross Word Puzzle\") joins the daily's schedule: there is one Saturday puzzle, its solution is printed the next Monday and again the next Saturday, and the Saturday paper also prints Friday's daily solution (1924-11-22's puzzle answered on 1924-11-24 and 1924-11-29; 1924-11-29's on 1924-12-01). Before that, Monday 1924-11-10 prints Friday's solution and 1924-11-17 none. From 1924-12-13 (\"Two Cross Word Puzzles Today\") Saturday has two puzzles again: a large one for grown-ups (17x17 to 21x21, sometimes a special: an irregular \"Real Brain Twister\" on 1925-01-03, literary allusions on 1925-01-10, a heart-shaped Valentine's puzzle by \"Yebo of Dorchester\" on 1925-02-14, a March lion on 1925-02-28) and one for boys and girls (13x13 or 15x15) through 1925-02-07. From 1925-02-14 the second slot is \"Cross Word Funnies, selected by Judge\", copyright 1925, apparently syndicated from Judge magazine. By 1936 Saturday's puzzle is answered on Monday (\"Solution next Monday\"). Still daily in 1970, with no attribution or copyright line, so whether it was still made in-house is unknown. Later the Sunday puzzle moved into the Globe Magazine"
   answers: "daily series: the next day (Friday's on Monday while Saturday was separate; Saturday's on Monday from 1924-11-24, and again the next Saturday for a while; Friday's on Saturday from 1924-11-29); Wednesday series: the next Wednesday; Saturday series: the next Saturday (January 1924 to at least 1924-12-06); Sunday series: probably the following week (to confirm)"
   constructors: "Sunday constructors include Jordan S. Lasher (1980s), Emily Cox and Henry Rathvon, Henry Hook (alternating weekly with Cox and Rathvon through 2015; last seen 2015-05-31; died 2015, editor's note in the 2015-11-01 Globe), Elizabeth C. Gorski (2008-08-10 to 2008-11-16, alternating with Hook while Cox and Rathvon were away), Brendan Emmett Quigley (from 2015-06-14, alternating with Cox and Rathvon) and Joon Pahk (from at least 2022-04-17, alternating with Quigley; Cox and Rathvon last seen 2022-05-01) (Newspapers.com print checks; gxd bostonglobe/; Wayback snapshots; Globe help center)"
   syndication: "the Sunday puzzle was syndicated, at least 2003–2015, to LA Weekly and others, running weeks after the Globe (0 to 56 days; 49 from 2009), with some holiday puzzles held a year. gxd's 2003–2015 files were dated by that syndicated run until corrected (see sources)"
@@ -73,6 +73,24 @@ sightings:
     seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-06
   - date: 1924-11-24
     puzzle: 'Monday puzzle with "Solution of last Saturday''s puzzle" (also 1924-12-01)'
+    seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-06
+  - date: 1924-12-13
+    puzzle: '"Two Cross Word Puzzles Today": "How to Solve a Cross Word Puzzle" with a 15x15 "Boys'' and Girls'' Puzzle", beside "The Globe''s Saturday Cross Word Puzzle" (19x19)'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
+  - date: 1924-12-20
+    puzzle: '"Cross-Word Puzzle for Boys and Girls" (13x13) beside "Cross-Word Puzzle for Grownups" (17x17); same pairing 1924-12-27 (15x15 and 21x21) and 1925-01-17 to 1925-02-07'
+    seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-06
+  - date: 1925-01-03
+    puzzle: '"A Real Brain Twister for Cross-Word Puzzle Experts", an irregular shape, with "Cross-Word Puzzle for the Youngsters" (15x15)'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
+  - date: 1925-01-10
+    puzzle: '"Cross-Word Puzzle for Boys and Girls" beside "Literary Allusions Feature This Puzzle"'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
+  - date: 1925-02-14
+    puzzle: '"Valentine''s Day Puzzle for Those Who Don''t Like ''Em Easy", a giant heart-shaped grid with hearts in it, by "Yebo of Dorchester", above "Cross Word Funnies, selected by Judge", copyright 1925'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-06
+  - date: 1925-02-21
+    puzzle: '"Cross-Word Puzzle for the More Expert" above "Cross Word Funnies, selected by Judge", copyright 1925; 1925-02-28 the big puzzle is a March puzzle ("Here''s the March puzzle lion: will he come in tomorrow?"), again with Judge''s'
     seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-06
   - date: 1924-11-29
     puzzle: '"The Globe''s Saturday Cross Word Puzzle" by S. E. Hale, Boston (2-Across "The points of a pen", NIB), with both "Solution to last Saturday''s puzzle" and "Solution of yesterday''s cross-word puzzle" (also 1924-12-06); its solution runs Monday 1924-12-01'
@@ -185,6 +203,9 @@ Open questions:
 - When did the daily end? Still running in 1970. Was it the Globe's own
   all along, or syndicated at some point? From 1936 to 1970 it carries no
   credit or copyright line.
+- "Cross Word Funnies, selected by Judge" (Saturdays from 1925-02-14): are
+  these reprints of Judge magazine's own puzzles (the Judge harvest has
+  Judge's weekly puzzles for these weeks), and how long did they run?
 - From late November 1924 each Saturday puzzle is answered twice, the next
   Monday and the next Saturday. When does the Saturday reprint stop, and
   when does the "Saturday Cross Word Puzzle" heading end?
