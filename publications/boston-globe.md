@@ -125,6 +125,10 @@ sightings:
 status: researched
 ---
 
+Project home, with the status of every Sunday since 1980 and how to help:
+https://github.com/EveryPuzzleProject/bostonglobe
+(status page: https://everypuzzleproject.github.io/bostonglobe/).
+
 The Globe has run crosswords since February 25, 1917. By late 1924 it had
 three series running at once: a Sunday puzzle (from 1917), a Saturday puzzle
 (from May 26, 1923) and a Monday–Friday daily (from October 6, 1924), which
