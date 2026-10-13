@@ -36,3 +36,22 @@ Web search only so far (2026-10-13); no newspaper archives yet.
   (ssb-116), Hugo Kladeviko (ssb-102), Leonard J. Brightman (ssb-107), Alfred A. Wicklund
   (ssb-121), John Fasel (ssb-59, 120), Harry R. Torr (ssb-124), Edith S. Iseman (ssb-98),
   Mordecai M. Richter (ssb-62), Wilmer H. Koch (ssb-91), Albert Buran (ssb-103).
+
+## Judge (1924–1937)
+
+From the byline check after the Judge export to gxd (2026-10-13). Bylines are as printed;
+each was read against the scan.
+
+- **Oscar F. Barrezueta** (Ecuador): sent puzzles over five years, so the bylines
+  vary. "Oscar Barrezueta, Guayaquil, Ecuador" (judge1932-08-01); "Oscar F. Barrezueta
+  V, Quito, Ecuador, South America" (judge1933-08-01); "Oscar F. Barrezueta, Quito,
+  Ecuador, S. A." (judge1934-08-01b, judge1934-09-01, judge1935-04-01, judge1937-02-01).
+  The "V" is probably the initial of his second surname (his mother's), as Spanish
+  names often have; it is printed without a period. Treat the three forms as one
+  person.
+- **Omer. A. Dynes** (judge1925-11-28): printed with the period after "Omer", which is
+  probably a printer's slip. Omer is an ordinary given name of the time, especially
+  in the Midwest; try the 1920 and 1930 censuses for Indianapolis.
+- **Woodward Woodward** (judge1931-06-06, Oak Park, Ill.; judge1931-12-26, Defiance,
+  Ohio): printed clearly both times, from two towns. It may be a real name or a pen name;
+  nothing found yet.
