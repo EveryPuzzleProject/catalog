@@ -1,6 +1,8 @@
 ---
 name: Alfred Montgomery Pelham
 lived: 1900–1987
+born: 1900-06-19, Sandwich, Ontario
+died: 1987, before June 19 if the obituary's age of 86 is right (exact date not yet found)
 known_for: one of about a dozen African Americans at Harvard Business School 1915–30; Detroit's first Black city controller (1961)
 identification: likely
 bylines:
@@ -17,6 +19,7 @@ sources:
   - https://www.library.hbs.edu/special-collections-and-archives/exhibits/aasu/student-pioneers/alfred-montgomery-pelham
   - https://www.newspapers.com/article/detroit-free-press-obituary-for-chiefum/208165585/
   - https://archive.org/details/cambridgedirecto1925unse
+  - https://elmwoodhistoriccemetery.org/events-tours/biographies/101-alfred-m-pelham
 ---
 
 The full write-up is the blog post
@@ -31,6 +34,6 @@ squares, which no other Judge constructor did in 1924–25, and both clue AN as 
 one." A 1977 Free Press profile says he spent his life inventing word games. No record
 found so far names a crossword.
 
-**Open.** Watch for "Pelham" bylines in other 1920s sources: newspapers, the Black
+**Open.** His death date: the Free Press obituary clipping on newspapers.com should have it. Watch for "Pelham" bylines in other 1920s sources: newspapers, the Black
 press, campus magazines, the 1924–25 crossword books. Michigan papers of the 1950s–60s
 have been searched without result.

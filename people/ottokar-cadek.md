@@ -1,6 +1,8 @@
 ---
 name: Ottokar Čadek
 lived: 1897–1956
+born: 1897-02-20, Chattanooga, Tennessee
+died: 1956-07-25, reportedly on stage at Interlochen, Michigan; buried in Mount Olivet Cemetery, Nashville
 known_for: violinist; first violin of the New York String Quartet; later University of Alabama faculty and conductor of Birmingham's Civic Symphony
 identification: confirmed
 bylines:

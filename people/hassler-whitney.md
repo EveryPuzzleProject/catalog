@@ -1,6 +1,8 @@
 ---
 name: Hassler Whitney
 lived: 1907–1989
+born: 1907-03-23, New York City
+died: 1989-05-10, Princeton, New Jersey
 known_for: mathematician (topology, singularity theory); National Medal of Science, Wolf Prize
 identification: likely
 bylines:

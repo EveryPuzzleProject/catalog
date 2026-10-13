@@ -12,7 +12,8 @@ Web search only so far (2026-10-13); no newspaper archives yet.
   death about 1947. Common name; a Jack Barrett also edited a 1925 London crossword
   anthology. [Scientific American](https://www.scientificamerican.com/blog/anecdotes-from-the-archive/happy-100th-birthday-to-the-crossword/),
   [The Nation](https://www.thenation.com/article/archive/five-vie-puzzlers-mantle/tnamp/)
-- **Porter R. Lee** (ssb-95): Porter Raymond Lee (1879–1939) directed the New York
+- **Porter R. Lee** (ssb-95): Porter Raymond Lee (born 1879-12-21, Buffalo; died
+  1939-03-08) directed the New York
   School of Social Work 1917–38. Right place and time; nothing ties him to puzzles.
   [VCU Social Welfare History](https://socialwelfare.library.vcu.edu/people/lee-porter-r/)
 - **Joseph A. Margolies** (ssb-52, 73, 119): the book calls him "Mr. Margolies of
@@ -21,7 +22,8 @@ Web search only so far (2026-10-13); no newspaper archives yet.
 - **Robert S. Holzman** (ssb-80): a tax author of that name was born in 1907. Nothing
   else fits yet.
 - **Ruth von Phul** (not a byline): the Third Series opens with her "Ballade of Cross
-  Words", signed as world crossword champion. She won the 1925 Herald Tribune tournament
+  Words", signed as world crossword champion. Lived 1904–1986 (library authority
+  record; exact dates not found). She won the 1925 Herald Tribune tournament
   over William A. Stern II and reportedly became a James Joyce scholar.
 - **William A. Stern II** (with his wife, ssb-25): won the first crossword championship,
   New York, May 1924 (the Second Series quotes his time on No. 51).

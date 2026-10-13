@@ -11,6 +11,8 @@ evidence and what's left to check).
 ```yaml
 name: Ottokar Čadek              # the person, as history knows them
 lived: 1897–1956
+born: 1897-02-20, Chattanooga, Tennessee   # full date and place when known
+died: 1956-07-25
 known_for: violinist, New York String Quartet
 identification: confirmed        # confirmed | likely | plausible
 bylines:                         # exactly as printed
@@ -20,6 +22,11 @@ bylines:                         # exactly as printed
 sources:
   - https://...
 ```
+
+**Birth and death dates** are worth finding to the day, not just the year: they let us
+time a post to an anniversary ("remembering so-and-so, born 125 years ago today").
+Write `unknown` or the year alone rather than guess, and say in the text where the
+exact date might be found.
 
 **Identification** is about whether the byline is this person, not about the facts of
 their life:
