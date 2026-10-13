@@ -14,6 +14,7 @@ bylines:
     puzzles: [judge1932-12-01]
 sources:
   - 1940 U.S. census, Ridgefield, Fairfield County, Connecticut (Shane household)
+  - Theodore S. Shane obituary (calls his wife Peggy; citation to add)
   - https://www.nytimes.com/1951/02/18/archives/margaret-w-shane-wed-student-at-bennington-college-bride-of-egbert.html
   - https://grokipedia.com/page/E._W._Swackhamer
 ---
@@ -25,9 +26,9 @@ Theodore Sydney Shane, with a daughter, Margaret Woodward Shane, 9. The daughter
 born about 1931, too young to be the constructor; she is the Margaret W. ("Gretchen")
 Shane, a Bennington College student, whose 1951 wedding to Egbert W. Swackhamer
 (later the television director E. W. Swackhamer) was held at her parents' Ridgefield
-home (New York Times, 1951-02-18; the article itself not yet read). Nothing yet
-ties the mother to the puzzles beyond the name, town and years, so this stays
-**likely**.
+home (New York Times, 1951-02-18; the article itself not yet read). Theodore Shane's
+obituary calls his wife Peggy, the name on No. 277, so both byline forms fit her. No
+record yet ties her to the puzzles directly, so this stays **likely**.
 
 **Open.** The daughter's middle name suggests the mother was born a Woodward. Judge
 also printed puzzles by Peg Woodward and Meg Woodward from Ridgefield (judge1931-09-19,
