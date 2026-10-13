@@ -14,6 +14,7 @@ bylines:
     puzzles: [judge1932-12-01]
 sources:
   - 1940 U.S. census, Ridgefield, Fairfield County, Connecticut (Shane household)
+  - FamilySearch: Theodore Schoen and Margaret Woodward Smith, daughter Margaret Shane (unlinked to the 1940 records)
   - Theodore S. Shane obituary (calls his wife Peggy; citation to add)
   - https://www.nytimes.com/1951/02/18/archives/margaret-w-shane-wed-student-at-bennington-college-bride-of-egbert.html
   - https://grokipedia.com/page/E._W._Swackhamer
@@ -30,12 +31,19 @@ home (New York Times, 1951-02-18; the article itself not yet read). Theodore Sha
 obituary calls his wife Peggy, the name on No. 277, so both byline forms fit her. No
 record yet ties her to the puzzles directly, so this stays **likely**.
 
-**Open.** The daughter's middle name suggests the mother was born a Woodward. Judge
+**Family.** FamilySearch has a second, unlinked set of records for what appear to be the
+same people: a Theodore Schoen married to Margaret Woodward Smith, with a daughter
+Margaret Shane. Read together, she was born Margaret Woodward Smith, Woodward being a
+middle name (perhaps her mother's maiden name), and Theodore's surname was anglicized
+from Schoen to Shane. The two sets haven't been tied together by a record yet.
+
+**Open.** Woodward was her middle name, so it may also be a pen name. Judge
 also printed puzzles by Peg Woodward and Meg Woodward from Ridgefield (judge1931-09-19,
 judge1932-09-01a, judge1934-09-01a) and one by "M. Woodward, Jr., Ridgefield, Conn."
 (judge1934-05-01); earlier Meg Woodward and "Woodward Woodward" bylines give other towns
 (judge1931-02-21, David City, Nebr.; judge1931-06-06, Oak Park, Ill.; judge1931-12-26,
-Defiance, Ohio). If her maiden name was Woodward, some of these may be hers under her
-maiden name, or a relative's. A marriage record for Theodore S. Shane, or her birth or
-death record, should give her maiden name and exact dates. The 1930 census would show
+Defiance, Ohio). Some of these may be hers, signed with her middle name, or a
+relative's; "M. Woodward, Jr." reads as a man. A marriage record for Theodore Schoen
+or Shane and Margaret W. Smith would tie the two sets of records together, and her
+birth or death record would give her exact dates. The 1930 census would show
 whether the Woodwards lived in Ridgefield too.
