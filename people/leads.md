@@ -54,4 +54,5 @@ each was read against the scan.
   in the Midwest; try the 1920 and 1930 censuses for Indianapolis.
 - **Woodward Woodward** (judge1931-06-06, Oak Park, Ill.; judge1931-12-26, Defiance,
   Ohio): printed clearly both times, from two towns. It may be a real name or a pen name;
-  nothing found yet.
+  nothing found yet. Possibly tied to the Ridgefield Woodward bylines and to
+  [Margaret Shane](margaret-shane.md), who may have been born a Woodward.
