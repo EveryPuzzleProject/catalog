@@ -117,3 +117,10 @@ carries:                    # syndicated series this publication printed
 How big is the whole thing? See [the known universe](universe.md).
 
 The table above is rebuilt from these files whenever one changes.
+
+## People
+
+Who made the puzzles: [`people/`](people/) collects what we learn about
+constructors whose bylines turn out to belong to someone on record, one file
+per person, with the evidence and how sure we are. Bylines worth a closer
+look are in [people/leads.md](people/leads.md).
