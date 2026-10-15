@@ -47,7 +47,7 @@ sources:
   - https://archive.org/details/per_chicago-daily-tribune_1929-09-20_88_226/page/n13/mode/1up
   - https://archive.org/details/per_chicago-daily-tribune_1941-04-12_100_88/page/n9/mode/1up
   - https://archive.org/details/per_chicago-daily-tribune_1943-04-17_102_92
-  - https://www.newspapers.com/image/354924783/ (Chicago Tribune; her swastika-pattern crossword)
+  - https://www.newspapers.com/image/354924783/ (the same 1925-02-26 page)
 ---
 
 **Judge.** Judge printed 82 of her crosswords, from No. 6 (1927-06-04) to No. 386
@@ -69,9 +69,10 @@ Puzzles?" ADA; "What puzzle makers often become" BATTY), and to Judge ("This wil
 **The Chicago Tribune.** The same name and address appear in the Tribune twice, which
 is what ties these items to her:
 
-- 1925-02-26: among the prize winners of the Tribune's crossword contest, which paid $20
-  for each puzzle accepted; the OCR reads "Catherine MacMillan … 4507 … Avenue;
-  Chicago", with her grid printed. Her earliest puzzle found so far, two years before
+- 1925-02-26, page 12: "Swastika Design with Unusual Features" ("bogey time, eight
+  minutes"), "Puzzle by Catherine MacMillan, 4507 Lake Park Avenue, Chicago", printed
+  as "another of the prize winners in the crossword puzzle contest"; the Tribune paid
+  $25 for each puzzle it accepted. Her earliest puzzle found so far, two years before
   Judge.
 - 1941-04-12: a winner in the Tribune's "Our Flag" crossword contest (a solving
   contest), "Catherine MacMillan, 4507 Lake Park, Chicago".
@@ -81,11 +82,11 @@ the Wake of the News" column (1929-09-20), a letter-block joke finding HE in He-
 He-l and He-art; and an alliteration contest entry "submitted by Catherine MacMillan"
 (1943-04-17; the OCR doesn't show her town).
 
-The Tribune also printed a crossword of hers whose black squares form a swastika
-(newspapers.com image 354924783; date to add). Then it was still a common American
-good-luck design, on Boy Scout badges, in advertising, and on the 45th Infantry
-Division's patch until 1939, and pictures in the black squares were a fad among 1920s
-constructors. Any use of the grid needs that context alongside it.
+The 1925 puzzle's black squares form swastikas, and 13 Across is "Design in center of
+this puzzle." The swastika was then still a common American good-luck design, on Boy
+Scout badges, in advertising, and on the 45th Infantry Division's patch until 1939, and
+pictures in the black squares were a fad among constructors. Any use of the grid needs
+that context alongside it.
 
 4507 Lake Park was a multi-flat apartment building; Tribune rental ads list flats there
 in 1917 and 1938.
