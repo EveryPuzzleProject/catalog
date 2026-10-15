@@ -86,9 +86,10 @@ in 1917 and 1938.
 Catherine MacMillans in Chicago: one born about 1889 in Wisconsin; Catherine R., born
 about 1907 in North Dakota; and Catherine F., born about 1913 in Illinois. They would
 have been about 35, 17 and 11 at the 1925 contest, and 38, 20 and 14 at her first Judge
-puzzle. The census household at 4507 Lake Park in 1930 or 1940 should settle which; she
-lived there from at least 1925 to 1941, as a householder or perhaps as a daughter in her
-parents' flat. A Tribune archive search (1924–1950) may
+puzzle. The 1930 census finds the eldest in Chicago's Ward 4 (block 14S or 145), 41 and
+living with a brother and a sister: unmarried, and of an age to fit 1925–43 easily. The
+indexed record gives no street address; matching her sheet's enumeration district to
+the one covering 4507 Lake Park (between 45th and 46th Streets) would confirm her. A Tribune archive search (1924–1950) may
 find an obituary or more verse. No puzzles under her name are in gxd outside Judge,
 including the NYT from 1942, though many NYT puzzles of the 1940s–70s have no known
 author. Judge's Cross Word Puzzle Books (a fourth, fifth and sixth were advertised) may
