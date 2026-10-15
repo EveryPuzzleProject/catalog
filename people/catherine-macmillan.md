@@ -1,9 +1,9 @@
 ---
 name: Catherine MacMillan
-lived: unknown (active 1925–1943)
-born: unknown
+lived: born about 1889; died unknown
+born: about 1889, Wisconsin (age 41 in the 1930 census)
 died: unknown
-known_for: Judge's most prolific crossword contributor, 82 puzzles 1927–37; Chicago Tribune crossword prize winner (1925, 1941); light verse in the Tribune
+known_for: Chicago public school teacher; Judge's most prolific crossword contributor, 82 puzzles 1927–37; Chicago Tribune crossword prize winner (1925, 1941); light verse in the Tribune
 identification: confirmed
 bylines:
   - byline: Catherine MacMillan, Chicago, Ill.
@@ -41,6 +41,7 @@ bylines:
     publication: Chicago Tribune, 1925-02-26 (crossword contest prize winner)
     puzzles: []
 sources:
+  - 1930 U.S. census, Chicago, Ward 4, 4507 Lake Park Ave. (MacMillan household)
   - https://archive.org/details/sim_judge_1929-06-15_96/page/n31/mode/1up
   - https://archive.org/details/per_chicago-daily-tribune_1925-02-26_84_49/page/n11/mode/1up
   - https://archive.org/details/per_chicago-daily-tribune_1929-09-20_88_226/page/n13/mode/1up
@@ -82,14 +83,17 @@ He-l and He-art; and an alliteration contest entry "submitted by Catherine MacMi
 4507 Lake Park was a multi-flat apartment building; Tribune rental ads list flats there
 in 1917 and 1938.
 
-**Open.** Who she was: age, birthplace, marriage, work. Censuses of the period list three
-Catherine MacMillans in Chicago: one born about 1889 in Wisconsin; Catherine R., born
-about 1907 in North Dakota; and Catherine F., born about 1913 in Illinois. They would
-have been about 35, 17 and 11 at the 1925 contest, and 38, 20 and 14 at her first Judge
-puzzle. The 1930 census finds the eldest in Chicago's Ward 4 (block 14S or 145), 41 and
-living with a brother and a sister: unmarried, and of an age to fit 1925–43 easily. The
-indexed record gives no street address; matching her sheet's enumeration district to
-the one covering 4507 Lake Park (between 45th and 46th Streets) would confirm her. A Tribune archive search (1924–1950) may
+**Life.** The 1930 census lists her at 4507 Lake Park Ave., Chicago (Ward 4): Catherine
+MacMillan, 41, born in Wisconsin, single, a public school teacher, living with two
+sisters, 46 and 52, also single and also public school teachers. The address is the one
+in her Judge bylines and in both Tribune contests (1925, 1941), so she lived there from
+at least 1925 to 1941. Censuses list two other Catherine MacMillans in Chicago then
+(Catherine R., born about 1907 in North Dakota; Catherine F., born about 1913 in
+Illinois); the address rules them out.
+
+**Open.** Her exact birth and death dates, her sisters' names, and where she taught. The
+1940 census (with its question on residence in 1935) and the Chicago Board of Education's
+lists of teachers may help; an obituary would give the rest. A Tribune archive search (1924–1950) may
 find an obituary or more verse. No puzzles under her name are in gxd outside Judge,
 including the NYT from 1942, though many NYT puzzles of the 1940s–70s have no known
 author. Judge's Cross Word Puzzle Books (a fourth, fifth and sixth were advertised) may
