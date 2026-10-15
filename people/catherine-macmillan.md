@@ -82,8 +82,13 @@ He-l and He-art; and an alliteration contest entry "submitted by Catherine MacMi
 4507 Lake Park was a multi-flat apartment building; Tribune rental ads list flats there
 in 1917 and 1938.
 
-**Open.** Who she was: age, birthplace, marriage, work. The 1930 and 1940 censuses at
-4507 Lake Park should answer most of that, and a Tribune archive search (1924–1950) may
+**Open.** Who she was: age, birthplace, marriage, work. Censuses of the period list three
+Catherine MacMillans in Chicago: one born about 1889 in Wisconsin; Catherine R., born
+about 1907 in North Dakota; and Catherine F., born about 1913 in Illinois. They would
+have been about 35, 17 and 11 at the 1925 contest, and 38, 20 and 14 at her first Judge
+puzzle. The census household at 4507 Lake Park in 1930 or 1940 should settle which; she
+lived there from at least 1925 to 1941, as a householder or perhaps as a daughter in her
+parents' flat. A Tribune archive search (1924–1950) may
 find an obituary or more verse. No puzzles under her name are in gxd outside Judge,
 including the NYT from 1942, though many NYT puzzles of the 1940s–70s have no known
 author. Judge's Cross Word Puzzle Books (a fourth, fifth and sixth were advertised) may
