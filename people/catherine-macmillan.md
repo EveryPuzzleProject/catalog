@@ -47,6 +47,7 @@ sources:
   - https://archive.org/details/per_chicago-daily-tribune_1929-09-20_88_226/page/n13/mode/1up
   - https://archive.org/details/per_chicago-daily-tribune_1941-04-12_100_88/page/n9/mode/1up
   - https://archive.org/details/per_chicago-daily-tribune_1943-04-17_102_92
+  - https://www.newspapers.com/image/354924783/ (Chicago Tribune; her swastika-pattern crossword)
 ---
 
 **Judge.** Judge printed 82 of her crosswords, from No. 6 (1927-06-04) to No. 386
@@ -79,6 +80,12 @@ Likely hers too: a light verse, "HE", signed "CATHERINE MacMILLAN" in the Tribun
 the Wake of the News" column (1929-09-20), a letter-block joke finding HE in He-aven,
 He-l and He-art; and an alliteration contest entry "submitted by Catherine MacMillan"
 (1943-04-17; the OCR doesn't show her town).
+
+The Tribune also printed a crossword of hers whose black squares form a swastika
+(newspapers.com image 354924783; date to add). Then it was still a common American
+good-luck design, on Boy Scout badges, in advertising, and on the 45th Infantry
+Division's patch until 1939, and pictures in the black squares were a fad among 1920s
+constructors. Any use of the grid needs that context alongside it.
 
 4507 Lake Park was a multi-flat apartment building; Tribune rental ads list flats there
 in 1917 and 1938.
