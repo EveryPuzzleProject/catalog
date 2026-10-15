@@ -41,7 +41,7 @@ bylines:
     publication: Chicago Tribune, 1925-02-26 (crossword contest prize winner)
     puzzles: []
 sources:
-  - 1930 U.S. census, Chicago, Ward 4, 4507 Lake Park Ave. (MacMillan household)
+  - https://www.familysearch.org/ark:/61903/1:1:XST3-Q32 (1930 U.S. census, Chicago, Ward 4, 4507 Lake Park Ave.; sheet image https://www.familysearch.org/ark:/61903/3:1:33SQ-GR48-9GQ)
   - https://archive.org/details/sim_judge_1929-06-15_96/page/n31/mode/1up
   - https://archive.org/details/per_chicago-daily-tribune_1925-02-26_84_49/page/n11/mode/1up
   - https://archive.org/details/per_chicago-daily-tribune_1929-09-20_88_226/page/n13/mode/1up
