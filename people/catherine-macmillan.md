@@ -93,8 +93,8 @@ Illinois); the address rules them out.
 
 **Open.** Her exact birth and death dates, her sisters' names, and where she taught. The
 1940 census (with its question on residence in 1935) and the Chicago Board of Education's
-lists of teachers may help; an obituary would give the rest. A Tribune archive search (1924–1950) may
-find an obituary or more verse. No puzzles under her name are in gxd outside Judge,
+lists of teachers may help, and a Tribune archive search (1924–1960s) may find an
+obituary or more verse. No puzzles under her name are in gxd outside Judge,
 including the NYT from 1942, though many NYT puzzles of the 1940s–70s have no known
 author. Judge's Cross Word Puzzle Books (a fourth, fifth and sixth were advertised) may
 reprint her puzzles. The Tribune's 1925 contest page should be read against the scan
