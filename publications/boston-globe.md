@@ -34,7 +34,7 @@ sources:
 sightings:
   - date: 1917-02-25
     puzzle: '"Cross-Word Puzzle", the first Globe crossword; a Sunday series follows'
-    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05; also gxd bostonglobe/1917/bg1917-02-25.xd
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05 (clipping https://www.newspapers.com/article/the-boston-globe-first-crossword-i-bosto/55523449/, shared 2026-10-27; that it is this date is assumed from its title, to confirm); also gxd bostonglobe/1917/bg1917-02-25.xd
   - date: 1917-08-19
     puzzle: Sunday crossword, replayed with full answers by the Globe in 2022
     seen: https://www.bostonglobe.com/2022/03/03/magazine/play-this-boston-globe-crossword-puzzle-1917/
@@ -213,6 +213,14 @@ many Sundays. In summer 2026 the Globe moved its games to Puzzmo, carrying
 over puzzles from February 2024 on.
 
 Open questions:
+- **Were the 1917 puzzles the Globe's own?** T Campbell
+  ([1917: The Year in Crosswords](https://tcampbell.substack.com/p/1917-the-year-in-crosswords))
+  says the Globe didn't make its own crosswords in 1917 but reprinted the New York
+  World's, with its Sunday FUN section, like the Pittsburgh Press and the Tacoma Daily
+  Ledger. If so, the Globe's first own puzzle is later (the Saturday series of
+  1923-05-26?). Check bg1917-02-25.xd against the World's early-1917 puzzles, and the
+  page for a World or FUN credit. (The Globe's own archive dates its earliest
+  crossword to 1917-03-04, not 02-25.) See [first-runs.md](../first-runs.md).
 - Did the Sunday series run continuously from 1917 to 1923, or stop and
   restart?
 - When did the daily end? Still running in 1970. Was it the Globe's own

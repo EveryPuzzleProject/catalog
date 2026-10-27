@@ -74,6 +74,10 @@ original's.
 
 A first sketch, from E&P to 2000 and scattered sources after.
 
+- **1913–1923: the World and its partners.** Other papers reprinted the New York World's
+  Sunday FUN section, crossword included, from 1915 or earlier; in 1920 the Pittsburgh
+  Press's "Jerry King" puzzle replaced it in some papers. The record is in
+  [first-runs.md](../first-runs.md).
 - **1924–1930: the craze.** The first directory (October 1924) lists 9 crossword
   features, from Bell, International (Baltimore), King Features, Ledger, McClure,
   Metropolitan, the New York Herald Tribune and New York World syndicates. By 1928
@@ -107,6 +111,8 @@ A first sketch, from E&P to 2000 and scattered sources after.
 
 | Entry | Kind | Crosswords |
 |---|---|---|
+| [New York World Syndicate](new-york-world.md) (the FUN section's reprints) | newspaper | 1915 or earlier–1931 |
+| [Jerry King's Cross-Word Puzzle](jerry-king.md) (Pittsburgh Press) | newspaper | 1920–1921 or later |
 | [Tribune Content Agency](tribune.md) (Chicago Tribune–New York News Syndicate, Tribune Media Services) | syndicate | 1925; 1934–now |
 | [King Features Syndicate](king-features.md) (with Central Press, Premier) | syndicate | 1924– (E&P to 2000) |
 | [Bell Syndicate / Bell-McClure](bell-mcclure.md) (and McClure) | syndicate | 1924–1971 |
