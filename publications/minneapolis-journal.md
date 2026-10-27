@@ -41,7 +41,24 @@ issues) while "No. 5" counts the numbered puzzles, which would mean two Sundays 
 a numbered puzzle, or numbering that started after the first. Only the World's own
 pages, or other papers' reprints, can settle it.
 
-Whether the Journal printed No. 5 on the World's own date, or later, is also not known.
+**The numbers rise by one a week.** In the Sundays after February 1, 1914 the numbers go
+up one per week (Alex DeJarnatt checked, 2026-10-27; which of the two numbers, or both,
+to record). So from February 1914 the World's series ran weekly without gaps, and a
+Journal date plus its number gives the number of any later Journal puzzle.
+
+**What this suggests about dates (inferred, not printed).** The grid's "No. 7" matches a
+count of Sundays from December 21, 1913: 1913-12-21 is No. 1, 1914-02-01 is No. 7. If that
+is the World's number, the World ran a puzzle every Sunday from the first, and the
+Journal printed each one on the World's own date. The heading's "No. 5" ("the fifth
+puzzle in the series", the World's words) then needs another explanation: two Sundays
+without a numbered puzzle, or a series count that began after the first. Either way,
+any World date worked out from these numbers is an inference and must be shown as one,
+with its reasoning, until a World page confirms it.
+
+These numbers could also identify the World's puzzles independently of any one
+printing ("World No. 7"), so reprints in different papers (the Journal, the Globe,
+Tacoma) can point to the same puzzle even where the World's own page is missing. See
+[first-runs.md](../first-runs.md).
 
 These reprints are a second copy of the World's early puzzles, which survive badly in
 the World itself.
@@ -50,7 +67,7 @@ In mid-March 1920, when the World's FUN section had gone two months without new
 crosswords, the Journal and the Pittsburgh Press began running "Jerry King's Cross-Word
 Puzzle" instead (see [pittsburgh-press.md](pittsburgh-press.md)).
 
-Open questions: what "No. 7" counts, and whether every World grid carries such a
-number; the World's date for No. 5 (did the Journal run it the same day?); the last
-FUN reprint; whether the reprints carry the World's credit; whether
+Open questions: whether both numbers rise weekly, or only one; what the two-number
+gap means (check the World's own pages for December 1913 and January 1914, or another
+partner's); whether every World grid carries a number; the last FUN reprint; whether the reprints carry the World's credit; whether
 the Journal ever made its own.

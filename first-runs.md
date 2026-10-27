@@ -88,6 +88,15 @@ Outside the US (secondary sources, unchecked): Pearson's Magazine, London, Febru
   Partners ran the same puzzle on different Sundays (the Globe 14 days before Tacoma),
   so a reprint's date says little about the World's date.
 
+- **The World's series is numbered, so reprints can be dated back to the World.** In
+  the Minneapolis Journal both a heading number ("No. 5") and a grid number ("No. 7") rise
+  one a week from 1914-02-01. The grid number fits a weekly count of Sundays from
+  1913-12-21. If that holds, World No. *n* ran on 1913-12-21 plus *n*−1 weeks, and any
+  reprint whose number is legible can be tied to a World puzzle and an inferred World
+  date. Inferred dates must be marked as such. This is how reprints in different
+  papers (the Globe and Tacoma in 1917) could point to one puzzle without the World's
+  own page.
+
 ## Waiting to be recorded
 
 - The Minneapolis Journal's reprints: what the grid's "No. 7" counts, whether it ran on
