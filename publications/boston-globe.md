@@ -33,8 +33,8 @@ sources:
     access: free
 sightings:
   - date: 1917-02-25
-    puzzle: '"Cross-Word Puzzle", the first Globe crossword; a Sunday series follows'
-    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05 (clipping https://www.newspapers.com/article/the-boston-globe-first-crossword-i-bosto/55523449/, shared 2026-10-27; that it is this date is assumed from its title, to confirm); also gxd bostonglobe/1917/bg1917-02-25.xd
+    puzzle: '"Cross-Word Puzzle", the first crossword in the Globe; a Sunday series follows. Page 4. "The solution of this cross-word puzzle will be printed next Sunday. A complete list of clews and definitions is given below." Hand-lettered numbers 1 to 122, clues numbered by start and end square in the World''s style (1-4 A cabbage with open curled leaves; vertical 2-12 Part of the verb "to be"); no byline, puzzle number, copyright or FUN credit in the clipping'
+    seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05 (clipping https://www.newspapers.com/article/the-boston-globe-first-crossword-i-bosto/55523449/; Alex shared this date's page 4 on 2026-10-27); also gxd bostonglobe/1917/bg1917-02-25.xd
   - date: 1917-08-19
     puzzle: Sunday crossword, replayed with full answers by the Globe in 2022
     seen: https://www.bostonglobe.com/2022/03/03/magazine/play-this-boston-globe-crossword-puzzle-1917/
@@ -218,8 +218,12 @@ Open questions:
   says the Globe didn't make its own crosswords in 1917 but reprinted the New York
   World's, with its Sunday FUN section, like the Pittsburgh Press and the Tacoma Daily
   Ledger. If so, the Globe's first own puzzle is later (the Saturday series of
-  1923-05-26?). Check bg1917-02-25.xd against the World's early-1917 puzzles, and the
-  page for a World or FUN credit. (The Globe's own archive dates its earliest
+  1923-05-26?). The 1917-02-25 puzzle (page 4) has no
+  byline, puzzle number, copyright or FUN credit in the clipping, but it does have the
+  World's start–end clue numbering and hand-lettered grid numbers, like the World
+  reprints in the Minneapolis Journal (1914). Next checks: the rest of page 4 and its
+  section (is it a reprinted FUN section?), and bg1917-02-25.xd against the World's
+  puzzles of February 1917 or another partner's (Tacoma, Pittsburgh) of the same weeks. (The Globe's own archive dates its earliest
   crossword to 1917-03-04, not 02-25.) See [first-runs.md](../first-runs.md).
 - Did the Sunday series run continuously from 1917 to 1923, or stop and
   restart?

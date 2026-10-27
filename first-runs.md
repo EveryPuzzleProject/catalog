@@ -79,9 +79,12 @@ Outside the US (secondary sources, unchecked): Pearson's Magazine, London, Febru
   replay of 1917-08-19 calls it one of the Globe's first. Campbell says the Globe
   didn't make its own crosswords in 1917 but printed the World's FUN puzzles, like
   Tacoma and Pittsburgh. If so, the Globe's 1917 puzzles are World puzzles, and the
-  Globe's own run may start later (by 1923-05-26 at the latest). Check: compare
-  bg1917-02-25.xd with the World's puzzles of early 1917, and look at the page for a
-  FUN or World credit.
+  Globe's own run may start later (by 1923-05-26 at the latest). The 1917-02-25 puzzle (page 4,
+  Alex's clipping) carries no byline, number, copyright or FUN credit, but uses the
+  World's start–end clue numbering and hand-lettered grid numbers. That neither proves
+  nor rules out a World reprint. Check: the rest of page 4 and its section, and
+  bg1917-02-25.xd against the World's puzzles (or Tacoma's or Pittsburgh's) of the same
+  weeks.
 
 ## Waiting to be recorded
 
