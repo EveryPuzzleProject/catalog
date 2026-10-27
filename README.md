@@ -31,7 +31,7 @@ far the project has got with it.
 ## The catalog
 
 <!-- catalog:start -->
-**28 publications so far** (19 lead, 7 researched, 1 harvesting, 1 blitzing).
+**29 publications so far** (20 lead, 7 researched, 1 harvesting, 1 blitzing).
 
 | Publication | Kind | Where | Crosswords | Scans | Status |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@ far the project has got with it.
 | [The Minneapolis Journal](publications/minneapolis-journal.md) | newspaper | Minneapolis, Minnesota | 1914–1920 · 3 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [The Pittsburgh Press](publications/pittsburgh-press.md) | newspaper | Pittsburgh, Pennsylvania | 1916–1920 · 2 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [The Red & Black (University of Georgia)](publications/red-and-black-georgia.md) | newspaper | Athens, Georgia | 2019–ongoing · 1 sighting | **Unknown: can you help?** | lead |
+| [The Tacoma Daily Ledger](publications/tacoma-daily-ledger.md) | newspaper | Tacoma, Washington | 1916–1917 · 3 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [The TASIS Echo (TASIS The American School in England)](publications/tasis-echo.md) | newspaper | England | 2000–2002 | **Unknown: can you help?** | lead |
 | [The Ubyssey (University of British Columbia)](publications/the-ubyssey.md) | newspaper | Vancouver | 2025–ongoing · 1 sighting | **Unknown: can you help?** | lead |
 | [The Washington Post](publications/washington-post.md) | newspaper | Washington, D.C. | 1971–ongoing | **Unknown: can you help?** | lead |

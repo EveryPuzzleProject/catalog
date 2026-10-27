@@ -6,7 +6,7 @@ place: Boston
 crosswords:
   first: 1917-02-25
   last: ongoing
-  frequency: "Sunday from 1917; Saturday added 1923-05-26; Wednesday added 1924-02-06; daily (Mon–Fri) from 1924-10-06, alongside separate Saturday and Sunday series; still daily in December 1935, labeled \"The Globe Cross-Word Puzzle\" with no sign of syndication. In 1924 Saturday ran two puzzles a week, \"Crossword Puzzles for the Grown-Ups\" and \"Crossword Puzzle for Boys and Girls\", for a year or two. From late November 1924 the Saturday puzzle (still headed \"The Globe's Saturday Cross Word Puzzle\") joins the daily's schedule: there is one Saturday puzzle, its solution is printed the next Monday and again the next Saturday, and the Saturday paper also prints Friday's daily solution (1924-11-22's puzzle answered on 1924-11-24 and 1924-11-29; 1924-11-29's on 1924-12-01). Before that, Monday 1924-11-10 prints Friday's solution and 1924-11-17 none. The heading \"The Globe's Saturday Cross Word Puzzle\" last appears on 1924-12-13; from 1924-12-20 the Saturday puzzles are headed by audience (\"for grownups\", \"for boys and girls\", \"for the more expert\"), never \"Saturday\". From 1924-12-13 (\"Two Cross Word Puzzles Today\") Saturday has two puzzles again: a large one for grown-ups (17x17 to 21x21, sometimes a special: an irregular \"Real Brain Twister\" on 1925-01-03, literary allusions on 1925-01-10, a heart-shaped Valentine's puzzle by \"Yebo of Dorchester\" on 1925-02-14, a March lion on 1925-02-28) and one for boys and girls (13x13 or 15x15). For three Saturdays, 1925-02-14 to 1925-02-28, the second slot is instead \"Cross Word Funnies, selected by Judge\" (copyright 1925), which also ran on weekdays from 1925-01-21 (see below); the boys and girls puzzle is back on 1925-03-07. The pair ends 1925-04-04, the last \"for the grownups\" and \"boys and girls\" headings found by text search; after that the puzzle is plain \"Cross-Word Puzzle\". By 1936 Saturday's puzzle is answered on Monday (\"Solution next Monday\"). From 1925-01-21 to 1925-02-28 \"Cross Word Funnies, selected by Judge\" (copyright 1925) ran about twice a week, mostly Tuesdays and Fridays, answered the next day (\"Solution of yesterday's cross-word funny\"): the first syndicated crosswords found in the Globe. In January they are reprints of Judge magazine's numbered puzzles, six to twelve weeks later: 1925-01-21 is Judge No. 1 (1924-11-01), 01-23 No. 2 (11-08), 01-27 No. 6 (12-06, face-shaped), 01-30 No. 8 (12-20). The February ones (1-Across LOVING, DENSE, DANCE; IOWA at 2-Across; \"the one who always picks a winner at the track\") match none of Judge's Nos. 1–16. Still daily in 1970, with no attribution or copyright line, so whether it was still made in-house is unknown. Later the Sunday puzzle moved into the Globe Magazine"
+  frequency: "Sunday from 1917 (the New York World's FUN puzzles, reprinted without credit: 1917-02-25 matched in the Tacoma Daily Ledger of 1917-03-11); Saturday added 1923-05-26; Wednesday added 1924-02-06; daily (Mon–Fri) from 1924-10-06, alongside separate Saturday and Sunday series; still daily in December 1935, labeled \"The Globe Cross-Word Puzzle\" with no sign of syndication. In 1924 Saturday ran two puzzles a week, \"Crossword Puzzles for the Grown-Ups\" and \"Crossword Puzzle for Boys and Girls\", for a year or two. From late November 1924 the Saturday puzzle (still headed \"The Globe's Saturday Cross Word Puzzle\") joins the daily's schedule: there is one Saturday puzzle, its solution is printed the next Monday and again the next Saturday, and the Saturday paper also prints Friday's daily solution (1924-11-22's puzzle answered on 1924-11-24 and 1924-11-29; 1924-11-29's on 1924-12-01). Before that, Monday 1924-11-10 prints Friday's solution and 1924-11-17 none. The heading \"The Globe's Saturday Cross Word Puzzle\" last appears on 1924-12-13; from 1924-12-20 the Saturday puzzles are headed by audience (\"for grownups\", \"for boys and girls\", \"for the more expert\"), never \"Saturday\". From 1924-12-13 (\"Two Cross Word Puzzles Today\") Saturday has two puzzles again: a large one for grown-ups (17x17 to 21x21, sometimes a special: an irregular \"Real Brain Twister\" on 1925-01-03, literary allusions on 1925-01-10, a heart-shaped Valentine's puzzle by \"Yebo of Dorchester\" on 1925-02-14, a March lion on 1925-02-28) and one for boys and girls (13x13 or 15x15). For three Saturdays, 1925-02-14 to 1925-02-28, the second slot is instead \"Cross Word Funnies, selected by Judge\" (copyright 1925), which also ran on weekdays from 1925-01-21 (see below); the boys and girls puzzle is back on 1925-03-07. The pair ends 1925-04-04, the last \"for the grownups\" and \"boys and girls\" headings found by text search; after that the puzzle is plain \"Cross-Word Puzzle\". By 1936 Saturday's puzzle is answered on Monday (\"Solution next Monday\"). From 1925-01-21 to 1925-02-28 \"Cross Word Funnies, selected by Judge\" (copyright 1925) ran about twice a week, mostly Tuesdays and Fridays, answered the next day (\"Solution of yesterday's cross-word funny\"): the first syndicated crosswords found in the Globe. In January they are reprints of Judge magazine's numbered puzzles, six to twelve weeks later: 1925-01-21 is Judge No. 1 (1924-11-01), 01-23 No. 2 (11-08), 01-27 No. 6 (12-06, face-shaped), 01-30 No. 8 (12-20). The February ones (1-Across LOVING, DENSE, DANCE; IOWA at 2-Across; \"the one who always picks a winner at the track\") match none of Judge's Nos. 1–16. Still daily in 1970, with no attribution or copyright line, so whether it was still made in-house is unknown. Later the Sunday puzzle moved into the Globe Magazine"
   answers: "daily series: the next day (Friday's on Monday while Saturday was separate; Saturday's on Monday from 1924-11-24, and again the next Saturday for a while; Friday's on Saturday from 1924-11-29); Wednesday series: the next Wednesday; Saturday series: the next Saturday (January 1924 to at least 1924-12-06); Sunday series: probably the following week (to confirm)"
   constructors: "Sunday constructors include Jordan S. Lasher (1980s), Emily Cox and Henry Rathvon, Henry Hook (alternating weekly with Cox and Rathvon through 2015; last seen 2015-05-31; died 2015, editor's note in the 2015-11-01 Globe), Elizabeth C. Gorski (2008-08-10 to 2008-11-16, alternating with Hook while Cox and Rathvon were away), Brendan Emmett Quigley (from 2015-06-14, alternating with Cox and Rathvon) and Joon Pahk (from at least 2022-04-17, alternating with Quigley; Cox and Rathvon last seen 2022-05-01) (Newspapers.com print checks; gxd bostonglobe/; Wayback snapshots; Globe help center)"
   syndication: "the Sunday puzzle was syndicated, at least 2003–2015, to LA Weekly and others, running weeks after the Globe (0 to 56 days; 49 from 2009), with some holiday puzzles held a year. gxd's 2003–2015 files were dated by that syndicated run until corrected (see sources)"
@@ -33,7 +33,7 @@ sources:
     access: free
 sightings:
   - date: 1917-02-25
-    puzzle: '"Cross-Word Puzzle", the first crossword in the Globe; a Sunday series follows. Page 4. "The solution of this cross-word puzzle will be printed next Sunday. A complete list of clews and definitions is given below." Hand-lettered numbers 1 to 122, clues numbered by start and end square in the World''s style (1-4 A cabbage with open curled leaves; vertical 2-12 Part of the verb "to be"); no byline, puzzle number, copyright or FUN credit in the clipping'
+    puzzle: '"Cross-Word Puzzle", the first crossword in the Globe, and not the Globe''s own: the New York World''s FUN puzzle, which the Tacoma Daily Ledger ran on 1917-03-11 as "Fun''s Cross-Word Puzzle" (same grid, numbers and clues). Page 4. "The solution of this cross-word puzzle will be printed next Sunday. A complete list of clews and definitions is given below." Hand-lettered numbers 1 to 122, clues numbered by start and end square in the World''s style (1-4 A cabbage with open curled leaves; vertical 2-12 Part of the verb "to be"); no byline, puzzle number, copyright or FUN credit in the clipping'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-05 (clipping https://www.newspapers.com/article/the-boston-globe-first-crossword-i-bosto/55523449/; Alex shared this date's page 4 on 2026-10-27); also gxd bostonglobe/1917/bg1917-02-25.xd
   - date: 1917-08-19
     puzzle: Sunday crossword, replayed with full answers by the Globe in 2022
@@ -186,8 +186,18 @@ Project home, with the status of every Sunday since 1980 and how to help:
 https://github.com/EveryPuzzleProject/bostonglobe
 (status page: https://everypuzzleproject.github.io/bostonglobe/).
 
-The Globe has run crosswords since February 25, 1917. By late 1924 it had
-three series running at once: a Sunday puzzle (from 1917), a Saturday puzzle
+The Globe has run crosswords since February 25, 1917, but the first ones weren't its
+own. The February 25, 1917 puzzle is the New York World's: the Tacoma Daily Ledger
+printed the same grid, numbers and clues on March 11, 1917, headed "Fun's Cross-Word
+Puzzle" (Alex DeJarnatt, Newspapers.com, 2026-10-27). The Globe ran it two weeks
+earlier than Tacoma, with no credit to the World or FUN. So the Globe's 1917 Sunday
+series was one of the World's partners, as T Campbell says
+([1917: The Year in Crosswords](https://tcampbell.substack.com/p/1917-the-year-in-crosswords)),
+and gxd's bg1917-02-25.xd is a World puzzle under a Globe date. When the Globe's own
+puzzles begin is now an open question: by May 26, 1923 (the Saturday series), if that
+was its own.
+
+By late 1924 it had three series running at once: a Sunday puzzle (from 1917), a Saturday puzzle
 (from May 26, 1923) and a Monday–Friday daily (from October 6, 1924), which
 absorbed a Wednesday puzzle that ran from February 6 to October 1, 1924.
 Because the series fall on different days, each date has at most one puzzle.
@@ -213,18 +223,11 @@ many Sundays. In summer 2026 the Globe moved its games to Puzzmo, carrying
 over puzzles from February 2024 on.
 
 Open questions:
-- **Were the 1917 puzzles the Globe's own?** T Campbell
-  ([1917: The Year in Crosswords](https://tcampbell.substack.com/p/1917-the-year-in-crosswords))
-  says the Globe didn't make its own crosswords in 1917 but reprinted the New York
-  World's, with its Sunday FUN section, like the Pittsburgh Press and the Tacoma Daily
-  Ledger. If so, the Globe's first own puzzle is later (the Saturday series of
-  1923-05-26?). The 1917-02-25 puzzle (page 4) has no
-  byline, puzzle number, copyright or FUN credit in the clipping, but it does have the
-  World's start–end clue numbering and hand-lettered grid numbers, like the World
-  reprints in the Minneapolis Journal (1914). Next checks: the rest of page 4 and its
-  section (is it a reprinted FUN section?), and bg1917-02-25.xd against the World's
-  puzzles of February 1917 or another partner's (Tacoma, Pittsburgh) of the same weeks. (The Globe's own archive dates its earliest
-  crossword to 1917-03-04, not 02-25.) See [first-runs.md](../first-runs.md).
+- **When did the Globe's own puzzles begin?** The 1917 Sunday puzzles were the World's
+  (above). How long did the Globe keep printing them, and was the Saturday series of
+  1923-05-26 the first of its own? Is the 1917-08-19 puzzle the Globe replayed in 2022
+  also a World puzzle? (The Globe's own archive dates its earliest crossword to
+  1917-03-04, not 02-25.) See [first-runs.md](../first-runs.md).
 - Did the Sunday series run continuously from 1917 to 1923, or stop and
   restart?
 - When did the daily end? Still running in 1970. Was it the Globe's own

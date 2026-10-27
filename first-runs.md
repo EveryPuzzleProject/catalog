@@ -22,9 +22,9 @@ scans.
 | New York World | 1913-12-21 | its own (Arthur Wynne, Sunday FUN section) | widely reproduced | [new-york-world.md](publications/new-york-world.md) |
 | The Minneapolis Journal | 1914-02-01 (its first, checked) | the World's ("Cross-Word Puzzle No. 5"; grid also marked "No. 7") | Alex DeJarnatt, Newspapers.com; Campbell 1915 | [minneapolis-journal.md](publications/minneapolis-journal.md) |
 | Fort Wayne Journal-Gazette | 1916 | the World's (FUN) | Campbell 1916 | none yet |
-| Tacoma Daily Ledger | 1916 | the World's (FUN), weeks late: a Christmas puzzle ran January 7 | Campbell 1916, 1917 | none yet |
+| Tacoma Daily Ledger | 1916 | the World's ("Fun's Cross-Word Puzzle"), weeks late: a Christmas puzzle ran January 7, 1917; the Globe's 1917-02-25 puzzle ran on 1917-03-11 | Campbell 1916, 1917; Newspapers.com, Alex DeJarnatt (1917-03-11) | [tacoma-daily-ledger.md](publications/tacoma-daily-ledger.md) |
 | The Pittsburgh Press | 1916-06-11 | the World's (FUN), then Jerry King's from 1920-03-14 | Campbell 1916, 1920; communicrossings.com; Alex DeJarnatt (1920-03-14) | [pittsburgh-press.md](publications/pittsburgh-press.md) |
-| The Boston Globe | 1917-02-25 | **disputed**: the Globe's own, or the World's (FUN)? | Newspapers.com and gxd (bg1917-02-25.xd); Campbell 1917 says FUN | [boston-globe.md](publications/boston-globe.md) |
+| The Boston Globe | 1917-02-25 | the World's (FUN), without credit: the same puzzle ran in Tacoma on 1917-03-11 as "Fun's Cross-Word Puzzle" | Newspapers.com, Alex DeJarnatt; gxd (bg1917-02-25.xd); Campbell 1917 | [boston-globe.md](publications/boston-globe.md) |
 | Salt Lake Telegram | 1917 | the World's (FUN) | Campbell 1917 | none yet |
 | Detroit Free Press | 1919-12-28 at the latest | unknown; World-style numbering, no byline seen | Newspapers.com, Alex DeJarnatt (1920-01-04, with the previous week's solution) | [detroit-free-press.md](publications/detroit-free-press.md) |
 | The Vancouver Sun | 1920 | Jerry King's | Campbell 1920 | none yet |
@@ -76,17 +76,17 @@ Outside the US (secondary sources, unchecked): Pearson's Magazine, London, Febru
   (Campbell 1920, 1921). Alex's Pittsburgh Press copy of 1920-03-14 says the solution
   will appear next Sunday and prints no previous solution, so it is probably the
   first.
-- **The Boston Globe's 1917 start is in question.** The catalog has the Globe's first
-  crossword on 1917-02-25 (the Globe's own archive says 1917-03-04), and its 2022
-  replay of 1917-08-19 calls it one of the Globe's first. Campbell says the Globe
-  didn't make its own crosswords in 1917 but printed the World's FUN puzzles, like
-  Tacoma and Pittsburgh. If so, the Globe's 1917 puzzles are World puzzles, and the
-  Globe's own run may start later (by 1923-05-26 at the latest). The 1917-02-25 puzzle (page 4,
-  Alex's clipping) carries no byline, number, copyright or FUN credit, but uses the
-  World's start–end clue numbering and hand-lettered grid numbers. That neither proves
-  nor rules out a World reprint. Check: the rest of page 4 and its section, and
-  bg1917-02-25.xd against the World's puzzles (or Tacoma's or Pittsburgh's) of the same
-  weeks.
+- **The Boston Globe's first crossword was the World's.** The Globe's puzzle of
+  1917-02-25 (page 4, no credit) is the same puzzle the Tacoma Daily Ledger ran on
+  1917-03-11 as "Fun's Cross-Word Puzzle": same grid, same hand-lettered numbers, same
+  clues (Alex DeJarnatt, 2026-10-27). Campbell was right. The Globe ran it two weeks
+  before Tacoma and dropped the FUN name. When the Globe's own puzzles start is now
+  open: by 1923-05-26, if the Saturday series was its own.
+- **How the World's puzzles traveled.** The two copies differ only in typesetting
+  ("clews" and "Mahometan" in the Globe, "clues" and "Mohammedan" in Tacoma), so the
+  grid probably went out as a plate or mat and the clues as text each paper set itself.
+  Partners ran the same puzzle on different Sundays (the Globe 14 days before Tacoma),
+  so a reprint's date says little about the World's date.
 
 ## Waiting to be recorded
 

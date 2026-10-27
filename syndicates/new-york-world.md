@@ -30,7 +30,8 @@ crossword and all. Known partners so far (T Campbell's posts, read through searc
 summaries; to check): the Minneapolis Journal (from 1914-02-01, the World's puzzle No. 5, found by Alex
 DeJarnatt), the Pittsburgh Press (from
 1916-06-11), the Fort Wayne Journal-Gazette and the Tacoma Daily Ledger (1916), the Salt
-Lake Telegram (1917), and perhaps the Boston Globe (1917, disputed). The reprints ran
+Lake Telegram (1917), and the Boston Globe (1917, without credit: its 1917-02-25
+puzzle is the one Tacoma ran on 1917-03-11 as "Fun's Cross-Word Puzzle"). The reprints ran
 days to weeks after the World. The full list is kept in
 [first-runs.md](../first-runs.md).
 
