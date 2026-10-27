@@ -125,3 +125,11 @@ Who made the puzzles: [`people/`](people/) collects what we learn about
 constructors whose bylines turn out to belong to someone on record, one file
 per person, with the evidence and how sure we are. Bylines worth a closer
 look are in [people/leads.md](people/leads.md).
+
+## Syndicates
+
+Who distributed the puzzles: [`syndicates/`](syndicates/) has one file per syndicate,
+self-syndicating editor, subscription service or platform. Each records its names over
+time, its features and editors, and its copyright lines as printed, so a puzzle's
+credits can be read. It starts with an overview of how the landscape changed from
+1924 to now.
