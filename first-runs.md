@@ -20,7 +20,7 @@ scans.
 | Paper | First known | Whose puzzle | Evidence | Entry |
 |---|---|---|---|---|
 | New York World | 1913-12-21 | its own (Arthur Wynne, Sunday FUN section) | widely reproduced | [new-york-world.md](publications/new-york-world.md) |
-| The Minneapolis Journal | by 1915 | the World's (FUN reprinted) | Campbell 1915; Alex DeJarnatt found a Minneapolis paper carrying FUN puzzles (paper and dates to record) | [minneapolis-journal.md](publications/minneapolis-journal.md) |
+| The Minneapolis Journal | early 1915 (exact date to record) | the World's (FUN reprinted) | Alex DeJarnatt, Newspapers.com; Campbell 1915 | [minneapolis-journal.md](publications/minneapolis-journal.md) |
 | Fort Wayne Journal-Gazette | 1916 | the World's (FUN) | Campbell 1916 | none yet |
 | Tacoma Daily Ledger | 1916 | the World's (FUN), weeks late: a Christmas puzzle ran January 7 | Campbell 1916, 1917 | none yet |
 | The Pittsburgh Press | 1916-06-11 | the World's (FUN), then Jerry King's from 1920-03-14 | Campbell 1916, 1920; communicrossings.com; Alex DeJarnatt (1920-03-14) | [pittsburgh-press.md](publications/pittsburgh-press.md) |
@@ -83,8 +83,8 @@ Outside the US (secondary sources, unchecked): Pearson's Magazine, London, Febru
 
 ## Waiting to be recorded
 
-- The Minneapolis paper Alex found carrying FUN: its name, the dates seen, and
-  whether it shows the World's credit.
+- The Minneapolis Journal's early-1915 FUN crosswords: exact dates, how far behind the
+  World they ran, and whether they carry the World's credit.
 
 ## Open questions
 

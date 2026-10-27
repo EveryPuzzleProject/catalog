@@ -29,8 +29,8 @@ Pittsburgh Press from June 11, 1916, the Fort Wayne Journal-Gazette and the Taco
 Ledger in 1916, the Salt Lake Telegram in 1917, and, T Campbell argues, the Boston Globe
 in 1917 ([Campbell, 1915](https://tcampbell.substack.com/p/1915-the-year-in-crosswords),
 [1916](https://tcampbell.substack.com/p/1916-the-year-in-crosswords),
-[1917](https://tcampbell.substack.com/p/1917-the-year-in-crosswords)). Alex DeJarnatt has also found a
-Minneapolis paper carrying FUN puzzles. The reprints ran days to weeks after the World
+[1917](https://tcampbell.substack.com/p/1917-the-year-in-crosswords)). Alex DeJarnatt has found the
+Minneapolis Journal carrying FUN puzzles in early 1915. The reprints ran days to weeks after the World
 (Tacoma printed a Christmas puzzle on January 7), so their dates aren't the World's.
 Wherever the World's own pages are missing, a reprint is a second copy of the puzzle.
 By the first E&P Syndicate Directory (October 1924) the New York World Syndicate lists
