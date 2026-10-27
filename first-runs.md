@@ -89,8 +89,9 @@ Outside the US (secondary sources, unchecked): Pearson's Magazine, London, Febru
   so a reprint's date says little about the World's date.
 
 - **The World's series is numbered, so reprints can be dated back to the World.** In
-  the Minneapolis Journal both a heading number ("No. 5") and a grid number ("No. 7") rise
-  one a week from 1914-02-01. The grid number fits a weekly count of Sundays from
+  the Minneapolis Journal the puzzle numbers rise one a week from 1914-02-01 (the
+  first has "No. 5" in its heading and "No. 7" in its grid; whether both rise is to
+  record). The grid number fits a weekly count of Sundays from
   1913-12-21. If that holds, World No. *n* ran on 1913-12-21 plus *n*−1 weeks, and any
   reprint whose number is legible can be tied to a World puzzle and an inferred World
   date. Inferred dates must be marked as such. This is how reprints in different
