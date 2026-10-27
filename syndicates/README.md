@@ -76,7 +76,7 @@ A first sketch, from E&P to 2000 and scattered sources after.
 
 - **1913–1923: the World and its partners.** Other papers reprinted the New York World's
   Sunday FUN section, crossword included, from the first weeks (the Minneapolis
-  Journal ran the World's No. 7 on 1914-02-01); in 1920 the Pittsburgh
+  Journal ran the World's No. 5 on 1914-02-01); in 1920 the Pittsburgh
   Press's "Jerry King" puzzle replaced it in some papers. The record is in
   [first-runs.md](../first-runs.md).
 - **1924–1930: the craze.** The first directory (October 1924) lists 9 crossword

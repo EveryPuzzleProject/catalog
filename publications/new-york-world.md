@@ -11,7 +11,7 @@ crosswords:
 sources:
   - where: other papers' reprints of the World's Sunday FUN section (a second copy of each puzzle, printed later)
     url: https://www.newspapers.com/
-    covers: "1914 to at least 1917: The Minneapolis Journal (by 1914-02-01: the World's No. 7, the Journal's No. 5), the Pittsburgh Press (from 1916-06-11), the Fort Wayne Journal-Gazette and Tacoma Daily Ledger (1916), the Salt Lake Telegram and perhaps the Boston Globe (1917), per T Campbell's \"Year in Crosswords\" posts; see first-runs.md"
+    covers: "1914 to at least 1917: The Minneapolis Journal (from 1914-02-01: the World's puzzle No. 5, its grid marked \"No. 7\"), the Pittsburgh Press (from 1916-06-11), the Fort Wayne Journal-Gazette and Tacoma Daily Ledger (1916), the Salt Lake Telegram and perhaps the Boston Globe (1917), per T Campbell's \"Year in Crosswords\" posts; see first-runs.md"
     access: subscription
 sightings:
   - date: 1913-12-21
@@ -25,7 +25,8 @@ The first crossword, Arthur Wynne's "Word-Cross Puzzle", ran here on December
 
 **The World's puzzles were syndicated almost from the start.** Other papers reprinted
 the Sunday FUN section, crossword and all: the Minneapolis Journal by February 1,
-1914 (the World's puzzle No. 7, as numbered in its grid; the Journal's fifth), the
+1914 (its first: the World's "Cross-Word Puzzle No. 5", six weeks after the first; the grid
+is also marked "No. 7", meaning unknown), the
 Pittsburgh Press from June 11, 1916, the Fort Wayne Journal-Gazette and the Tacoma Daily
 Ledger in 1916, the Salt Lake Telegram in 1917, and, T Campbell argues, the Boston Globe
 in 1917 ([Campbell, 1915](https://tcampbell.substack.com/p/1915-the-year-in-crosswords),
