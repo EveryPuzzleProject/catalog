@@ -99,6 +99,24 @@ Outside the US (secondary sources, unchecked): Pearson's Magazine, London, Febru
 - The Minneapolis Journal's reprints: whether the World skipped a Sunday before No. 7, whether it ran on
   the World's own dates, and whether the World is credited.
 
+## Plan: the World's FUN run, 1914–1917
+
+Agreed 2026-10-27. Clip the World's FUN crosswords from the Minneapolis Journal, one per
+Sunday, from No. 7 (1914-02-01) for as long as the Journal carries them and at least
+through 1917: 205 Sundays, World Nos. 7 to 211 if none was skipped. The run gives a master
+list of World puzzles with their numbers and dates, shows any skips, and lets each
+reprint elsewhere (the Boston Globe's 1917 Sundays, Tacoma, Pittsburgh) be matched to
+the World puzzle it is, by number while the grids carry one and by clues after.
+
+- For each Sunday: Journal date and page, the World number if printed, the heading, the
+  1-Across clue, the clipping link, and the solution (printed the next Sunday).
+- Record a Sunday whose page is missing from the scans as missing, not as a skip.
+- Where the Journal stops carrying FUN, continue with the Pittsburgh Press (from
+  1916-06-11) or the Tacoma Daily Ledger.
+- The data goes in its own repo (`newyorkworld`, modelled on `bostonglobe`), with a
+  status table of every expected Sunday and its inferred World number. Newspapers.com
+  allows about 30 high-resolution saves a day, so the run takes a week or more.
+
 ## Open questions
 
 - Every FUN partner, and when each started and stopped. Campbell's searches give a
