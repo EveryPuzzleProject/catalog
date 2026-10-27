@@ -20,7 +20,7 @@ scans.
 | Paper | First known | Whose puzzle | Evidence | Entry |
 |---|---|---|---|---|
 | New York World | 1913-12-21 | its own (Arthur Wynne, Sunday FUN section) | widely reproduced | [new-york-world.md](publications/new-york-world.md) |
-| The Minneapolis Journal | early 1915 (exact date to record) | the World's (FUN reprinted) | Alex DeJarnatt, Newspapers.com; Campbell 1915 | [minneapolis-journal.md](publications/minneapolis-journal.md) |
+| The Minneapolis Journal | 1914-01-04? (No. 5 on 1914-02-01) | the World's (grid numbered "No. 7", the Journal's "No. 5"; so its No. 1 was probably the World's No. 3) | Alex DeJarnatt, Newspapers.com; Campbell 1915 | [minneapolis-journal.md](publications/minneapolis-journal.md) |
 | Fort Wayne Journal-Gazette | 1916 | the World's (FUN) | Campbell 1916 | none yet |
 | Tacoma Daily Ledger | 1916 | the World's (FUN), weeks late: a Christmas puzzle ran January 7 | Campbell 1916, 1917 | none yet |
 | The Pittsburgh Press | 1916-06-11 | the World's (FUN), then Jerry King's from 1920-03-14 | Campbell 1916, 1920; communicrossings.com; Alex DeJarnatt (1920-03-14) | [pittsburgh-press.md](publications/pittsburgh-press.md) |
@@ -52,7 +52,9 @@ Outside the US (secondary sources, unchecked): Pearson's Magazine, London, Febru
 ## What this shows so far
 
 - **The World's puzzle was syndicated from the start**, or nearly: FUN, the World's
-  Sunday supplement, was reprinted in other papers by 1915. Those reprints are second
+  Sunday supplement, was reprinted in other papers by February 1, 1914, when the
+  Minneapolis Journal printed the World's puzzle No. 7 as its own No. 5, six weeks
+  after the first; if the World never skipped a week, on the World's own date. Those reprints are second
   copies of the World's puzzles, and since the World's FUN section survives badly
   ("Help wanted" in [new-york-world.md](publications/new-york-world.md)), they may be
   the best way to collect the World's 1913–1924 puzzles. Reprints ran days to weeks
@@ -83,8 +85,8 @@ Outside the US (secondary sources, unchecked): Pearson's Magazine, London, Febru
 
 ## Waiting to be recorded
 
-- The Minneapolis Journal's early-1915 FUN crosswords: exact dates, how far behind the
-  World they ran, and whether they carry the World's credit.
+- The Minneapolis Journal's reprints: its Nos. 1 to 4 (the World's Nos. 3 to 6, January
+  1914), whether it ran on the World's own dates, and whether the World is credited.
 
 ## Open questions
 

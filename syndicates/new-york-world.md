@@ -3,8 +3,8 @@ name: New York World Syndicate
 kind: newspaper
 names:
   - name: the World's Sunday FUN section, reprinted by other papers
-    from: 1915 or earlier
-    source: https://tcampbell.substack.com/p/1915-the-year-in-crosswords (via a search summary)
+    from: 1914-02-01 or earlier
+    source: publications/minneapolis-journal.md (Cross-Word Puzzle No. 5, Newspapers.com, Alex DeJarnatt)
   - name: New York World Syndicate
     from: 1924
     source: census/ep-crossword-features.csv (1924-10-25 directory)
@@ -25,9 +25,10 @@ sources:
   - https://tcampbell.substack.com/p/1920-the-year-in-crosswords
 ---
 
-The first crossword syndication: other papers reprinted the World's Sunday FUN section,
+The first crossword syndication, from the first weeks: other papers reprinted the World's Sunday FUN section,
 crossword and all. Known partners so far (T Campbell's posts, read through search
-summaries; to check): the Minneapolis Journal (by 1915), the Pittsburgh Press (from
+summaries; to check): the Minneapolis Journal (by 1914-02-01, the World's No. 7 as its own No. 5, found by
+Alex DeJarnatt), the Pittsburgh Press (from
 1916-06-11), the Fort Wayne Journal-Gazette and the Tacoma Daily Ledger (1916), the Salt
 Lake Telegram (1917), and perhaps the Boston Globe (1917, disputed). The reprints ran
 days to weeks after the World. The full list is kept in

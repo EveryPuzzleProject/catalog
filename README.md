@@ -57,7 +57,7 @@ far the project has got with it.
 | [The Daily Northwestern](publications/daily-northwestern.md) | newspaper | Evanston, Illinois | 2024–ongoing | **Unknown: can you help?** | lead |
 | [The Daily Tar Heel (UNC)](publications/daily-tar-heel.md) | newspaper | Chapel Hill, North Carolina | 2019–ongoing · 1 sighting | [DigitalNC North Carolina Newspapers (The Tar Heel / Daily Tar Heel)](https://newspapers.digitalnc.org/lccn/sn92073227/) | lead |
 | [The Michigan Daily](publications/michigan-daily.md) | newspaper | Ann Arbor, Michigan | unknown–ongoing | [Michigan Daily Digital Archives (Bentley Historical Library / U-M Library)](https://digital.bentley.umich.edu/midaily) | lead |
-| [The Minneapolis Journal](publications/minneapolis-journal.md) | newspaper | Minneapolis, Minnesota | 1915–1920 · 2 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
+| [The Minneapolis Journal](publications/minneapolis-journal.md) | newspaper | Minneapolis, Minnesota | 1914–1920 · 3 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [The Pittsburgh Press](publications/pittsburgh-press.md) | newspaper | Pittsburgh, Pennsylvania | 1916–1920 · 2 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [The Red & Black (University of Georgia)](publications/red-and-black-georgia.md) | newspaper | Athens, Georgia | 2019–ongoing · 1 sighting | **Unknown: can you help?** | lead |
 | [The TASIS Echo (TASIS The American School in England)](publications/tasis-echo.md) | newspaper | England | 2000–2002 | **Unknown: can you help?** | lead |
