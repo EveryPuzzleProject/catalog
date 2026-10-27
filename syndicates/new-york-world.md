@@ -4,7 +4,7 @@ kind: newspaper
 names:
   - name: the World's Sunday FUN section, reprinted by other papers
     from: 1914-02-01 or earlier
-    source: publications/minneapolis-journal.md (Cross-Word Puzzle No. 5, Newspapers.com, Alex DeJarnatt)
+    source: publications/minneapolis-journal.md (the World's No. 7, Newspapers.com, Alex DeJarnatt)
   - name: New York World Syndicate
     from: 1924
     source: census/ep-crossword-features.csv (1924-10-25 directory)
@@ -27,7 +27,7 @@ sources:
 
 The first crossword syndication, from the first weeks: other papers reprinted the World's Sunday FUN section,
 crossword and all. Known partners so far (T Campbell's posts, read through search
-summaries; to check): the Minneapolis Journal (from 1914-02-01, the World's puzzle No. 5, found by Alex
+summaries; to check): the Minneapolis Journal (from 1914-02-01, the World's No. 7, found by Alex
 DeJarnatt), the Pittsburgh Press (from
 1916-06-11), the Fort Wayne Journal-Gazette and the Tacoma Daily Ledger (1916), the Salt
 Lake Telegram (1917), and the Boston Globe (1917, without credit: its 1917-02-25

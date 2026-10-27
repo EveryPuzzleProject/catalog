@@ -15,8 +15,11 @@ sources:
     access: subscription
 sightings:
   - date: 1914-02-01
-    puzzle: 'the Journal''s first FUN crossword: "Cross-Word Puzzle No. 5", a reprint of the New York World''s puzzle, with the World''s text ("Today the fifth puzzle in the series is presented"); a diamond grid whose cross-shaped center block is marked "No. 7"; "Today the fifth puzzle in the series is presented ... The solution to today''s puzzle will be given next week"; the text says the puzzle editor has received many new cross-word puzzles from readers; clues numbered by start and end square (1-2 United in matrimony; 7-23 What FUN is printed on)'
+    puzzle: 'the Journal''s first FUN crossword: the World''s No. 7 (marked in the grid''s cross-shaped center block), headed by the Journal "Cross-Word Puzzle No. 5" ("Today the fifth puzzle in the series is presented"), a wrong number it dropped the next week; a diamond grid; "Today the fifth puzzle in the series is presented ... The solution to today''s puzzle will be given next week"; the text says the puzzle editor has received many new cross-word puzzles from readers; clues numbered by start and end square (1-2 United in matrimony; 7-23 What FUN is printed on)'
     seen: "Newspapers.com clipping, by Alex DeJarnatt, 2026-10-27 (probably https://www.newspapers.com/article/the-minneapolis-journal-cross-word-puzzl/208613436/); Alex confirmed it is the first Journal issue with a FUN puzzle"
+  - date: 1914-02-08
+    puzzle: '"Can You Solve Them?": the World''s No. 8 (in the grid''s center block, the same diamond-and-cross design), with no number of the Journal''s own; "Fill in the small squares in the above diamond with words corresponding to the clues and definitions given below"; clues numbered by start and end square (1-2 A lamb''s cry; 23-24 Adam''s eldest son)'
+    seen: Newspapers.com clipping, by Alex DeJarnatt, 2026-10-27
   - date: 1915
     puzzle: the World's crossword, in a reprint of the World's Sunday FUN section
     seen: "T Campbell, \"1915: The Year in Crosswords\" (https://tcampbell.substack.com/p/1915-the-year-in-crosswords), via a search summary"
@@ -28,32 +31,29 @@ status: lead
 
 Reprinted the New York World's crosswords almost from the start. Its first FUN
 crossword ran on February 1, 1914, six weeks after the World's first (1913-12-21):
-"Cross-Word Puzzle No. 5", with a clue "What FUN is printed on" (Alex DeJarnatt,
+the World's puzzle No. 7 (headed "Cross-Word Puzzle No. 5" by the Journal), with a clue
+"What FUN is printed on" (Alex DeJarnatt,
 Newspapers.com, 2026-10-27; Alex checked that no earlier Journal issue has a FUN
 puzzle). This is the earliest reprint of a World crossword known so far.
 
-**Two numbers, both the World's.** The heading says No. 5 and the text says "Today the
-fifth puzzle in the series is presented", but this was the Journal's first, so the
-number and the text are the World's, reprinted. The grid's center block says "No. 7".
-What the 7 counts is not known. One reading: December 21, 1913 to February 1, 1914 is
-seven Sundays counting both ends, so "No. 7" could count FUN's crossword Sundays (or FUN
-issues) while "No. 5" counts the numbered puzzles, which would mean two Sundays without
-a numbered puzzle, or numbering that started after the first. Only the World's own
-pages, or other papers' reprints, can settle it.
+**The number is the grid's, not the heading's.** The first puzzle's heading says "No. 5"
+and its text "Today the fifth puzzle in the series is presented", but the grid's center
+block says "No. 7". The next Sunday (1914-02-08, "Can You Solve Them?") the grid says
+"No. 8" and the Journal gives no number of its own: it dropped its wrong count and went
+with the World's (Alex DeJarnatt, 2026-10-27). The numbers rise one a week after that
+(Alex checked). So the grid number is the World's series number, and "No. 5" was the
+Journal's mistake.
 
-**The numbers rise by one a week.** In the Sundays after February 1, 1914 the numbers go
-up one per week (Alex DeJarnatt checked, 2026-10-27; which of the two numbers, or both,
-to record). So from February 1914 the World's series ran weekly without gaps, and a
-Journal date plus its number gives the number of any later Journal puzzle.
+**Dating the World's puzzles from it (inferred, not printed).** World No. 7 on
+1914-02-01 and No. 8 on 1914-02-08 fit a puzzle every Sunday from No. 1 on 1913-12-21:
+World No. *n* ran on 1913-12-21 plus *n*−1 weeks. On that count the Journal printed each
+puzzle on the World's own date, with no delay. Both points rest on the World never
+skipping a Sunday between December 21 and February 1, which a World page would confirm.
+Until then, any World date worked out this way is an inference, shown as one, with this
+reasoning.
 
-**What this suggests about dates (inferred, not printed).** The grid's "No. 7" matches a
-count of Sundays from December 21, 1913: 1913-12-21 is No. 1, 1914-02-01 is No. 7. If that
-is the World's number, the World ran a puzzle every Sunday from the first, and the
-Journal printed each one on the World's own date. The heading's "No. 5" ("the fifth
-puzzle in the series", the World's words) then needs another explanation: two Sundays
-without a numbered puzzle, or a series count that began after the first. Either way,
-any World date worked out from these numbers is an inference and must be shown as one,
-with its reasoning, until a World page confirms it.
+The design was a template: the same diamond with a shaded cross in the middle, the
+puzzle number printed in the cross.
 
 These numbers could also identify the World's puzzles independently of any one
 printing ("World No. 7"), so reprints in different papers (the Journal, the Globe,
@@ -67,7 +67,7 @@ In mid-March 1920, when the World's FUN section had gone two months without new
 crosswords, the Journal and the Pittsburgh Press began running "Jerry King's Cross-Word
 Puzzle" instead (see [pittsburgh-press.md](pittsburgh-press.md)).
 
-Open questions: whether both numbers rise weekly, or only one; what the two-number
-gap means (check the World's own pages for December 1913 and January 1914, or another
-partner's); whether every World grid carries a number; the last FUN reprint; whether the reprints carry the World's credit; whether
+Open questions: whether the World skipped any Sunday before No. 7 (a World page for
+December 1913 or January 1914, or another partner's, would confirm the count); how long
+the World kept numbering its grids; the last FUN reprint; whether the reprints carry the World's credit; whether
 the Journal ever made its own.

@@ -20,7 +20,7 @@ scans.
 | Paper | First known | Whose puzzle | Evidence | Entry |
 |---|---|---|---|---|
 | New York World | 1913-12-21 | its own (Arthur Wynne, Sunday FUN section) | widely reproduced | [new-york-world.md](publications/new-york-world.md) |
-| The Minneapolis Journal | 1914-02-01 (its first, checked) | the World's ("Cross-Word Puzzle No. 5"; grid also marked "No. 7") | Alex DeJarnatt, Newspapers.com; Campbell 1915 | [minneapolis-journal.md](publications/minneapolis-journal.md) |
+| The Minneapolis Journal | 1914-02-01 (its first, checked) | the World's No. 7 (the Journal's heading said "No. 5", dropped the next week), then weekly: No. 8 on 1914-02-08 | Alex DeJarnatt, Newspapers.com; Campbell 1915 | [minneapolis-journal.md](publications/minneapolis-journal.md) |
 | Fort Wayne Journal-Gazette | 1916 | the World's (FUN) | Campbell 1916 | none yet |
 | Tacoma Daily Ledger | 1916 | the World's ("Fun's Cross-Word Puzzle"), weeks late: a Christmas puzzle ran January 7, 1917; the Globe's 1917-02-25 puzzle ran on 1917-03-11 | Campbell 1916, 1917; Newspapers.com, Alex DeJarnatt (1917-03-11) | [tacoma-daily-ledger.md](publications/tacoma-daily-ledger.md) |
 | The Pittsburgh Press | 1916-06-11 | the World's (FUN), then Jerry King's from 1920-03-14 | Campbell 1916, 1920; communicrossings.com; Alex DeJarnatt (1920-03-14) | [pittsburgh-press.md](publications/pittsburgh-press.md) |
@@ -53,10 +53,8 @@ Outside the US (secondary sources, unchecked): Pearson's Magazine, London, Febru
 
 - **The World's puzzle was syndicated from the start**, or nearly: FUN, the World's
   Sunday supplement, was reprinted in other papers by February 1, 1914, when the
-  Minneapolis Journal printed the World's "Cross-Word Puzzle No. 5", six weeks after
-  the first. Its grid is also marked "No. 7": seven Sundays from December 21 to
-  February 1 counting both ends, so the World may have numbered puzzles and Sundays
-  differently. Those reprints are second
+  Minneapolis Journal printed the World's No. 7, six weeks after the first, and No. 8
+  the next Sunday: on the World's own dates, if the World ran every Sunday. Those reprints are second
   copies of the World's puzzles, and since the World's FUN section survives badly
   ("Help wanted" in [new-york-world.md](publications/new-york-world.md)), they may be
   the best way to collect the World's 1913–1924 puzzles. Reprints ran days to weeks
@@ -88,19 +86,17 @@ Outside the US (secondary sources, unchecked): Pearson's Magazine, London, Febru
   Partners ran the same puzzle on different Sundays (the Globe 14 days before Tacoma),
   so a reprint's date says little about the World's date.
 
-- **The World's series is numbered, so reprints can be dated back to the World.** In
-  the Minneapolis Journal the puzzle numbers rise one a week from 1914-02-01 (the
-  first has "No. 5" in its heading and "No. 7" in its grid; whether both rise is to
-  record). The grid number fits a weekly count of Sundays from
-  1913-12-21. If that holds, World No. *n* ran on 1913-12-21 plus *n*−1 weeks, and any
+- **The World's series is numbered, so reprints can be dated back to the World.** The
+  World printed its series number in the grid (No. 7 on 1914-02-01, No. 8 on 1914-02-08,
+  rising weekly after that, in the Minneapolis Journal). That fits a puzzle every Sunday
+  from No. 1 on 1913-12-21: World No. *n* ran on 1913-12-21 plus *n*−1 weeks. So a
   reprint whose number is legible can be tied to a World puzzle and an inferred World
-  date. Inferred dates must be marked as such. This is how reprints in different
-  papers (the Globe and Tacoma in 1917) could point to one puzzle without the World's
-  own page.
+  date, marked as inferred. This is how reprints in different papers (the Globe and
+  Tacoma in 1917) could point to one puzzle without the World's own page.
 
 ## Waiting to be recorded
 
-- The Minneapolis Journal's reprints: what the grid's "No. 7" counts, whether it ran on
+- The Minneapolis Journal's reprints: whether the World skipped a Sunday before No. 7, whether it ran on
   the World's own dates, and whether the World is credited.
 
 ## Open questions
