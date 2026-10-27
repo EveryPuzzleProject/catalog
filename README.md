@@ -31,7 +31,7 @@ far the project has got with it.
 ## The catalog
 
 <!-- catalog:start -->
-**27 publications so far** (18 lead, 7 researched, 1 harvesting, 1 blitzing).
+**28 publications so far** (19 lead, 7 researched, 1 harvesting, 1 blitzing).
 
 | Publication | Kind | Where | Crosswords | Scans | Status |
 |---|---|---|---|---|---|
@@ -45,12 +45,13 @@ far the project has got with it.
 | [The Stanford Daily](publications/stanford-daily.md) | newspaper | Stanford, California | 1935–ongoing | [Stanford Daily Archives (run by The Daily)](https://archives.stanforddaily.com/) | researched |
 | [The Tech (MIT)](publications/the-tech-mit.md) | newspaper | Cambridge, Massachusetts | unknown–ongoing | [The Tech website, historical issues](https://thetech.com/issues), [Internet Archive (MIT The Tech collection)](https://archive.org/details/mit_the_tech) | researched |
 | [Bard Bulletin (probably Bard High School Early College)](publications/bard-bulletin.md) | newspaper | New York | unknown | **Unknown: can you help?** | lead |
+| [Buffalo Courier](publications/buffalo-courier.md) | newspaper | Buffalo, New York | 1920–1925 · 2 sightings | [Newspapers.com (filed under "Buffalo Courier Express", the name after the 1926 merger with the Buffalo Express)](https://www.newspapers.com/) | lead |
 | [Daily Bruin (UCLA)](publications/daily-bruin.md) | newspaper | Los Angeles | 2000 · 1 sighting | **Unknown: can you help?** | lead |
 | [Detroit Free Press](publications/detroit-free-press.md) | newspaper | Detroit, Michigan | 1919–1920 · 1 sighting | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [Los Angeles Daily News (1923–1954)](publications/los-angeles-daily-news-1923.md) | newspaper | Los Angeles | 1941 · 1 sighting | **Unknown: can you help?** | lead |
 | [Los Angeles Times](publications/los-angeles-times.md) | newspaper | Los Angeles | 1924–ongoing · 12 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [New York World](publications/new-york-world.md) | newspaper | New York | 1913–1931 · 1 sighting | [other papers' reprints of the World's Sunday FUN section (a second copy of each puzzle, printed later)](https://www.newspapers.com/) | lead |
-| [Omaha Daily News](publications/omaha-daily-news.md) | newspaper | Omaha, Nebraska | unknown | [Newspapers.com](https://www.newspapers.com/) | lead |
+| [Omaha Daily News](publications/omaha-daily-news.md) | newspaper | Omaha, Nebraska | 1920 · 1 sighting | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [Orange and White (University of Tennessee; now The Daily Beacon)](publications/orange-and-white-tennessee.md) | newspaper | Knoxville, Tennessee | 1925–unknown | [UT Libraries Digital Collections (Daily Beacon / Orange and White issues)](https://volopedia.lib.utk.edu/entries/daily-beacon) | lead |
 | [The Brown Daily Herald](publications/brown-daily-herald.md) | newspaper | Providence, Rhode Island | unknown–ongoing | [Brown Digital Repository (Brown University Library)](https://repository.library.brown.edu/) | lead |
 | [The Daily Northwestern](publications/daily-northwestern.md) | newspaper | Evanston, Illinois | 2024–ongoing | **Unknown: can you help?** | lead |

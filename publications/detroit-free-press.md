@@ -16,7 +16,7 @@ sources:
 sightings:
   - date: 1920-01-04
     puzzle: '"Here''s Another Cross-Word Puzzle to Solve" ("This week''s cross-words puzzle can be solved without the aid of the encyclopedia ... The solution will appear next week"); a large grid with clues numbered by start and end square (1-4 Fruit of the oak; vertical 1-35 To cast down), and "Solution to last week''s cross-word puzzle" (top row ADVERTISEMENT, bottom row SENTIMENTALLY), so one ran on 1919-12-28 too; no byline seen'
-    seen: Newspapers.com clipping, by Alex DeJarnatt, 2026-10-27
+    seen: Newspapers.com clipping (Detroit_Free_Press_1920_01_04_94, page 94), by Alex DeJarnatt, 2026-10-27
 status: lead
 ---
 

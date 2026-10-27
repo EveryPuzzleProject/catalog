@@ -28,14 +28,14 @@ scans.
 | Salt Lake Telegram | 1917 | the World's (FUN) | Campbell 1917 | none yet |
 | Detroit Free Press | 1919-12-28 at the latest | unknown; World-style numbering, no byline seen | Newspapers.com, Alex DeJarnatt (1920-01-04, with the previous week's solution) | [detroit-free-press.md](publications/detroit-free-press.md) |
 | The Vancouver Sun | 1920 | Jerry King's | Campbell 1920 | none yet |
-| Buffalo Courier | 1921 | a syndicated puzzle (which?) | Campbell 1921 (the search summary says "Courier Express", a name that dates from 1926) | none yet |
+| Omaha Daily News | 1920-07-11 at the latest | "The Cross-Word Puzzle Corner", a reader's puzzle (Lottie M. Arnold of Council Bluffs) | Newspapers.com, Alex DeJarnatt | [omaha-daily-news.md](publications/omaha-daily-news.md) |
+| Buffalo Courier | 1920-10-31 at the latest | "Cross-Word Puzzle Corner", a reader's puzzle (Edgar W. Smith of Brooklyn); same heading as Omaha's, so possibly syndicated | Newspapers.com, Alex DeJarnatt; Campbell 1921 mentions a syndicated puzzle here | [buffalo-courier.md](publications/buffalo-courier.md) |
 | The Boston Globe, Saturday series | 1923-05-26 | probably the Globe's own (not established) | Newspapers.com, Alex DeJarnatt | [boston-globe.md](publications/boston-globe.md) |
 | The Boston Globe, Wednesday series | 1924-02-06 | probably the Globe's own (not established) | Newspapers.com, Alex DeJarnatt | [boston-globe.md](publications/boston-globe.md) |
 | Chicago Tribune | 1924-09-14 (Sunday); 1924-12-15 (daily) | its own (readers' puzzles, paid, by February 1925) | Internet Archive, Alex DeJarnatt | [chicago-tribune.md](publications/chicago-tribune.md) |
 | Boston Globe, daily | 1924-10-06 | the Globe's own ("The Globe Cross-Word Puzzle", no syndicate credit) | Newspapers.com | [boston-globe.md](publications/boston-globe.md) |
 | Judge | 1924-11-01 | its own, from readers | Internet Archive | [judge.md](publications/judge.md) |
 | Los Angeles Times | 1924-11-02 (Sunday); 1924-11-27 (daily) | unknown (Sunday); Bell Syndicate (daily) | Newspapers.com, gxd | [los-angeles-times.md](publications/los-angeles-times.md) |
-| Omaha Daily News | undated clipping | readers' puzzles ("The Cross-Word Puzzle Corner", Sunday magazine) | Newspapers.com, Alex DeJarnatt | [omaha-daily-news.md](publications/omaha-daily-news.md) |
 
 From October 1924 the syndicates join in: E&P's first Syndicate Directory (1924-10-25)
 lists nine crossword features from eight syndicates (Bell, International, King, Ledger
@@ -59,6 +59,10 @@ Outside the US (secondary sources, unchecked): Pearson's Magazine, London, Febru
   late, so a reprint's date is not the World's date.
 - **Some papers ran a weekly crossword of unclear origin before 1920.** The Detroit Free
   Press had one by 1919-12-28. Whether it was the World's is the first thing to settle.
+- **A "Cross-Word Puzzle Corner" ran in Omaha (by 1920-07-11) and Buffalo (by
+  1920-10-31)**, under the same heading, with readers' puzzles credited by name and
+  town (Lottie M. Arnold of Council Bluffs; Edgar W. Smith of Brooklyn). One
+  syndicated feature, or a heading both papers borrowed? To settle.
 - **"Jerry King's Cross-Word Puzzle" (1920–21) was the first rival series we know
   of.** For about two months in early 1920 the World's FUN section and its partners
   ran no new crosswords. Walter A. Walker registered a copyright through the Pittsburg
@@ -79,17 +83,6 @@ Outside the US (secondary sources, unchecked): Pearson's Magazine, London, Febru
 
 ## Waiting to be recorded
 
-Clippings Alex shared on 2026-10-27 that still need their paper or date:
-
-- **"Cross-Word Puzzle Corner"**: "Here is a cross word square, by Edgar W. Smith of
-  Brooklyn, N. Y., which will give the lovers of long words a thrill." A large grid
-  numbered World style, with clues given as start–end square pairs ("1-9 Science of
-  fossils", "86-94 Hatreds of mankind"; vertical "1-86 Equipment", "9-94 Matins gone
-  by"). Paper and date to add. The heading matches the Omaha Daily News's "The
-  Cross-Word Puzzle Corner" (below), so it may be from there.
-- **"The Cross-Word Puzzle Corner"**, Omaha Daily News Magazine, by Lottie M. Arnold of
-  Council Bluffs, Iowa: date to add (see
-  [omaha-daily-news.md](publications/omaha-daily-news.md)).
 - The Minneapolis paper Alex found carrying FUN: its name, the dates seen, and
   whether it shows the World's credit.
 
