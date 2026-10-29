@@ -45,9 +45,30 @@ crosswords, and some partners switched to "Jerry King's Cross-Word Puzzle" from 
 Pittsburgh Press (see [pittsburgh-press.md](pittsburgh-press.md)).
 
 **The series was numbered in the grid**, which lets reprints be dated back to the World:
-No. *n* on 1913-12-21 plus *n*−1 weeks, as far as the Journal's copies show (see
-[minneapolis-journal.md](minneapolis-journal.md)). How long the numbering lasted is not
-known.
+No. *n* on 1913-12-21 plus *n*−1 weeks (see [minneapolis-journal.md](minneapolis-journal.md)).
+Every deviation from the weekly count seen so far is the Minneapolis Journal's (missed
+Sundays, one skipped number), so the World's own dates still fit one puzzle every Sunday
+from 1913-12-21; the Journal's date is the World's only through 1914-05-10. The last
+number printed anywhere is No. 54 (Journal, 1915-01-17); none appears on any later page
+or in any 1916–17 copy (Alex DeJarnatt, 2026-10-27/29; newyorkworld printings.tsv).
+
+**Credit.** The Journal's FUN page was copyrighted by the Du Puy Syndicate until
+1914-04-12 and by the Press Publishing Co. from 04-19 (see
+[syndicates/du-puy.md](../syndicates/du-puy.md)). The 1914-12-06 puzzle's solution spells
+NEW YORK WORLD / SUNDAY FUN across its middle row.
+
+**FUN credited reader constructors**, by name and a New York address: Katherine Reilly
+(1914-04-05); in 1915 Charles P. Huntington and Paul West (1915-01-03); from 1916 Philip
+Malagrino, Mae B. Drugan, May E. Nugent, H. H. Johnson, William G. Melrose, Ray Salsburg
+and Bertha L. Botjer (partner copies; newyorkworld printings.tsv). Johnson was of Jersey
+City.
+
+**More partners (1916–17, from clippings by Alex DeJarnatt, 2026-10-27/29):** the Los
+Angeles Sunday Tribune ([entry](los-angeles-sunday-tribune.md)), the Shreveport Times
+([entry](shreveport-times.md)), the New Orleans States
+([entry](new-orleans-states.md)) and the Salt Lake Telegram
+([entry](salt-lake-telegram.md)), besides the Pittsburgh Press and Tacoma. Partners ran
+the same puzzle on different Sundays (see [first-runs.md](../first-runs.md)).
 
 Help wanted: where are scans of the Sunday "Fun" supplement? Failing that, which papers
 reprinted it, and when? The 1913–1924 record is in [first-runs.md](../first-runs.md).

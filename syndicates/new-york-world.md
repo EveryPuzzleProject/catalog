@@ -17,7 +17,12 @@ features:
     from: 1924
     to: 1924
     source: census/ep-crossword-features.csv
-copyright_lines: []
+copyright_lines:
+  - line: "(Copyright, 1914, by the Press Publishing Co.)"
+    seen: "Minneapolis Journal puzzle-page banner, 1914-04-19 through August 1914; none from September (Alex DeJarnatt, Newspapers.com, 2026-10-27/29)"
+  - line: "Copyright, 1917, by The Press Pub. Co."
+    seen: "Pittsburgh Press 1917-02-04, on the page's Bobby in Alphabet Land feature, not on the crossword"
+
 sources:
   - https://tcampbell.substack.com/p/1915-the-year-in-crosswords
   - https://tcampbell.substack.com/p/1916-the-year-in-crosswords
@@ -40,6 +45,12 @@ For about two months in early 1920 FUN had no new crosswords; the Pittsburgh Pre
 
 By October 1924 the New York World Syndicate is in E&P's first directory with a "Cross
 Word Puzzle (with solution)" by "World Staff". The World closed in 1931.
+
+**The credit changed in April 1914.** The Journal's puzzle page read "(Copyright, 1914, by
+the Du Puy Syndicate.)" from 02-15 to 04-12 and "by the Press Publishing Co." (the
+World's publisher) from 04-19 through August; none after. See [du-puy.md](du-puy.md).
+Open: did the World take FUN's syndication in-house in April 1914? The 1914-12-13 solution
+spells NEW YORK WORLD / SUNDAY FUN across its middle row, a credit built into the grid.
 
 Open questions: whether the crossword was sold with the whole FUN section or on its
 own, and under what credit; every partner and its dates; how the World Syndicate's 1924

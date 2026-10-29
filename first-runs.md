@@ -20,12 +20,15 @@ scans.
 | Paper | First known | Whose puzzle | Evidence | Entry |
 |---|---|---|---|---|
 | New York World | 1913-12-21 | its own (Arthur Wynne, Sunday FUN section) | widely reproduced | [new-york-world.md](publications/new-york-world.md) |
-| The Minneapolis Journal | 1914-02-01 (its first, checked) | the World's No. 7 (the Journal's heading said "No. 5", dropped the next week), then weekly: No. 8 on 1914-02-08 | Alex DeJarnatt, Newspapers.com; Campbell 1915 | [minneapolis-journal.md](publications/minneapolis-journal.md) |
+| The Minneapolis Journal | 1914-02-01 (its first, checked) | the World's No. 7 (the Journal's heading said "No. 5", dropped the next week), then Nos. 8 to 21 weekly to 1914-05-10; after that 2–3 weeks behind, to No. 54 (1915-01-17, the last number printed); FUN's crossword to at least 1916-12-03, with a gap 1915-08-01 to 11-14 | Alex DeJarnatt, Newspapers.com, 2026-10-27/29 (81 pages; newyorkworld printings.tsv); Campbell 1915 | [minneapolis-journal.md](publications/minneapolis-journal.md) |
 | Fort Wayne Journal-Gazette | 1916 | the World's (FUN) | Campbell 1916 | none yet |
-| Tacoma Daily Ledger | 1916 | the World's ("Fun's Cross-Word Puzzle"), weeks late: a Christmas puzzle ran January 7, 1917; the Globe's 1917-02-25 puzzle ran on 1917-03-11 | Campbell 1916, 1917; Newspapers.com, Alex DeJarnatt (1917-03-11) | [tacoma-daily-ledger.md](publications/tacoma-daily-ledger.md) |
-| The Pittsburgh Press | 1916-06-11 | the World's (FUN), then Jerry King's from 1920-03-14 | Campbell 1916, 1920; communicrossings.com; Alex DeJarnatt (1920-03-14) | [pittsburgh-press.md](publications/pittsburgh-press.md) |
+| Tacoma Daily Ledger | 1916 | the World's ("Fun's Cross-Word Puzzle"), a week behind Pittsburgh in February 1917; a Christmas puzzle ran January 7, 1917; the Globe's 1917-02-25 puzzle ran on 1917-03-11. Copies 1916-12-03, 1917-02-18, 02-25, 08-05 | Campbell 1916, 1917; Newspapers.com, Alex DeJarnatt (1917-03-11 and the four above) | [tacoma-daily-ledger.md](publications/tacoma-daily-ledger.md) |
+| The Pittsburgh Press | 1916-06-11 | the World's (FUN; copies 1916-10-01, 1917-02-04 and 02-18, the 02-04 page with the Press Publishing Co.'s copyright on another FUN feature), then Jerry King's from 1920-03-14 | Campbell 1916, 1920; communicrossings.com; Alex DeJarnatt (1916-10-01, 1917, 1920-03-14) | [pittsburgh-press.md](publications/pittsburgh-press.md) |
 | The Boston Globe | 1917-02-25 | the World's (FUN), without credit: the same puzzle ran in Tacoma on 1917-03-11 as "Fun's Cross-Word Puzzle" | Newspapers.com, Alex DeJarnatt; gxd (bg1917-02-25.xd); Campbell 1917 | [boston-globe.md](publications/boston-globe.md) |
-| Salt Lake Telegram | 1917 | the World's (FUN) | Campbell 1917 | none yet |
+| Los Angeles Sunday Tribune | 1916-08-06 at the latest | the World's ("Fun's Cross-Word Puzzle"), about six weeks behind Tacoma; credits constructors by name and address | Newspapers.com, Alex DeJarnatt (eight copies to 1917-12-02; filed as "Morning Tribune") | [los-angeles-sunday-tribune.md](publications/los-angeles-sunday-tribune.md) |
+| The Shreveport Times | 1916-08-06 at the latest | the World's ("Fun's Cross-Word Puzzle"), a week behind Pittsburgh on 1917-02-04 | Newspapers.com, Alex DeJarnatt (four copies to 1917-12-02) | [shreveport-times.md](publications/shreveport-times.md) |
+| New Orleans States | 1917-04-01 at the latest | the World's (FUN); same plate as Salt Lake on 1917-10-07 | Newspapers.com, Alex DeJarnatt (1917-04-01, 10-07) | [new-orleans-states.md](publications/new-orleans-states.md) |
+| Salt Lake Telegram | 1917 | the World's (FUN); 1917-10-07 seen, the same plate as New Orleans | Campbell 1917; Newspapers.com, Alex DeJarnatt (1917-10-07) | [salt-lake-telegram.md](publications/salt-lake-telegram.md) |
 | Detroit Free Press | 1919-12-28 at the latest | unknown; World-style numbering, no byline seen | Newspapers.com, Alex DeJarnatt (1920-01-04, with the previous week's solution) | [detroit-free-press.md](publications/detroit-free-press.md) |
 | The Vancouver Sun | 1920 | Jerry King's | Campbell 1920 | none yet |
 | Omaha Daily News | 1920-07-11 at the latest | "The Cross-Word Puzzle Corner", a reader's puzzle (Lottie M. Arnold of Council Bluffs) | Newspapers.com, Alex DeJarnatt | [omaha-daily-news.md](publications/omaha-daily-news.md) |
@@ -53,12 +56,20 @@ Outside the US (secondary sources, unchecked): Pearson's Magazine, London, Febru
 
 - **The World's puzzle was syndicated from the start**, or nearly: FUN, the World's
   Sunday supplement, was reprinted in other papers by February 1, 1914, when the
-  Minneapolis Journal printed the World's No. 7, six weeks after the first, and No. 8
-  the next Sunday: on the World's own dates, if the World ran every Sunday. Those reprints are second
+  Minneapolis Journal printed the World's No. 7, six weeks after the first. Those reprints are second
   copies of the World's puzzles, and since the World's FUN section survives badly
   ("Help wanted" in [new-york-world.md](publications/new-york-world.md)), they may be
   the best way to collect the World's 1913–1924 puzzles. Reprints ran days to weeks
   late, so a reprint's date is not the World's date.
+- **The Journal's date is the World's only through 1914-05-10.** Nos. 7 to 21 ran one a
+  week on the World's count. Then the Journal missed Sundays (05-17, 05-24, 06-07, 11-15)
+  and skipped one number (No. 34), and ran two to three weeks behind. Every deviation
+  from the weekly count seen so far is the Journal's, so the World's own dates still fit
+  one puzzle every Sunday from 1913-12-21, inferred and not yet confirmed by a World page.
+  The Journal's last printed number is No. 54 on 1915-01-17; no number appears on any
+  later page or in any 1916–17 copy in any paper (Alex DeJarnatt, 2026-10-27/29;
+  [newyorkworld](https://github.com/EveryPuzzleProject/newyorkworld) printings.tsv). See
+  [minneapolis-journal.md](publications/minneapolis-journal.md).
 - **Some papers ran a weekly crossword of unclear origin before 1920.** The Detroit Free
   Press had one by 1919-12-28. Whether it was the World's is the first thing to settle.
 - **A "Cross-Word Puzzle Corner" ran in Omaha (by 1920-07-11) and Buffalo (by
@@ -88,20 +99,44 @@ Outside the US (secondary sources, unchecked): Pearson's Magazine, London, Febru
 
 - **The World's series is numbered, so reprints can be dated back to the World.** The
   World printed its series number in the grid (No. 7 on 1914-02-01, No. 8 on 1914-02-08,
-  rising weekly after that, in the Minneapolis Journal). That fits a puzzle every Sunday
+  rising weekly to No. 21 on 1914-05-10, in the Minneapolis Journal; the numbering fades
+  out after January 1915). That fits a puzzle every Sunday
   from No. 1 on 1913-12-21: World No. *n* ran on 1913-12-21 plus *n*−1 weeks. So a
   reprint whose number is legible can be tied to a World puzzle and an inferred World
   date, marked as inferred. This is how reprints in different papers (the Globe and
   Tacoma in 1917) could point to one puzzle without the World's own page.
 
+- **Unnumbered puzzles in 1916–17 can be tied together by their constructors' credits and
+  first clues.** H. H. Johnson's puzzle ("A Japanese musical instrument") ran in Tacoma on
+  1917-02-18 and the LA Tribune on 1917-04-01, and Pittsburgh printed its solution on
+  02-18 (so it ran there 02-11). William G. Melrose's ("A mouthful") ran in Pittsburgh on
+  02-18 and Tacoma on 02-25. Miss Bertha L. Botjer's ("An aromatic plant") ran in
+  Shreveport on 02-04, the day Pittsburgh printed its solution. So Tacoma ran a week behind
+  Pittsburgh and the LA Tribune six weeks behind Tacoma. The LA Tribune's Christmas "Santa
+  Claus" puzzle ran on 1917-02-25. All of these are printing dates, not World dates (Alex
+  DeJarnatt, 2026-10-27/29; newyorkworld printings.tsv, `puzzle_key`).
+- **FUN credited reader constructors**, by name and a New York address, from 1914
+  (Katherine Reilly, 1914-04-05) to 1917 (see [new-york-world.md](publications/new-york-world.md)).
+- **The credit changed in 1914.** The Journal's FUN page carried "Copyright, 1914, by the
+  Du Puy Syndicate" until 1914-04-12 and "by the Press Publishing Co." from 04-19
+  ([du-puy.md](syndicates/du-puy.md)). Whether the World took FUN's syndication in-house
+  in April 1914 is open.
+
 ## Waiting to be recorded
 
-- The Minneapolis Journal's reprints: whether the World skipped a Sunday before No. 7, whether it ran on
-  the World's own dates, and whether the World is credited.
+- The Minneapolis Journal: whether the World skipped a Sunday before No. 7 (a World page or
+  another partner's for December 1913 to January 1914, Nos. 1-6, would confirm it).
+- The 1914 Sundays not yet found (Nos. 34, 38, 42, 53) and the Journal's 1916-17 Sundays
+  (batch 6 onward). 05-17 and 05-24 of 1914 are only text-search misses, not browsed.
 
 ## Plan: the World's FUN run, 1914–1917
 
-Agreed 2026-10-27. Clip the World's FUN crosswords from the Minneapolis Journal, one per
+Agreed 2026-10-27. **Status 2026-10-29: days 1-2 done; 44 of 211 World numbers (Nos. 1 to
+211, 1913-12-21 to 1917-12-30) have a copy, from 109 printings in eight papers.** The Journal's
+run from No. 7 to No. 54 is in (Nos. 34, 38, 42, 53 wanted) with 1915-17 spot checks; the
+sequential fill of 1916-17 is next. Tables and status page:
+[newyorkworld](https://github.com/EveryPuzzleProject/newyorkworld),
+https://everypuzzleproject.github.io/newyorkworld/. Clip the World's FUN crosswords from the Minneapolis Journal, one per
 Sunday, from No. 7 (1914-02-01) for as long as the Journal carries them and at least
 through 1917: 205 Sundays, World Nos. 7 to 211 if none was skipped. The run gives a master
 list of World puzzles with their numbers and dates, shows any skips, and lets each
