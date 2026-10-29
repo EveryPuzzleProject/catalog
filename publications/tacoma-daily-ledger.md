@@ -22,6 +22,18 @@ sightings:
   - date: 1917-03-11
     puzzle: '"Fun''s Cross-Word Puzzle", page 47: the same puzzle the Boston Globe printed on 1917-02-25 (same grid and hand-lettered numbers 1 to 122, same clues: 1-4 A cabbage with open curled leaves; vertical 2-12 Part of the verb "to be")'
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-27
+  - date: 1916-12-03
+    puzzle: '"Fun''s Cross=Word Puzzle", page 36, by Miss Ray Salsburg, 156 West 75th Street, New York'
+    seen: "Newspapers.com page, Alex DeJarnatt, 2026-10-27/29; newyorkworld printings.tsv"
+  - date: 1917-02-18
+    puzzle: 'H. H. Johnson of Jersey City, "A Japanese musical instrument" (KOTO), page 47; the page''s "last week''s" solution is this same puzzle''s, printed a week early'
+    seen: "Newspapers.com page, Alex DeJarnatt, 2026-10-27/29; newyorkworld printings.tsv"
+  - date: 1917-02-25
+    puzzle: 'William G. Melrose of New York, "A mouthful", page 35: the puzzle the Pittsburgh Press ran 02-18'
+    seen: "Newspapers.com page, Alex DeJarnatt, 2026-10-27/29; newyorkworld printings.tsv"
+  - date: 1917-08-05
+    puzzle: '"Fun''s Cross-Word Puzzle", page 37, first clue "1-5 Expeditious"'
+    seen: "Newspapers.com page, Alex DeJarnatt, 2026-10-27/29; newyorkworld printings.tsv"
 status: lead
 ---
 
@@ -40,6 +52,11 @@ this cross-word puzzle will be printed next Sunday." The grids match down to the
 lettering, so the grid seems to have gone out as a ready-made printing plate or mat,
 and the clues as text each paper set in its own type. That's an inference from two
 copies.
+
+**Tacoma ran one week behind Pittsburgh** in February 1917: Johnson's puzzle on 02-18
+(Pittsburgh 02-11, inferred) and Melrose's on 02-25 (Pittsburgh 02-18), both credited to
+New York-area readers by name and address. On 02-18 Tacoma printed its own puzzle's
+solution a week early, as "last week's" (Alex DeJarnatt; newyorkworld printings.tsv).
 
 Open questions: Tacoma's first and last FUN puzzles; how far behind the World it ran
 (Campbell's Christmas puzzle on January 7 suggests about two weeks, the same gap as

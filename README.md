@@ -31,7 +31,7 @@ far the project has got with it.
 ## The catalog
 
 <!-- catalog:start -->
-**29 publications so far** (20 lead, 7 researched, 1 harvesting, 1 blitzing).
+**33 publications so far** (24 lead, 7 researched, 1 harvesting, 1 blitzing).
 
 | Publication | Kind | Where | Crosswords | Scans | Status |
 |---|---|---|---|---|---|
@@ -49,18 +49,22 @@ far the project has got with it.
 | [Daily Bruin (UCLA)](publications/daily-bruin.md) | newspaper | Los Angeles | 2000 · 1 sighting | **Unknown: can you help?** | lead |
 | [Detroit Free Press](publications/detroit-free-press.md) | newspaper | Detroit, Michigan | 1919–1920 · 1 sighting | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [Los Angeles Daily News (1923–1954)](publications/los-angeles-daily-news-1923.md) | newspaper | Los Angeles | 1941 · 1 sighting | **Unknown: can you help?** | lead |
+| [Los Angeles Sunday Tribune](publications/los-angeles-sunday-tribune.md) | newspaper | Los Angeles, California | 1916–1917 · 3 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [Los Angeles Times](publications/los-angeles-times.md) | newspaper | Los Angeles | 1924–ongoing · 12 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
+| [New Orleans States](publications/new-orleans-states.md) | newspaper | New Orleans, Louisiana | 1917 · 2 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [New York World](publications/new-york-world.md) | newspaper | New York | 1913–1931 · 1 sighting | [other papers' reprints of the World's Sunday FUN section (a second copy of each puzzle, printed later)](https://www.newspapers.com/) | lead |
 | [Omaha Daily News](publications/omaha-daily-news.md) | newspaper | Omaha, Nebraska | 1920 · 1 sighting | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [Orange and White (University of Tennessee; now The Daily Beacon)](publications/orange-and-white-tennessee.md) | newspaper | Knoxville, Tennessee | 1925–unknown | [UT Libraries Digital Collections (Daily Beacon / Orange and White issues)](https://volopedia.lib.utk.edu/entries/daily-beacon) | lead |
+| [Salt Lake Telegram](publications/salt-lake-telegram.md) | newspaper | Salt Lake City, Utah | 1917 · 2 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [The Brown Daily Herald](publications/brown-daily-herald.md) | newspaper | Providence, Rhode Island | unknown–ongoing | [Brown Digital Repository (Brown University Library)](https://repository.library.brown.edu/) | lead |
 | [The Daily Northwestern](publications/daily-northwestern.md) | newspaper | Evanston, Illinois | 2024–ongoing | **Unknown: can you help?** | lead |
 | [The Daily Tar Heel (UNC)](publications/daily-tar-heel.md) | newspaper | Chapel Hill, North Carolina | 2019–ongoing · 1 sighting | [DigitalNC North Carolina Newspapers (The Tar Heel / Daily Tar Heel)](https://newspapers.digitalnc.org/lccn/sn92073227/) | lead |
 | [The Michigan Daily](publications/michigan-daily.md) | newspaper | Ann Arbor, Michigan | unknown–ongoing | [Michigan Daily Digital Archives (Bentley Historical Library / U-M Library)](https://digital.bentley.umich.edu/midaily) | lead |
-| [The Minneapolis Journal](publications/minneapolis-journal.md) | newspaper | Minneapolis, Minnesota | 1914–1920 · 4 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
-| [The Pittsburgh Press](publications/pittsburgh-press.md) | newspaper | Pittsburgh, Pennsylvania | 1916–1920 · 2 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
+| [The Minneapolis Journal](publications/minneapolis-journal.md) | newspaper | Minneapolis, Minnesota | 1914–1920 · 8 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
+| [The Pittsburgh Press](publications/pittsburgh-press.md) | newspaper | Pittsburgh, Pennsylvania | 1916–1920 · 5 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [The Red & Black (University of Georgia)](publications/red-and-black-georgia.md) | newspaper | Athens, Georgia | 2019–ongoing · 1 sighting | **Unknown: can you help?** | lead |
-| [The Tacoma Daily Ledger](publications/tacoma-daily-ledger.md) | newspaper | Tacoma, Washington | 1916–1917 · 3 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
+| [The Shreveport Times](publications/shreveport-times.md) | newspaper | Shreveport, Louisiana | 1916–1917 · 3 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
+| [The Tacoma Daily Ledger](publications/tacoma-daily-ledger.md) | newspaper | Tacoma, Washington | 1916–1917 · 7 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [The TASIS Echo (TASIS The American School in England)](publications/tasis-echo.md) | newspaper | England | 2000–2002 | **Unknown: can you help?** | lead |
 | [The Ubyssey (University of British Columbia)](publications/the-ubyssey.md) | newspaper | Vancouver | 2025–ongoing · 1 sighting | **Unknown: can you help?** | lead |
 | [The Washington Post](publications/washington-post.md) | newspaper | Washington, D.C. | 1971–ongoing | **Unknown: can you help?** | lead |
