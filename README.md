@@ -31,13 +31,14 @@ far the project has got with it.
 ## The catalog
 
 <!-- catalog:start -->
-**23 publications so far** (14 lead, 7 researched, 1 harvesting, 1 blitzing).
+**24 publications so far** (14 lead, 8 researched, 1 harvesting, 1 blitzing).
 
 | Publication | Kind | Where | Crosswords | Scans | Status |
 |---|---|---|---|---|---|
 | [Judge](publications/judge.md) | magazine | New York | 1924–1925 · 3 sightings | [Internet Archive](https://archive.org/details/pub_judge), [newspapers carrying "Cross Word Funnies, selected by Judge" (copyright 1925)](https://www.newspapers.com/) | blitzing |
 | [GAMES](publications/games.md) | magazine | US | 1977–ongoing | [Internet Archive](https://archive.org/details/games_magazine) | harvesting |
 | [Chicago Tribune](publications/chicago-tribune.md) | newspaper | Chicago | 1924–1941 · 4 sightings | [Internet Archive](https://archive.org/search?query=identifier%3Aper_chicago-daily-tribune_*), [Newspapers.com](https://www.newspapers.com/) | researched |
+| [Newport Mercury](publications/newport-mercury.md) | newspaper | Newport, Rhode Island | 1925–1926 · 9 sightings | [Newspapers.com Northeast Collection (library edition, via Newport Public Library)](http://newspaperslibrary.proquest.com/) | researched |
 | [The Boston Globe](publications/boston-globe.md) | newspaper | Boston | 1917–ongoing · 49 sightings | [Newspapers.com](https://www.newspapers.com/), gxd (Saul Pwanson's crossword corpus, private), [Wayback Machine snapshots of the Globe's old crossword pages](https://web.archive.org/web/*/bostonglobe.com/lifestyle/crossword*), [Boston Globe games site (Puzzmo)](https://www.bostonglobe.com/games/crossword) | researched |
 | [The Daily Collegian (Penn State)](publications/daily-collegian-penn-state.md) | newspaper | State College, Pennsylvania | 1976–1981 · 4 sightings | [Historical Digital Collegian Archive (Penn State University Libraries)](https://libraries.psu.edu/databases/psu00795) | researched |
 | [The Daily Pennsylvanian](publications/daily-pennsylvanian.md) | newspaper | Philadelphia | unknown–ongoing | [Daily Pennsylvanian archives (University of Pennsylvania Libraries)](https://dparchives.library.upenn.edu/) | researched |
