@@ -3,6 +3,19 @@
 Bylines worth a closer look, and people who may match them, short of an entry of their
 own. Move a lead to its own file once something ties the person to puzzles.
 
+## Early newspaper puzzles (1913–1924)
+
+From clippings and T Campbell's "Year in Crosswords" posts; see
+[first-runs.md](../first-runs.md).
+
+- **"Jerry King"** (Pittsburgh Press, "Jerry King's Cross-Word Puzzle", from
+  1920-03-14): probably a pseudonym. Walter A. Walker registered the copyright through
+  the Press in early 1920 (T Campbell, 1920).
+- **Edgar W. Smith, Brooklyn, N. Y.**: a "cross word square" in the Buffalo Courier's
+  "Cross-Word Puzzle Corner", 1920-10-31.
+- **Lottie M. Arnold, Council Bluffs, Iowa**: a reader's puzzle in the Omaha Daily
+  News Magazine's "Cross-Word Puzzle Corner", 1920-07-11.
+
 ## The Cross Word Puzzle Book, Second and Third Series (Simon and Schuster, 1924)
 
 Web search only so far (2026-10-13); no newspaper archives yet.

@@ -31,7 +31,7 @@ far the project has got with it.
 ## The catalog
 
 <!-- catalog:start -->
-**24 publications so far** (14 lead, 8 researched, 1 harvesting, 1 blitzing).
+**34 publications so far** (24 lead, 8 researched, 1 harvesting, 1 blitzing).
 
 | Publication | Kind | Where | Crosswords | Scans | Status |
 |---|---|---|---|---|---|
@@ -46,16 +46,26 @@ far the project has got with it.
 | [The Stanford Daily](publications/stanford-daily.md) | newspaper | Stanford, California | 1935–ongoing | [Stanford Daily Archives (run by The Daily)](https://archives.stanforddaily.com/) | researched |
 | [The Tech (MIT)](publications/the-tech-mit.md) | newspaper | Cambridge, Massachusetts | unknown–ongoing | [The Tech website, historical issues](https://thetech.com/issues), [Internet Archive (MIT The Tech collection)](https://archive.org/details/mit_the_tech) | researched |
 | [Bard Bulletin (probably Bard High School Early College)](publications/bard-bulletin.md) | newspaper | New York | unknown | **Unknown: can you help?** | lead |
+| [Buffalo Courier](publications/buffalo-courier.md) | newspaper | Buffalo, New York | 1920–1925 · 2 sightings | [Newspapers.com (filed under "Buffalo Courier Express", the name after the 1926 merger with the Buffalo Express)](https://www.newspapers.com/) | lead |
 | [Daily Bruin (UCLA)](publications/daily-bruin.md) | newspaper | Los Angeles | 2000 · 1 sighting | **Unknown: can you help?** | lead |
+| [Detroit Free Press](publications/detroit-free-press.md) | newspaper | Detroit, Michigan | 1919–1920 · 1 sighting | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [Los Angeles Daily News (1923–1954)](publications/los-angeles-daily-news-1923.md) | newspaper | Los Angeles | 1941 · 1 sighting | **Unknown: can you help?** | lead |
+| [Los Angeles Sunday Tribune](publications/los-angeles-sunday-tribune.md) | newspaper | Los Angeles, California | 1916–1917 · 3 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [Los Angeles Times](publications/los-angeles-times.md) | newspaper | Los Angeles | 1924–ongoing · 12 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
-| [New York World](publications/new-york-world.md) | newspaper | New York | 1913–1931 · 1 sighting | **Unknown: can you help?** | lead |
+| [New Orleans States](publications/new-orleans-states.md) | newspaper | New Orleans, Louisiana | 1917 · 2 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
+| [New York World](publications/new-york-world.md) | newspaper | New York | 1913–1931 · 1 sighting | [other papers' reprints of the World's Sunday FUN section (a second copy of each puzzle, printed later)](https://www.newspapers.com/) | lead |
+| [Omaha Daily News](publications/omaha-daily-news.md) | newspaper | Omaha, Nebraska | 1920 · 1 sighting | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [Orange and White (University of Tennessee; now The Daily Beacon)](publications/orange-and-white-tennessee.md) | newspaper | Knoxville, Tennessee | 1925–unknown | [UT Libraries Digital Collections (Daily Beacon / Orange and White issues)](https://volopedia.lib.utk.edu/entries/daily-beacon) | lead |
+| [Salt Lake Telegram](publications/salt-lake-telegram.md) | newspaper | Salt Lake City, Utah | 1917 · 2 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [The Brown Daily Herald](publications/brown-daily-herald.md) | newspaper | Providence, Rhode Island | unknown–ongoing | [Brown Digital Repository (Brown University Library)](https://repository.library.brown.edu/) | lead |
 | [The Daily Northwestern](publications/daily-northwestern.md) | newspaper | Evanston, Illinois | 2024–ongoing | **Unknown: can you help?** | lead |
 | [The Daily Tar Heel (UNC)](publications/daily-tar-heel.md) | newspaper | Chapel Hill, North Carolina | 2019–ongoing · 1 sighting | [DigitalNC North Carolina Newspapers (The Tar Heel / Daily Tar Heel)](https://newspapers.digitalnc.org/lccn/sn92073227/) | lead |
 | [The Michigan Daily](publications/michigan-daily.md) | newspaper | Ann Arbor, Michigan | unknown–ongoing | [Michigan Daily Digital Archives (Bentley Historical Library / U-M Library)](https://digital.bentley.umich.edu/midaily) | lead |
+| [The Minneapolis Journal](publications/minneapolis-journal.md) | newspaper | Minneapolis, Minnesota | 1914–1920 · 8 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
+| [The Pittsburgh Press](publications/pittsburgh-press.md) | newspaper | Pittsburgh, Pennsylvania | 1916–1920 · 5 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [The Red & Black (University of Georgia)](publications/red-and-black-georgia.md) | newspaper | Athens, Georgia | 2019–ongoing · 1 sighting | **Unknown: can you help?** | lead |
+| [The Shreveport Times](publications/shreveport-times.md) | newspaper | Shreveport, Louisiana | 1916–1917 · 3 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
+| [The Tacoma Daily Ledger](publications/tacoma-daily-ledger.md) | newspaper | Tacoma, Washington | 1916–1917 · 7 sightings | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [The TASIS Echo (TASIS The American School in England)](publications/tasis-echo.md) | newspaper | England | 2000–2002 | **Unknown: can you help?** | lead |
 | [The Ubyssey (University of British Columbia)](publications/the-ubyssey.md) | newspaper | Vancouver | 2025–ongoing · 1 sighting | **Unknown: can you help?** | lead |
 | [The Washington Post](publications/washington-post.md) | newspaper | Washington, D.C. | 1971–ongoing | **Unknown: can you help?** | lead |
@@ -116,7 +126,9 @@ carries:                    # syndicated series this publication printed
     source: https://...
 ```
 
-How big is the whole thing? See [the known universe](universe.md).
+How big is the whole thing? See [the known universe](universe.md). The first
+runs, from the New York World's first crossword (1913) to the end of 1924, are
+tracked paper by paper in [first-runs.md](first-runs.md).
 
 The table above is rebuilt from these files whenever one changes.
 
@@ -126,3 +138,11 @@ Who made the puzzles: [`people/`](people/) collects what we learn about
 constructors whose bylines turn out to belong to someone on record, one file
 per person, with the evidence and how sure we are. Bylines worth a closer
 look are in [people/leads.md](people/leads.md).
+
+## Syndicates
+
+Who distributed the puzzles: [`syndicates/`](syndicates/) has one file per syndicate,
+self-syndicating editor, subscription service or platform. Each records its names over
+time, its features and editors, and its copyright lines as printed, so a puzzle's
+credits can be read. It starts with an overview of how the landscape changed from
+1924 to now.
