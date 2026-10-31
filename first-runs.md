@@ -40,8 +40,9 @@ scans.
 | Judge | 1924-11-01 | its own, from readers | Internet Archive | [judge.md](publications/judge.md) |
 | Los Angeles Times | 1924-11-02 (Sunday); 1924-11-27 (daily) | unknown (Sunday); Bell Syndicate (daily) | Newspapers.com, gxd | [los-angeles-times.md](publications/los-angeles-times.md) |
 
-From October 1924 the syndicates join in: E&P's first Syndicate Directory (1924-10-25)
-lists nine crossword features from eight syndicates (Bell, International, King, Ledger
+Syndicates were selling crosswords earlier in 1924 (a Bell puzzle ran in the Indianapolis
+Star on 1924-02-03; see [bell-mcclure.md](syndicates/bell-mcclure.md)), and from October
+they are on the record: E&P's first Syndicate Directory (1924-10-25) lists nine crossword features from eight syndicates (Bell, International, King, Ledger
 (two), McClure, Metropolitan, the Herald Tribune, and the New York World Syndicate, so
 by then the World was selling its puzzle formally), and a Metropolitan ad of
 1924-10-18 names client papers: the St. Louis Post-Dispatch, the Washington Post, the
