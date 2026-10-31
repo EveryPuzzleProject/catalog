@@ -77,6 +77,13 @@ Open questions:
   own, worth collecting across papers. How many were there? US and Canadian papers ran different puzzles on the same day
   (1925-02-07): how far does that hold? Watch for papers that paired a grid with the
   wrong clues (St. Joseph Gazette, 1925-02-07): use them for clues only.
+- Who distributed the "Funnies"? Not named in E&P's Syndicate Directories:
+  the run (January–May 1925) falls between the October 1924 and July 1925
+  directories (see `census/ep-crossword-features.csv`), and no ad or news
+  item for it turned up in E&P's weekly issues of 1924-11-15 to 1925-03-07
+  (OCR text searched for "Funnies" and "Judge", 2026-10-08). The copyright
+  line on a clipping may name the distributor; so far it is recorded only as
+  "copyright 1925".
 - The scans end in 1939, but the magazine ran on. When did the crossword stop,
   and are later issues scanned anywhere?
 - Numbering restarted at No. 1 on 1927-04-30 (the first series ran to No.
