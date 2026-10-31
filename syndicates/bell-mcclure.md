@@ -47,10 +47,14 @@ sources:
   - ../publications/los-angeles-times.md
 ---
 
-Bell sold one of the first syndicated crosswords: the first E&P directory (October
-1924) lists it, and a Bell ad in the same issue offers "Two Crackerjack Puzzle
-Services". The LA Times ran Bell's daily from 1924-11-27 to at least 1963-07-15
-([los-angeles-times.md](../publications/los-angeles-times.md)).
+Bell sold one of the first syndicated crosswords, by 1924-02-03 in the Indianapolis
+Star (Bell copyright, no number), and the Burlington Free Press ran the Star's
+1924-03-16 puzzle on 03-13 (Alex DeJarnatt, Newspapers.com, 2026-10-31). The first
+E&P directory (October 1924) lists it, and a Bell ad in the same issue offers "Two
+Crackerjack Puzzle Services". The LA Times ran Bell's daily from 1924-11-27 to at
+least 1963-07-15 ([los-angeles-times.md](../publications/los-angeles-times.md)).
+Which papers carried it in 1924-25 is tracked in
+[EveryPuzzleProject/bell](https://github.com/EveryPuzzleProject/bell).
 
 McClure's Richard H. Tingley puzzle (1924–1931) is one of the few early syndicated
 crosswords with a byline.
