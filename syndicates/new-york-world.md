@@ -55,3 +55,27 @@ spells NEW YORK WORLD / SUNDAY FUN across its middle row, a credit built into th
 Open questions: whether the crossword was sold with the whole FUN section or on its
 own, and under what credit; every partner and its dates; how the World Syndicate's 1924
 listing relates to the FUN reprints.
+
+**The 1924 listing, read in Editor & Publisher (checked 2026-11-03).** The World Syndicate's
+crossword of late 1924 was sold with Harry Houdini's Magic section, not apart from it. E&P
+for 1924-11-15 carries an ad from F. B. Knapp, manager of the World Syndicate: the World,
+"which started the Cross-Word Puzzle Craze by its famous Sunday World Cross-Word Puzzle Page,"
+offers a four-page weekly magic section edited by Houdini ("Red Magic"), to appear in the World
+on Sunday 1924-11-16 and be sold to other papers. E&P for 1925-01-03 calls it "The Red Magic and
+Cross Word Section, edited by Harry Houdini for the New York World Syndicate," enlarged from
+four to eight pages; 1925-04-18 has Houdini giving a reception for editors at the Waldorf for it.
+The 1924-10-25 directory line ("Cross Word Puzzle (with solution)", "World Staff") and the 1925
+ad ("a daily cross word, two Sunday cross words, by The World Editors") are the same product at
+different times. E&P for 1925-02-28 profiles the World Sunday Magazine's puzzle staff: Prosper
+Buranelli edited the page, Margaret Petherbridge made the puzzle, F. Gregory Hartswick helped.
+No client paper is named in E&P's news columns for 1924-09-06 to 1925-06-27 (43 issues, OCR from
+archive.org, searched for World Syndicate, Red Magic, Houdini and cross-word near World), so
+clients have to come from the papers themselves (Newspapers.com search for "Red Magic" or
+Houdini's section in 1924-11 to 1925-06). Not a FUN reprint: the FUN section ended with the
+Journal's last copies, and this is a new feature.
+**Is the World itself readable online for 1924?** No evidence it is. Chronicling America and NYS
+Historic Newspapers cover the World to 1922 only (The Online Books Page, nyworld); Ben Zimmer
+wrote on the ADS-L list on 2024-11-07 that the World of 1924-25 "has not been scanned and
+digitized in any database." Fultonhistory.com could not be searched from the research session
+(its search is not scriptable): unverified, worth a manual query for the New York World in
+December 1924. (Alex DeJarnatt's research session, 2026-11-03.)
