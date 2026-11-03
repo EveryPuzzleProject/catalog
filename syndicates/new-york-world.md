@@ -79,3 +79,4 @@ wrote on the ADS-L list on 2024-11-07 that the World of 1924-25 "has not been sc
 digitized in any database." Fultonhistory.com could not be searched from the research session
 (its search is not scriptable): unverified, worth a manual query for the New York World in
 December 1924. (Alex DeJarnatt's research session, 2026-11-03.)
+**First client found:** the Detroit Free Press ran Red Magic as its own Sunday section on 1925-01-11 (cover on Newspapers.com page 100; headed "RED MAGIC / The Detroit Free Press"; Alex DeJarnatt, 2026-11-03). The cover shows no crossword or World credit; its cross word page, if any, is a later page of the section.
