@@ -1,7 +1,7 @@
 name: Catalog
 on:
   pull_request:
-    paths: ["publications/**", "tools/**"]
+    paths: ["publications/**", "syndicates/**", "universe.md", "tools/**"]
   push:
     branches: [main]
     paths: ["publications/**", "tools/**"]
@@ -19,6 +19,9 @@ jobs:
       - name: Check entries
         if: github.event_name == 'pull_request'
         run: python tools/build.py --check
+      - name: Check the page renders
+        if: github.event_name == 'pull_request'
+        run: python tools/render.py
       - name: Rebuild the catalog table
         if: github.event_name == 'push'
         run: |
