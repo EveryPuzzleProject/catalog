@@ -57,7 +57,22 @@ sightings:
   - date: 1963-12-25
     puzzle: daily crossword, Copyright General Features Corp.
     seen: Newspapers.com scan, by Alex DeJarnatt, 2026-10-02
-status: lead
+corpus:
+  id: latimes
+  puzzles: 10661
+  years: "1924, 1996–2026"
+  as_of: 2026-11-06
+corpus:
+  id: latimes
+  puzzles: 10661
+  years: "1924, 1996–2026"
+  as_of: 2026-11-06
+corpus:
+  id: latimes
+  puzzles: 10661
+  years: "1924, 1996–2026"
+  as_of: 2026-11-06
+status: corpus
 ---
 
 The common claim that the LA Times started its crossword in 1942 is about

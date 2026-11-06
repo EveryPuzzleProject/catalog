@@ -20,7 +20,7 @@ sources:
     url: https://www.newspapers.com/
     covers: "puzzle pages 1917–1936 checked; Sunday issues are missing from 1925 to June 1943 (they return July 1943), an archive gap (Alex DeJarnatt, 2026-10-05), so Sunday puzzles in that span need another source"
     access: subscription
-  - where: gxd (Saul Pwanson's crossword corpus, private)
+  - where: the xd Crossword Corpus
     covers: "786 puzzles, nearly all Sundays: one from 1917, 1980–1988 (sparse), 1998–2015 (2003-01 to 2015-10 complete except 9 Sundays). The 2003–2015 files were dated by a syndicated run (181 built from LA Weekly .puz files), 0 to 56 days after the Globe, 49 from March 2009, with some holiday puzzles a year late; checked Sunday by Sunday against print for 2003–2009 and by spot checks after (Alex DeJarnatt, Newspapers.com, 2026-10-05). Fix pending as gxd branch fix-bostonglobe-dates: re-dates 661 files, drops 3 syndication reruns of 2002 puzzles, corrects titles and bylines, adds bg2004-12-19a and bg2016-02-14a. Pre-2003 dates spot-checked and correct. Missing Sundays and 3 files with no solution listed in xword-ocr harvests/bostonglobe/missing-for-blitz.md"
     access: unknown
   - where: Wayback Machine snapshots of the Globe's old crossword pages
@@ -179,7 +179,22 @@ sightings:
   - date: 2024-06-09
     puzzle: 'THEMELESS CHALLENGER by Quigley as the ordinary Sunday puzzle, no "Easier" partner (1-Across "Slacks, say"); also 2025-08-03 (1-Across "Beginning with a setback") and 2026-04-12 in the Puzzmo index'
     seen: Newspapers.com search for "Themeless Challenger", by Alex DeJarnatt, 2026-10-06
-status: researched
+corpus:
+  id: bostonglobe
+  puzzles: 1589
+  years: "1917, 1980–1988, 1998–2026"
+  as_of: 2026-11-06
+corpus:
+  id: bostonglobe
+  puzzles: 1589
+  years: "1917, 1980–1988, 1998–2026"
+  as_of: 2026-11-06
+corpus:
+  id: bostonglobe
+  puzzles: 1589
+  years: "1917, 1980–1988, 1998–2026"
+  as_of: 2026-11-06
+status: corpus
 ---
 
 Project home, with the status of every Sunday since 1980 and how to help:

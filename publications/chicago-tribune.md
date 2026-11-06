@@ -31,7 +31,22 @@ sightings:
   - date: 1941-04-12
     puzzle: 'winners of the Tribune''s "Our Flag" crossword puzzle contest (a solving contest), 430 names, https://archive.org/details/per_chicago-daily-tribune_1941-04-12_100_88/page/n9/mode/1up'
     seen: Internet Archive full-text search, 2026-10-15
-status: researched
+corpus:
+  id: chicago
+  puzzles: 2345
+  years: "1995–2009"
+  as_of: 2026-11-06
+corpus:
+  id: chicago
+  puzzles: 2345
+  years: "1995–2009"
+  as_of: 2026-11-06
+corpus:
+  id: chicago
+  puzzles: 2345
+  years: "1995–2009"
+  as_of: 2026-11-06
+status: corpus
 ---
 
 The first crossword ran on Sunday, September 14, 1924, in the Woman's Section. A

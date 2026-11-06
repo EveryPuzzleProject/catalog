@@ -17,7 +17,22 @@ sightings:
   - date: 1913-12-21
     puzzle: Arthur Wynne's "Word-Cross Puzzle"
     seen: widely reproduced
-status: lead
+corpus:
+  id: nyworld
+  puzzles: 2
+  years: "1913"
+  as_of: 2026-11-06
+corpus:
+  id: nyworld
+  puzzles: 2
+  years: "1913"
+  as_of: 2026-11-06
+corpus:
+  id: nyworld
+  puzzles: 2
+  years: "1913"
+  as_of: 2026-11-06
+status: corpus
 ---
 
 The first crossword, Arthur Wynne's "Word-Cross Puzzle", ran here on December

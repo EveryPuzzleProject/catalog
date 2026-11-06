@@ -16,13 +16,19 @@ here should say what it rests on; a line with nothing behind it says *unknown*.
 ## Where the puzzles come from
 
 For each category we want a count of outlets, puzzles a year, and the years
-covered, as a low–high range. Nothing is estimated yet.
+covered, as a low–high range. So far only the number of newspapers that
+existed is known, from the Library of Congress directory in [census/](census/);
+how many of them printed crosswords, and how many puzzles a year, is not
+estimated yet. The outlet counts are distinct titles (one per title, city and
+state) with a run reaching 1913 or later, computed from
+`census/loc-titles.csv` on 2026-11-06; the directory's unknown end years make
+these generous, and the directory stops in 2009.
 
 | Category | Outlets | Puzzles a year | Years | Rests on |
 |---|---|---|---|---|
-| Daily newspapers, original puzzles (US) | unknown | | | |
-| Syndicated daily and Sunday features (US) | unknown | | | |
-| Weekly and monthly papers, local papers | unknown | | | |
+| Daily newspapers, original puzzles (US) | at most about 10,300 dailies existed since 1913 (9,800 English-language); the share that printed crosswords is unknown | | | census/loc-titles.csv, `frequency_norm` daily, `latest_end` ≥ 1913 |
+| Syndicated daily and Sunday features (US) | 9 features in 1924, 65 in 2000 (E&P's Syndicate Directory, sampled every five years) | | 1924–2000 | census/ep-crossword-features.md |
+| Weekly and monthly papers, local papers | at most about 54,000 weeklies, 2,500 semiweeklies and 4,700 monthly newspapers existed since 1913; the share with crosswords is unknown | | | census/loc-titles.csv, as above |
 | College and school papers | unknown | | | Research so far has only Bard Bulletin, the TASIS Echo and Campus Crosswords (2012 syndicated service); no systematic survey |
 | Magazines, in-flight and trade | unknown | | | |
 | Puzzle magazines (Dell, Penny Press, Kappa and others) | unknown | | | |
@@ -35,16 +41,22 @@ covered, as a low–high range. Nothing is estimated yet.
 
 ## What the catalog knows so far
 
-An entry that gives `crosswords.per_year` and a run adds to the total below.
-This part is rebuilt automatically.
+An entry that gives `crosswords.per_year` and a run adds to the total below,
+and an entry with a `corpus` block adds its puzzles to the count of what is
+already preserved. This part is rebuilt automatically.
 
 <!-- universe:start -->
 | Kind | Entries | With a puzzle count |
 |---|---|---|
-| newspaper | 32 | 0 |
-| magazine | 2 | 0 |
+| newspaper | 53 | 0 |
+| magazine | 20 | 0 |
+| book | 2 | 0 |
+| website | 49 | 0 |
+| other | 7 | 0 |
 
 Puzzles in entries that give a run and a yearly count: about 0. This is a floor, not an estimate: it only counts what the catalog knows.
+
+Puzzles already preserved in the xd Crossword Corpus, from 107 of these publications: 129,284 (every series and mini the corpus files under the publication; syndicated features are not included).
 <!-- universe:end -->
 
 ## How to improve the estimate

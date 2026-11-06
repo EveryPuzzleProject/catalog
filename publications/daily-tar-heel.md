@@ -17,7 +17,22 @@ sightings:
     puzzle: crossword whose printed clues did not match the grid
     seen: letter to the editor (Michael Everhart, 17 Jan 2019)
     report: https://dailytarheel.com/article/2019/01/letter-to-the-editor-crossword-0117
-status: lead
+corpus:
+  id: student/dailytarheel
+  puzzles: 32
+  years: "2026"
+  as_of: 2026-11-06
+corpus:
+  id: student/dailytarheel
+  puzzles: 32
+  years: "2026"
+  as_of: 2026-11-06
+corpus:
+  id: student/dailytarheel
+  puzzles: 32
+  years: "2026"
+  as_of: 2026-11-06
+status: corpus
 ---
 
 A 2019 letter shows the paper printed a crossword on 11 January 2019 and had

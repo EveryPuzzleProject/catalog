@@ -16,7 +16,22 @@ sources:
     url: https://repository.library.brown.edu/
     covers: "1891–2021 (per search-result excerpts; not confirmed on an opened page)"
     access: free
-status: lead
+corpus:
+  id: student/browndailyherald
+  puzzles: 197
+  years: "2010–2011, 2022–2026"
+  as_of: 2026-11-06
+corpus:
+  id: student/browndailyherald
+  puzzles: 197
+  years: "2010–2011, 2022–2026"
+  as_of: 2026-11-06
+corpus:
+  id: student/browndailyherald
+  puzzles: 197
+  years: "2010–2011, 2022–2026"
+  as_of: 2026-11-06
+status: corpus
 ---
 
 Everything here is from web-search result excerpts; the Herald's own pages

@@ -18,9 +18,11 @@ STATUSES = {  # in pipeline order
     "researched": "Researched: ready to find scans",
     "harvesting": "Harvesting: scans being read",
     "blitzing": "Blitzing: puzzles being checked",
-    "archived": "Archived",
+    "corpus": "In the corpus: some or all of its puzzles are in the xd Crossword Corpus; the rest of its run is unresearched",
+    "archived": "Archived: its whole known run is in the corpus",
 }
 START, END = "<!-- catalog:start -->", "<!-- catalog:end -->"
+CSTART, CEND = "<!-- census:start -->", "<!-- census:end -->"
 USTART, UEND = "<!-- universe:start -->", "<!-- universe:end -->"
 
 
@@ -49,6 +51,11 @@ def load(path: Path) -> tuple[dict, list[str]]:
     errors += dated_list(path, "carries", e.get("carries"), "feature")
     if cw.get("per_year") is not None and not isinstance(cw["per_year"], (int, float)):
         errors.append(f"{path}: crosswords.per_year must be a number (distinct puzzles a year, roughly)")
+    c = e.get("corpus")
+    if c is not None and not (isinstance(c, dict) and c.get("id") and isinstance(c.get("puzzles"), int)):
+        errors.append(f"{path}: corpus must give an id (the corpus directory) and puzzles (a count); see tools/corpus.py")
+    if e.get("status") == "corpus" and not c:
+        errors.append(f"{path}: status corpus needs a corpus block (tools/corpus.py fills it in)")
     return e, errors
 
 
@@ -84,11 +91,19 @@ def span(e: dict) -> str:
     return text + (f" · {n} sighting{'s' if n != 1 else ''}" if n else "")
 
 
+def corpus(e: dict) -> str:
+    """What the xd Crossword Corpus holds: "1,431 · 1917, 1980–2026"."""
+    c = e.get("corpus") or {}
+    years = c.get("years")
+    return f"{c['puzzles']:,}" + (f" · {years}" if years and years != "unknown" else "") if c.get("puzzles") else ""
+
+
 def row(path: Path, e: dict) -> str:
     years = span(e)
-    src = ", ".join(f"[{s['where']}]({s['url']})" if s.get("url") else s["where"] for s in e.get("sources") or [])
+    src = ", ".join(f"[{s['where']}]({s['url']})" if s.get("url") else s["where"]
+                    for s in e.get("sources") or [] if s["where"] != "the xd Crossword Corpus")
     return (f"| [{e['name']}](publications/{path.name}) | {e['kind']} | {e.get('place') or e.get('country') or ''} "
-            f"| {years} | {src or '**Unknown: can you help?**'} | {e['status']} |")
+            f"| {years} | {corpus(e)} | {src or '**Unknown: can you help?**'} | {e['status']} |")
 
 
 def rollup(entries) -> str:
@@ -107,8 +122,12 @@ def rollup(entries) -> str:
         a, b = year(cw.get("first")), year(cw.get("last"))
         if cw.get("per_year") and a.isdigit() and b.isdigit():
             total += int(cw["per_year"]) * (int(b) - int(a) + 1)
+    held = sum((e.get("corpus") or {}).get("puzzles") or 0 for _, e in entries)
+    pubs = sum(1 for _, e in entries if (e.get("corpus") or {}).get("puzzles"))
     lines += ["", f"Puzzles in entries that give a run and a yearly count: about {total:,}."
-              " This is a floor, not an estimate: it only counts what the catalog knows."]
+              " This is a floor, not an estimate: it only counts what the catalog knows.",
+              "", f"Puzzles already preserved in the xd Crossword Corpus, from {pubs} of these publications: {held:,}"
+              " (every series and mini the corpus files under the publication; syndicated features are not included)."]
     return "\n".join(lines)
 
 
@@ -125,17 +144,17 @@ def main(check: bool) -> int:
     order = list(STATUSES)
     entries.sort(key=lambda pe: (-order.index(pe[1]["status"]), pe[1]["name"].lower()))
     counts = {s: sum(1 for _, e in entries if e["status"] == s) for s in STATUSES}
-    summary = ", ".join(f"{n} {s}" for s, n in counts.items() if n)
+    summary = ", ".join(f"{n} {'in the corpus' if s == 'corpus' else s}" for s, n in counts.items() if n)
+    census = f"**{len(entries)} publications so far** ({summary})."
     table = "\n".join([
-        f"**{len(entries)} publications so far** ({summary}).",
-        "",
-        "| Publication | Kind | Where | Crosswords | Scans | Status |",
-        "|---|---|---|---|---|---|",
+        "| Publication | Kind | Where | Crosswords | In the corpus | Scans | Status |",
+        "|---|---|---|---|---|---|---|",
         *(row(p, e) for p, e in entries),
     ])
     readme = Path("README.md")
     text = readme.read_text(encoding="utf-8")
     new = re.sub(re.escape(START) + ".*?" + re.escape(END), lambda _: f"{START}\n{table}\n{END}", text, flags=re.S)
+    new = re.sub(re.escape(CSTART) + ".*?" + re.escape(CEND), lambda _: f"{CSTART}\n{census}\n{CEND}", new, flags=re.S)
     if check:
         print(f"{len(entries)} entries look good.")
         return 0
