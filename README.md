@@ -7,6 +7,10 @@ who made them, where copies survive, and how far the project has got with
 getting them preserved. The census is nowhere near done, and this page says
 how far along it is.
 
+**Browse it at [everypuzzleproject.org/catalog](https://everypuzzleproject.org/catalog/)**:
+the count, a map of which decades and kinds are covered, and the register as a
+table you can sort and filter.
+
 <!-- census:start -->
 **131 publications so far** (18 lead, 5 researched, 1 harvesting, 1 blitzing, 106 in the corpus).
 <!-- census:end -->
@@ -302,3 +306,5 @@ these files whenever one changes (`python tools/build.py`). The `corpus`
 blocks are refreshed from a checkout of the corpus with
 `python tools/corpus.py <checkout>`; only names, counts and years are read,
 never puzzle content.
+The web page at everypuzzleproject.org/catalog is rendered from the same files
+by `python tools/render.py` (into `site/`) and deployed on every push to main.
