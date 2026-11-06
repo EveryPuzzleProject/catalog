@@ -29,6 +29,21 @@ sightings:
   - date: 1925-02-07
     puzzle: 'Cross Word Funnies in two papers, different puzzles, neither a numbered Judge puzzle: Hamilton Spectator (Ontario), 1-Across "Drawn together with a string" (5 letters); Buffalo Courier, 1-Across "A bird favored by sailors and old maids" (6); a Fremont, Nebraska paper ran the same puzzle as Buffalo, and The Province (Vancouver) the same as Hamilton. The St. Joseph Gazette (Missouri) printed the US grid with the clues of another puzzle (1-Across "A champion who doesn''t dig up turf"), the one Hamilton ran on 1925-02-14: unsolvable as printed'
     seen: Newspapers.com scans, by Alex DeJarnatt, 2026-10-06
+corpus:
+  id: judge
+  puzzles: 531
+  years: "1924–1939"
+  as_of: 2026-11-06
+corpus:
+  id: judge
+  puzzles: 531
+  years: "1924–1939"
+  as_of: 2026-11-06
+corpus:
+  id: judge
+  puzzles: 531
+  years: "1924–1939"
+  as_of: 2026-11-06
 status: blitzing
 blitz: https://github.com/EveryPuzzleProject/blitz/tree/main/publications/judge
 ---

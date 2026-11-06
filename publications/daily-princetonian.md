@@ -16,7 +16,22 @@ sources:
     url: http://theprince.princeton.edu/
     covers: 1876–2002 (2002–present on the paper's own site)
     access: free
-status: researched
+corpus:
+  id: student/dailyprincetonian
+  puzzles: 516
+  years: "2021–2026"
+  as_of: 2026-11-06
+corpus:
+  id: student/dailyprincetonian
+  puzzles: 516
+  years: "2021–2026"
+  as_of: 2026-11-06
+corpus:
+  id: student/dailyprincetonian
+  puzzles: 516
+  years: "2021–2026"
+  as_of: 2026-11-06
+status: corpus
 ---
 
 Today the Prince has a puzzles team (head and associate editors, senior and
