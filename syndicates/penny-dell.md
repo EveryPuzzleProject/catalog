@@ -25,7 +25,7 @@ features:
   - feature: Dell crosswords sold to newspapers through Copley News Service
     from: 1972
     to: 1988
-    source: census/ep-crossword-features.csv ("Crossword Puzzle (Dell)", Copley, 1972–74 and 1987–88)
+    source: universe/ep-crossword-features.csv ("Crossword Puzzle (Dell)", Copley, 1972–74 and 1987–88)
 copyright_lines: []
 sources:
   - https://en.wikipedia.org/wiki/Penny_Publications

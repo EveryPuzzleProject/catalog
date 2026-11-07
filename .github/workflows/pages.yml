@@ -1,7 +1,7 @@
-name: Catalog page
+name: Census page
 
 # Renders site/index.html from publications/*.md and deploys it to
-# https://everypuzzleproject.org/catalog/. The Catalog workflow (catalog.yml)
+# https://everypuzzleproject.org/census/. The Build workflow (build.yml)
 # rewrites README.md's table on the same pushes; this one reads the entries
 # directly, so the two don't depend on each other.
 on:

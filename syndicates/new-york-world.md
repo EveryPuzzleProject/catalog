@@ -7,7 +7,7 @@ names:
     source: publications/minneapolis-journal.md (the World's No. 7, Newspapers.com, Alex DeJarnatt)
   - name: New York World Syndicate
     from: 1924
-    source: census/ep-crossword-features.csv (1924-10-25 directory)
+    source: universe/ep-crossword-features.csv (1924-10-25 directory)
 features:
   - feature: the World's crossword, in the Sunday FUN section (Arthur Wynne, then others)
     from: 1913-12-21
@@ -16,7 +16,7 @@ features:
   - feature: Cross Word Puzzle (with solution), "World Staff"
     from: 1924
     to: 1924
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
 copyright_lines:
   - line: "(Copyright, 1914, by the Press Publishing Co.)"
     seen: "Minneapolis Journal puzzle-page banner, 1914-04-19 through August 1914; none from September (Alex DeJarnatt, Newspapers.com, 2026-10-27/29)"

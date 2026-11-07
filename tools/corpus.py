@@ -1,15 +1,15 @@
-"""Seed and refresh catalog entries from the xd Crossword Corpus.
+"""Seed and refresh census entries from the xd Crossword Corpus.
 
     python tools/corpus.py <checkout>          refresh every entry that has corpus.id
     python tools/corpus.py <checkout> --new    also create entries for corpus publications
-                                               the catalog doesn't have yet
+                                               the census doesn't have yet
 
 <checkout> is a clone of the corpus (the xd repo's gxd/ directory). Only
 metadata leaves it: the publication names and URLs in its publications.tsv,
 and for each publication the number of .xd files and the years in their
 names. No puzzle content is read.
 
-Each catalog entry can carry a `corpus:` block:
+Each census entry can carry a `corpus:` block:
 
     corpus:
       id: latimes                 # the corpus directory (indie/<x>, student/<x> for those)

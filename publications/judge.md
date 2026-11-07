@@ -94,7 +94,7 @@ Open questions:
   wrong clues (St. Joseph Gazette, 1925-02-07): use them for clues only.
 - Who distributed the "Funnies"? Not named in E&P's Syndicate Directories:
   the run (January–May 1925) falls between the October 1924 and July 1925
-  directories (see `census/ep-crossword-features.csv`), and no ad or news
+  directories (see `universe/ep-crossword-features.csv`), and no ad or news
   item for it turned up in E&P's weekly issues of 1924-11-15 to 1925-03-07
   (OCR text searched for "Funnies" and "Judge", 2026-10-08). The copyright
   line on a clipping may name the distributor; so far it is recorded only as

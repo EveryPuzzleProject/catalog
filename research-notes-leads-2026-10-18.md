@@ -7,7 +7,7 @@ day; the rest is marked as unverified.
 ## 1. Generate entries in bulk, flagged as generated
 
 The catalog has 23 entries because entries are only made from hand-filed
-sightings, while `census/` already holds about 2,800 dailies a year and 678
+sightings, while `universe/` already holds about 2,800 dailies a year and 678
 E&P crossword features. Ideas, roughly in order of payoff:
 
 - One entry per publication in the gxd corpus, with first and last dates from

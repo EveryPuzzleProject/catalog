@@ -1,12 +1,12 @@
 """Build a by-year census of US newspapers from the Library of Congress
 US Newspaper Directory bulk MARC records.
 
-    python tools/census_loc.py [titles.xml]
+    python tools/universe_loc.py [titles.xml]
 
 Reads titles-20091130.xml (default: ../census-data/ next to this repo; get it
 from https://chronam-bib.s3.amazonaws.com/original_titles/titles-20091130.xml)
-and writes census/loc-titles.csv (one row per record) and
-census/loc-counts-by-year.csv (1880-2010). See census/README.md for the
+and writes universe/loc-titles.csv (one row per record) and
+universe/loc-counts-by-year.csv (1880-2010). See universe/README.md for the
 cleanup rules. Stdlib only.
 """
 import csv
@@ -213,7 +213,7 @@ def main(src: Path) -> int:
         spans(r, starts)
     S = lifetimes(rows)
 
-    out = Path("census")
+    out = Path("universe")
     out.mkdir(exist_ok=True)
     with open(out / "loc-titles.csv", "w", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
@@ -262,7 +262,7 @@ def main(src: Path) -> int:
             w.writerow([y] + [raw[y][f] for f in FREQS] + [sure[y][f] for f in FREQS]
                        + [round(est[y][f]) for f in FREQS]
                        + [round(english[y]["daily"]), round(english[y]["weekly"])])
-    print(f"{total} records, {len(rows)} distinct LCCNs -> census/loc-titles.csv, census/loc-counts-by-year.csv")
+    print(f"{total} records, {len(rows)} distinct LCCNs -> universe/loc-titles.csv, universe/loc-counts-by-year.csv")
     return 0
 
 

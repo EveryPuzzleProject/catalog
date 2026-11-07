@@ -5,24 +5,24 @@ names:
   - name: Associated Press Feature Service
     from: 1930
     to: 1940
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
   - name: AP Newsfeatures
     from: 1945
     to: 2000
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
 features:
   - feature: Crossword Puzzle(s) (daily)
     from: 1930
     to: 2000
     editors: J. (later G.) Van Cleft Cooper (1930s–1961); "Mrs. Van Cleft Cooper" (1970); Nina Cooper (1971–1991); Doug Cooper (1992–2000)
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
   - feature: Sunday Crossword, by Chet Currier
     from: 1979
     to: 1999
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
 copyright_lines: []
 sources:
-  - census/ep-crossword-features.csv
+  - universe/ep-crossword-features.csv
 ---
 
 The Associated Press's features arm sold a daily crossword for seventy years, made by

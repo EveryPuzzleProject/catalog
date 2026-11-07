@@ -10,7 +10,7 @@ archival work easier: when a copyright line says "Bell Syndicate" in 1963, or
 
 Each entry is `syndicates/<slug>.md`: YAML front matter (the facts) and free text
 (the evidence and what's left to check). A publication's `carries:` list (see the
-[catalog README](../README.md)) records which features it printed; these files
+[census README](../README.md)) records which features it printed; these files
 record the features themselves.
 
 ```yaml
@@ -26,7 +26,7 @@ features:                             # crosswords it distributed
     from: 1972
     to: 2000
     editors: Herb Ettenson (1975–1996); Wayne Robert Williams (1999–2000)
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
 copyright_lines:                      # exactly as printed, with where it was seen
   - line: "© 1924 The Ball Syndicate"
     seen: gxd latimes/1924/lat1924-11-27.xd
@@ -35,8 +35,8 @@ sources:
 ```
 
 Most facts for 1924–2000 come from Editor & Publisher's annual Syndicate Directory,
-extracted in [`census/ep-crossword-features.csv`](../census/ep-crossword-features.csv)
-(see [its notes](../census/ep-crossword-features.md)). After 2000 there is no such
+extracted in [`universe/ep-crossword-features.csv`](../universe/ep-crossword-features.csv)
+(see [its notes](../universe/ep-crossword-features.md)). After 2000 there is no such
 directory in hand, and the entries rest on press releases, articles and what's
 printed in the papers. Say which, and say how sure.
 

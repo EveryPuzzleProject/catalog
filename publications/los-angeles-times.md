@@ -142,7 +142,7 @@ Two different things ran under the LA Times name:
   specific sources are still to be recorded.
 
 **Syndication, from Editor & Publisher's Syndicate Directories**
-(`census/ep-crossword-features.csv`, archive.org items as cited there):
+(`universe/ep-crossword-features.csv`, archive.org items as cited there):
 
 - 1949 on: General Features Corporation (GFC) lists a crossword, by Maynard
   Nichols from 1950; from 1954 it also lists a "Daily Crossword" by Margaret

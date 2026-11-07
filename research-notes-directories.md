@@ -310,8 +310,8 @@ at 15 calls/min to get the first per-title "crossword seen" list.
 
 ## LoC census (2026-10-02)
 
-Built `census/` from the 2009 bulk MARC (`tools/census_loc.py`; details,
-caveats and sources in `census/README.md`).
+Built `universe/` from the 2009 bulk MARC (`tools/universe_loc.py`; details,
+caveats and sources in `universe/README.md`).
 - The flat ~5,300 dailies per year from the API come from naive date reading:
   one record per LCCN with unknown end digits widened (`1uuu` = 1999) gives
   5,082 / 5,085 / 4,900 for 1913 / 1925 / 1960. Other causes: 24,287 records
@@ -330,8 +330,8 @@ caveats and sources in `census/README.md`).
 
 ## E&P directories extracted (2026-10-02)
 - Crossword features from the E&P Syndicate Directory are in
-  `census/ep-crossword-features.csv` (678 rows; each row has its archive.org item id)
-  and are summarized in `census/ep-crossword-features.md`.
+  `universe/ep-crossword-features.csv` (678 rows; each row has its archive.org item id)
+  and are summarized in `universe/ep-crossword-features.md`.
 - The first directory was in the 1924-10-25 issue, not 10-18 (as the 1950 issue
   confirms). Directories ran from June to October through 1949, then in late July or
   early August.

@@ -5,15 +5,15 @@ names:
   - name: McNaught Syndicate
     from: 1975
     to: 1990
-    source: census/ep-crossword-features.csv (crossword listings only; the syndicate itself is older)
+    source: universe/ep-crossword-features.csv (crossword listings only; the syndicate itself is older)
 features:
   - feature: Crossword Puzzle, by Jesse Jacobs (named from 1984)
     from: 1975
     to: 1990
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
 copyright_lines: []
 sources:
-  - census/ep-crossword-features.csv
+  - universe/ep-crossword-features.csv
 ---
 
 Alex's list has McNaught among the older syndicates. E&P lists a McNaught crossword

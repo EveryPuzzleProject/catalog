@@ -9,7 +9,7 @@ features:
   - feature: Tribune Media Services daily, Sunday, Commuter and TV crosswords (as editor)
     from: 1999
     to: 2009
-    source: census/ep-crossword-features.csv (1999–2000); Inquirer 2010 (the 2009 end)
+    source: universe/ep-crossword-features.csv (1999–2000); Inquirer 2010 (the 2009 end)
   - feature: his own crosswords, word searches and cryptograms
     from: about 2010
     source: Inquirer 2010

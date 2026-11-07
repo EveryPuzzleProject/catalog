@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Render the catalog's web page, site/index.html, from publications/*.md,
-syndicates/*.md and universe.md. Served at https://everypuzzleproject.org/catalog/
+"""Render the census's web page, site/index.html, from publications/*.md,
+syndicates/*.md and universe.md. Served at https://everypuzzleproject.org/census/
 by .github/workflows/pages.yml.
 
     python tools/render.py
@@ -21,7 +21,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import build  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
-REPO = "https://github.com/EveryPuzzleProject/catalog"
+REPO = "https://github.com/EveryPuzzleProject/census"
 BLOB, TREE = f"{REPO}/blob/main/", f"{REPO}/tree/main/"
 NEW_ISSUE = f"{REPO}/issues/new?template="
 XD = '<a href="https://github.com/century-arcade/xdformat">xd</a>'
@@ -40,7 +40,7 @@ RESEARCH = [
     ("universe.md", "The known universe", "how many crosswords have been published, and what each number rests on"),
     ("first-runs.md", "The first runs, 1913–1924", "every paper known to have printed a crossword, from the New York World's first"),
     ("syndicates/", "Syndicates", "who distributed the puzzles: names, features, editors and copyright lines over time"),
-    ("census/", "Census spine", "every US newspaper by year (Library of Congress) and every crossword feature in Editor & Publisher, 1924–2000"),
+    ("universe/", "The universe's data", "every US newspaper by year (Library of Congress) and every crossword feature in Editor & Publisher, 1924–2000"),
     ("research-notes-college.md", "College and school papers", "a first survey of student papers and their archives"),
     ("bylines/", "Bylines and people", "who signed the puzzles, publication by publication"),
     ("research-notes-weekly-syndication.md", "Weekly papers and ready-print syndication", "who supplied the small weeklies"),
@@ -239,12 +239,12 @@ def main() -> int:
 
     page = f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Crossword Catalog</title>
+<title>The Crossword Census</title>
 <meta name="description" content="A census of every publication that has printed crosswords: {len(entries)} so far.">
 <link rel="stylesheet" href="https://everypuzzleproject.org/site.css">
 <style>
 .lede {{ font: 18px/1.5 var(--serif); max-width: 46em; }}
-.big {{ font: 600 44px/1.1 var(--serif); margin: 18px 0 4px; }}
+.big {{ font: 600 44px/1.1 var(--serif); margin: 4px 0 12px; }}
 .big small {{ font: 400 18px var(--sans); color: var(--muted); }}
 .statusbar {{ display: flex; height: 10px; border-radius: 3px; overflow: hidden; margin: 12px 0 6px; max-width: 46em; }}
 .legend {{ display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: 13px; color: var(--muted); }}
@@ -288,15 +288,15 @@ footer {{ margin-top: 40px; font-size: 13px; color: var(--muted); }}
 </style></head><body>
 <header class="epp-header"><div class="wrap">
   <a href="https://everypuzzleproject.org/">Every Puzzle Project</a>
-  <span class="epp-page">Catalog</span>
+  <span class="epp-page">Census</span>
   <nav><a href="{REPO}">Repo</a></nav>
 </div></header>
 <main class="wrap">
-<h1>Every publication that ever printed a crossword</h1>
-<p class="lede">A census in progress of the newspapers, magazines, books and websites that have run crosswords, from the
-first one in 1913 to today: when each ran them, where copies survive, and how far each is from being preserved.</p>
-
+<h1>The Crossword Census</h1>
 <p class="big">{len(entries)} publications <small>so far</small></p>
+<p class="lede">A census in progress of the newspapers, magazines, books and websites that have run crosswords, from the
+first one in 1913 to today: when each ran them, where copies survive, and how far each is from being preserved. It pairs
+with the {XD} Crossword Corpus: the census is what exists, the corpus is what we have.</p>
 <p class="lede">Against a floor of at most about <b>{uni["dailies"]}</b> US daily newspapers and <b>{uni["weeklies"]}</b> weeklies
 that existed since 1913, before a single magazine, book or website is counted. Each entry is made from evidence, not a guess:
 puzzles already in the {XD} Crossword Corpus, readers' sightings, and trade directories and research; the denominator is
@@ -307,7 +307,7 @@ counted from the Library of Congress newspaper directory, as <a href="{BLOB}univ
 {XD} Crossword Corpus.</p>
 
 <h2>Coverage by decade</h2>
-<p class="muted" style="font-size:14px">How many publications the catalog knows ran crosswords in each decade: the stated run,
+<p class="muted" style="font-size:14px">How many publications the census knows ran crosswords in each decade: the stated run,
 widened by sightings, plus the years of its puzzles in the corpus. Hatched cells are the blank regions of the map, where
 nothing is known yet. Syndicates (from <a href="{TREE}syndicates">syndicates/</a>, counted by their crossword features) are not
 publications and aren't in the {len(entries)}; their counts rest mostly on Editor &amp; Publisher's Syndicate Directory, which
@@ -361,7 +361,7 @@ rest of its run is unresearched), <i>archived</i> (its whole known run is in the
 </ul>
 
 <footer>Part of the <a href="https://everypuzzleproject.org/">Every Puzzle Project</a>. Built from
-<a href="{REPO}">EveryPuzzleProject/catalog</a> on {dt.date.today().isoformat()}. Metadata only: no puzzles are published here.</footer>
+<a href="{REPO}">EveryPuzzleProject/census</a> on {dt.date.today().isoformat()}. Metadata only: no puzzles are published here.</footer>
 </main>
 <script>
 const rows = [...document.querySelectorAll('#reg tbody tr')];

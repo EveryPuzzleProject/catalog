@@ -51,9 +51,9 @@ status: researched
 ---
 
 A weekly that ran the Western Newspaper Union (WNU) crossword for about 14
-months, January 1925 to March 1926. It is the catalog's first entry for a
+months, January 1925 to March 1926. It is the census's first entry for a
 ready-print weekly series, and WNU appears nowhere in the E&P Syndicate
-Directory extraction (`census/ep-crossword-features.csv`). See
+Directory extraction (`universe/ep-crossword-features.csv`). See
 [research-notes-weekly-syndication.md](../research-notes-weekly-syndication.md).
 
 The run, as found so far:
