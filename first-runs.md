@@ -47,7 +47,7 @@ they are on the record: E&P's first Syndicate Directory (1924-10-25) lists nine 
 by then the World was selling its puzzle formally), and a Metropolitan ad of
 1924-10-18 names client papers: the St. Louis Post-Dispatch, the Washington Post, the
 Cleveland Plain Dealer and others (see
-[census/ep-crossword-features.md](census/ep-crossword-features.md)). The syndicates
+[universe/ep-crossword-features.md](universe/ep-crossword-features.md)). The syndicates
 are in [syndicates/](syndicates/).
 
 Outside the US (secondary sources, unchecked): Pearson's Magazine, London, February

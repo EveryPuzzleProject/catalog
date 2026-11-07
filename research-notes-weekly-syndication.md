@@ -13,7 +13,7 @@ Alex DeJarnatt in the Newspapers.com Northeast Collection (library edition),
 
 ## Confirmed
 
-- **WNU is missing from the E&P extraction.** `census/ep-crossword-features.csv`
+- **WNU is missing from the E&P extraction.** `universe/ep-crossword-features.csv`
   (678 rows, 1924–2000) has no row mentioning Western Newspaper Union, under
   any spelling (checked 2026-10-18).
 - **What WNU sold.** WNU's "ready-print" (or "Printed Service") was a
@@ -31,7 +31,7 @@ Alex DeJarnatt in the Newspapers.com Northeast Collection (library edition),
 
 ## Why it matters
 
-- **Scale.** The LoC census (`census/`) estimates about 14,000 weeklies in
+- **Scale.** The LoC census (`universe/`) estimates about 14,000 weeklies in
   1925 against about 2,900 dailies. If WNU's crossword was part of the
   ready-print pages, it may have been the most widely printed crossword of
   the craze, almost entirely outside the dailies most research looks at.

@@ -5,41 +5,41 @@ names:
   - name: General Features Corporation
     from: 1949
     to: 1974
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
   - name: Los Angeles Times Syndicate
     from: 1972
     to: 2000
-    source: census/ep-crossword-features.csv (jointly with GFC 1973–74, "formerly General Features")
+    source: universe/ep-crossword-features.csv (jointly with GFC 1973–74, "formerly General Features")
 features:
   - feature: GFC Sunday Crossword, by Maynard Nichols (later Margaret Farrar and Betty Nichols)
     from: 1950
     to: 1974
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
   - feature: GFC Daily Crossword, by Margaret Farrar (with Maynard, then Betty Nichols, 1970–74)
     from: 1954
     to: 1974
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
   - feature: Los Angeles Times Crossword (daily and Sunday), by Margaret Farrar to 1983, then "Staff"
     from: 1975
     to: 2000
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
   - feature: Washington Post Cross Words, by Robert Gillespie
     from: 1975
     to: 1975
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
   - feature: Quote-Acrostic; Observer Crossword, by Charles Preston
     from: 1970
     to: 2000
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
   - feature: Coinword and Skil-Word (contests), by Margaret Farrar, then Robert Pearsall
     from: 1956
     to: 1979
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
 copyright_lines:
   - line: "Copyright General Features Corp."
     seen: LA Times, 1963-12-25, Newspapers.com, Alex DeJarnatt 2026-10-02
 sources:
-  - census/ep-crossword-features.csv
+  - universe/ep-crossword-features.csv
   - ../publications/los-angeles-times.md
 ---
 

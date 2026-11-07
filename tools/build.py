@@ -1,4 +1,4 @@
-"""Check every publication entry and rebuild the catalog table in README.md.
+"""Check every publication entry and rebuild the register table in README.md.
 
     python tools/build.py           check the entries and rewrite README.md's table
     python tools/build.py --check   only check the entries (pull requests)
@@ -21,7 +21,7 @@ STATUSES = {  # in pipeline order
     "corpus": "In the corpus: some or all of its puzzles are in the xd Crossword Corpus; the rest of its run is unresearched",
     "archived": "Archived: its whole known run is in the corpus",
 }
-START, END = "<!-- catalog:start -->", "<!-- catalog:end -->"
+START, END = "<!-- register:start -->", "<!-- register:end -->"
 CSTART, CEND = "<!-- census:start -->", "<!-- census:end -->"
 USTART, UEND = "<!-- universe:start -->", "<!-- universe:end -->"
 
@@ -125,7 +125,7 @@ def rollup(entries) -> str:
     held = sum((e.get("corpus") or {}).get("puzzles") or 0 for _, e in entries)
     pubs = sum(1 for _, e in entries if (e.get("corpus") or {}).get("puzzles"))
     lines += ["", f"Puzzles in entries that give a run and a yearly count: about {total:,}."
-              " This is a floor, not an estimate: it only counts what the catalog knows.",
+              " This is a floor, not an estimate: it only counts what the census knows.",
               "", f"Puzzles already preserved in the xd Crossword Corpus, from {pubs} of these publications: {held:,}"
               " (every series and mini the corpus files under the publication; syndicated features are not included)."]
     return "\n".join(lines)

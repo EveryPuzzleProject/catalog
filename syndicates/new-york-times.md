@@ -5,32 +5,32 @@ names:
   - name: New York Times Special Features (Syndicate)
     from: 1972
     to: 1979
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
   - name: New York Times News Service / Special Features
     from: 1980
     to: 1983
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
   - name: New York Times Syndication (Sales Corp.)
     from: 1984
     to: 2000
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
 features:
   - feature: New York Times Crossword (daily and Sunday)
     from: 1972
     to: 2000
     editors: Eugene T. Maleska (named 1978–1993); Will Shortz (1994–2000)
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
   - feature: Current Crostic, by Sylvia Levinsohn
     from: 1972
     to: 1974
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
   - feature: Crossword (Kids), from The New York Times Learning Network
     from: 1999
     to: 2000
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
 copyright_lines: []
 sources:
-  - census/ep-crossword-features.csv
+  - universe/ep-crossword-features.csv
 ---
 
 The Times sells its own puzzle to other papers, under a string of names for its

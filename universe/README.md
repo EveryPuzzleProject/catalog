@@ -1,7 +1,7 @@
-# Census spine: US newspapers by year (Library of Congress)
+# The universe's data: US newspapers by year (Library of Congress)
 
 A first pass at "every US newspaper, by year", built from the Library of
-Congress US Newspaper Directory's bulk MARC records by `tools/census_loc.py`.
+Congress US Newspaper Directory's bulk MARC records by `tools/universe_loc.py`.
 
 ## Files
 
@@ -22,7 +22,7 @@ Congress US Newspaper Directory's bulk MARC records by `tools/census_loc.py`.
   - `*_est`: the cleaned estimate (see below). **Use this one.**
   - `daily_est_english`, `weekly_est_english`: the estimate for English-language titles only.
 
-Regenerate with `python tools/census_loc.py [path/to/titles-20091130.xml]`
+Regenerate with `python tools/universe_loc.py [path/to/titles-20091130.xml]`
 (default path `../census-data/`; about a minute, stdlib only).
 
 ## Source

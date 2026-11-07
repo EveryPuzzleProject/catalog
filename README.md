@@ -1,13 +1,14 @@
-# Every Puzzle Project: Catalog
+# The Crossword Census
 
 A census of the publications that have printed crosswords: newspapers,
 magazines, books and websites, from the first one in 1913 to today. The goal
 is every one of them, with what's known about each: when it ran crosswords,
 who made them, where copies survive, and how far the project has got with
 getting them preserved. The census is nowhere near done, and this page says
-how far along it is.
+how far along it is. It pairs with the [xd](https://github.com/century-arcade/xdformat)
+Crossword Corpus: the census is what exists, the corpus is what we have.
 
-**Browse it at [everypuzzleproject.org/catalog](https://everypuzzleproject.org/catalog/)**:
+**Browse it at [everypuzzleproject.org/census](https://everypuzzleproject.org/census/)**:
 the count, a map of which decades and kinds are covered, and the register as a
 table you can sort and filter.
 
@@ -31,7 +32,7 @@ from three directions, roughly in order of how much it has yielded so far.
 1. **The corpus.** The [xd](https://github.com/century-arcade/xdformat)
    Crossword Corpus already holds puzzles from more than a hundred
    publications. Each of those is an entry here, with how many of its puzzles
-   the corpus has and from which years, so the catalog's count starts from
+   the corpus has and from which years, so the census's count starts from
    what has actually been preserved. (Seeded by `tools/corpus.py`, from the
    corpus's publication list and file names only.)
 2. **Reports.** Someone saw a crossword in a publication on a date. One
@@ -58,7 +59,7 @@ additions are welcome.
   its names over time, features, editors and copyright lines as printed, so a
   puzzle's credits can be read. Starts with an overview of the landscape from
   1924 to now.
-- **[Census spine](census/)**: the denominator's raw material. Every US
+- **[The universe's data](universe/)**: the denominator's raw material. Every US
   newspaper by year from the Library of Congress directory (checked against
   Ayer 1930 and Editor & Publisher), and every crossword feature in Editor &
   Publisher's Syndicate Directory, 1924–2000: 9 features in the first
@@ -79,12 +80,12 @@ additions are welcome.
 
 ## How to help
 
-- **[Report a puzzle](https://github.com/EveryPuzzleProject/catalog/issues/new?template=report-puzzle.yml).**
+- **[Report a puzzle](https://github.com/EveryPuzzleProject/census/issues/new?template=report-puzzle.yml).**
   Seen a crossword somewhere? Tell us the publication and the date. A link
   or photo helps, but a paper copy in front of you counts. One puzzle in June
   1994 tells us a publication ran crosswords then, and another in 1996 gives
   us a range.
-- **[Report a publication](https://github.com/EveryPuzzleProject/catalog/issues/new?template=report-publication.yml).**
+- **[Report a publication](https://github.com/EveryPuzzleProject/census/issues/new?template=report-publication.yml).**
   Know a newspaper, magazine, book or website that ran crosswords and isn't in
   the register? Tell us what you know about it.
 - **Fill in a gap.** Every entry marked *Unknown: can you help?* below
@@ -95,7 +96,7 @@ additions are welcome.
   the pencil icon to edit it (GitHub turns your edit into a pull request), or
   add what you found to its issue.
 - **Research with Claude.** Point your Claude at an entry or an open
-  [lead](https://github.com/EveryPuzzleProject/catalog/issues?q=is%3Aopen+label%3Alead)
+  [lead](https://github.com/EveryPuzzleProject/census/issues?q=is%3Aopen+label%3Alead)
   and ask it to find out when the publication ran crosswords and where
   scans exist, then open a pull request with what it found.
 
@@ -110,7 +111,7 @@ rest), *archived* (its whole known run is in the corpus). **In the corpus**
 counts every series the corpus files under the publication, minis included,
 and lists the years it has puzzles from.
 
-<!-- catalog:start -->
+<!-- register:start -->
 | Publication | Kind | Where | Crosswords | In the corpus | Scans | Status |
 |---|---|---|---|---|---|---|
 | [3Across](publications/3across.md) | other | US | 2001–2008 | 163 · 2001–2008 | **Unknown: can you help?** | corpus |
@@ -244,7 +245,7 @@ and lists the years it has puzzles from.
 | [The Tacoma Daily Ledger](publications/tacoma-daily-ledger.md) | newspaper | Tacoma, Washington | 1916–1917 · 7 sightings |  | [Newspapers.com](https://www.newspapers.com/) | lead |
 | [The TASIS Echo (TASIS The American School in England)](publications/tasis-echo.md) | newspaper | England | 2000–2002 |  | **Unknown: can you help?** | lead |
 | [The Ubyssey (University of British Columbia)](publications/the-ubyssey.md) | newspaper | Vancouver | 2025–ongoing · 1 sighting |  | **Unknown: can you help?** | lead |
-<!-- catalog:end -->
+<!-- register:end -->
 
 ## How an entry works
 
@@ -271,7 +272,7 @@ sightings:                # individual puzzles people have reported
   - date: 1994-06-18
     puzzle: by so-and-so
     seen: paper copy
-    report: https://github.com/EveryPuzzleProject/catalog/issues/1
+    report: https://github.com/EveryPuzzleProject/census/issues/1
 status: lead
 ---
 
@@ -306,5 +307,5 @@ these files whenever one changes (`python tools/build.py`). The `corpus`
 blocks are refreshed from a checkout of the corpus with
 `python tools/corpus.py <checkout>`; only names, counts and years are read,
 never puzzle content.
-The web page at everypuzzleproject.org/catalog is rendered from the same files
+The web page at everypuzzleproject.org/census/ is rendered from the same files
 by `python tools/render.py` (into `site/`) and deployed on every push to main.

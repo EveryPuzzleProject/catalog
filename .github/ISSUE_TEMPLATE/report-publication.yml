@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping complete the catalog! Fill in what you know; partial answers are fine.
+        Thanks for helping complete the census! Fill in what you know; partial answers are fine.
         Someone will check it and add an entry.
   - type: input
     id: name

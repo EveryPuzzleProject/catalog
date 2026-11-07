@@ -5,7 +5,7 @@ names:
   - name: Universal Press Syndicate
     from: 1984
     to: 2009
-    source: census/ep-crossword-features.csv (crosswords from 1984; the syndicate is older)
+    source: universe/ep-crossword-features.csv (crosswords from 1984; the syndicate is older)
   - name: Universal Uclick (Universal Press Syndicate and Uclick merged)
     from: 2009-07
     to: 2017
@@ -17,11 +17,11 @@ features:
   - feature: Kwik Kross (Puzzle Buffs International)
     from: 1984
     to: 1984
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
   - feature: The Universal Crossword
     from: 1997
     editors: Timothy Parker (named 1999–2000 in E&P; on leave 2016); David Steinberg (later)
-    source: census/ep-crossword-features.csv; https://en.wikipedia.org/wiki/Timothy_Parker_(puzzle_designer); https://en.wikipedia.org/wiki/David_Steinberg_(crossword_editor)
+    source: universe/ep-crossword-features.csv; https://en.wikipedia.org/wiki/Timothy_Parker_(puzzle_designer); https://en.wikipedia.org/wiki/David_Steinberg_(crossword_editor)
   - feature: USA Today Crossword
     editors: Timothy Parker (to 2016 or later); Erik Agard (from 2019-12-02, editing brought in house)
     source: https://www.andrewsmcmeel.com/?p=2188; https://fivethirtyeight.com/features/usa-todays-embattled-crossword-puzzle-editor-is-stepping-back-for-now

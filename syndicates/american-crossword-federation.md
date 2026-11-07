@@ -5,15 +5,15 @@ names:
   - name: American Crossword Federation
     from: 1990
     to: 2000
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
 features:
   - feature: The Newsday Crossword (New York Newsday Sunday Crossword in 1990), by Stanley Newman
     from: 1990
     to: 2000
-    source: census/ep-crossword-features.csv
+    source: universe/ep-crossword-features.csv
 copyright_lines: []
 sources:
-  - census/ep-crossword-features.csv
+  - universe/ep-crossword-features.csv
 ---
 
 Stan Newman's own outfit, listing the Newsday crossword he edited from 1990, a year
